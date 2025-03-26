@@ -6,7 +6,8 @@ document.addEventListener('DOMContentLoaded', function() {
   if (menuToggle && sidebar) {
     menuToggle.addEventListener('click', function() {
       sidebar.classList.toggle('hidden');
-      sidebar.classList.toggle('md:block');
+      // Toggle the hamburger/close icon
+      this.textContent = sidebar.classList.contains('hidden') ? '☰' : '✕';
     });
   }
   

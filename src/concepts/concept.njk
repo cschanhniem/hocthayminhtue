@@ -7,31 +7,26 @@ pagination:
 permalink: "concepts/{{ concept.id }}/"
 ---
 
-<nav class="mb-6 text-sm text-gray-600">
-  <a href="/" class="text-secondary hover:text-earth">Trang chủ</a> &gt; 
-  <span>{{ concept.label }}</span>
+<nav class="mb-6 text-sm text-gray-600 flex flex-wrap items-center">
+  <a href="/" class="text-secondary hover:text-earth">Trang chủ</a> 
+  <span class="mx-2">&gt;</span> 
+  <span class="font-medium">{{ concept.label }}</span>
 </nav>
 
 <article class="concept-content">
   <h1 class="text-3xl font-bold text-primary mb-6 pb-2 border-b-2 border-secondary">{{ concept.label }}</h1>
   
   {% if concept.id %}
-    {% set content_file = "../content/" + concept.id + ".md" %}
-    {% include content_file %}
+    {% set mdPath = "../content/" + concept.id + ".md" %}
+    {% set mdContent %}{% include mdPath %}{% endset %}
+    {% if mdContent %}
+      <div class="prose prose-stone max-w-none">
+        {{ mdContent | markdown | safe }}
+      </div>
+    {% else %}
+      <p class="text-gray-600">Nội dung đang được cập nhật...</p>
+    {% endif %}
   {% else %}
     <p class="text-gray-600">Nội dung đang được cập nhật...</p>
   {% endif %}
 </article>
-
-{% if concept.children and concept.children.length > 0 %}
-<div class="glass-card mt-8">
-  <h2 class="text-xl font-semibold text-primary mb-4">Các khái niệm liên quan</h2>
-  <ul class="space-y-2">
-    {% for child in concept.children %}
-      <li>
-        <a href="/concepts/{{ child.id }}/" class="nav-item">{{ child.label }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
-{% endif %}

@@ -4,9 +4,22 @@ module.exports = function(eleventyConfig) {
   let options = {
     html: true,
     breaks: true,
-    linkify: true
+    linkify: true,
+    typographer: true
   };
-  eleventyConfig.setLibrary("md", markdownIt(options));
+  let md = markdownIt(options);
+  eleventyConfig.setLibrary("md", md);
+  
+  // Add markdown filter for templates
+  eleventyConfig.addFilter("markdown", function(content) {
+    return md.render(content);
+  });
+
+  // Add passthrough for UTF-8 filenames
+  eleventyConfig.setUseGitIgnore(false);
+  eleventyConfig.addPassthroughCopy({
+    "src/content/*.md": "content"
+  });
 
   // Copy static assets
   eleventyConfig.addPassthroughCopy("src/js");

@@ -105,6 +105,7 @@
     text-decoration: none;
     font-weight: 500;
     transition: all 0.3s ease;
+    display: block;
   }
 
   .nav-item::after {
@@ -122,6 +123,10 @@
   .nav-item:hover::after,
   .nav-item.active::after {
     width: 80%;
+  }
+
+  #sidebar {
+    transition: all 0.3s ease;
   }
 
   .tree-container {

@@ -1,115 +1,67 @@
+---
+layout: layouts/base.njk
+title: Thân Niệm Xứ
+---
 # Thân Niệm Xứ
 
-Thân Niệm Xứ (Kāyānupassanā) là phần đầu tiên trong Tứ Niệm Xứ, tập trung vào việc quán sát thân thể và các hoạt động của thân để thấy rõ bản chất thật của nó.
+Thân Niệm Xứ (Kāyānupassanā) là phần đầu tiên trong Tứ Niệm Xứ. Trong Kinh Niệm Xứ (Satipaṭṭhāna Sutta), Đức Phật dạy có sáu phần quán thân:
 
-## Các Đối Tượng Quán Niệm
+## 1. Quán Niệm Hơi Thở (Ānāpānasati)
 
-### 1. Quán Niệm Hơi Thở (Ānāpānasati)
-- Hơi thở vào dài/ngắn
-- Hơi thở ra dài/ngắn
-- Toàn thân hơi thở
-- An tịnh thân hành
+> "Này các Tỷ-kheo, ở đây Tỷ-kheo đi đến khu rừng, đến gốc cây, hay đến ngôi nhà trống, ngồi kiết già, lưng thẳng và an trú chánh niệm trước mặt. Chánh niệm, vị ấy thở vô; chánh niệm, vị ấy thở ra."
 
-### 2. Quán Niệm Tư Thế (Iriyāpatha)
-- Đi, biết mình đang đi
-- Đứng, biết mình đang đứng
-- Nằm, biết mình đang nằm
-- Ngồi, biết mình đang ngồi
+Quán sát:
+- **Hơi thở dài** (Dīghaṃ): "Thở vô dài, vị ấy biết: 'Tôi thở vô dài'"
+- **Hơi thở ngắn** (Rassaṃ): "Thở vô ngắn, vị ấy biết: 'Tôi thở vô ngắn'"
+- **Toàn thân hơi thở** (Sabbakāya): "Cảm giác toàn thân, tôi sẽ thở vô"
+- **An tịnh thân hành** (Passambhayaṃ kāyasaṅkhāraṃ): "An tịnh thân hành, tôi sẽ thở vô"
 
-### 3. Quán Niệm Oai Nghi Tế Hạnh (Sampajañña)
-- Khi đi tới, đi lui
-- Khi nhìn trước, nhìn sau
-- Khi co tay, duỗi tay
-- Khi mặc y, mang bát
+## 2. Quán Niệm Tư Thế (Iriyāpatha)
 
-### 4. Quán Niệm Thân Phần (Paṭikūlamanasikāra)
-- 32 thể trược của thân
-- Từ tóc đến móng chân
-- Từ da đến xương tủy
-- Các chất trong thân
+> "Lại nữa, này các Tỷ-kheo, Tỷ-kheo:
+> - Khi đi, biết rõ: 'Tôi đang đi' (gacchanto vā gacchāmī'ti)
+> - Khi đứng, biết rõ: 'Tôi đang đứng' (ṭhito vā ṭhitomhī'ti)
+> - Khi ngồi, biết rõ: 'Tôi đang ngồi' (nisinno vā nisinnomhī'ti)
+> - Khi nằm, biết rõ: 'Tôi đang nằm' (sayāno vā sayānomhī'ti)"
 
-### 5. Quán Niệm Tứ Đại (Dhātumanasikāra)
-- Địa đại (yếu tố cứng)
-- Thủy đại (yếu tố lỏng)
-- Hỏa đại (yếu tố nhiệt)
-- Phong đại (yếu tố chuyển động)
+## 3. Quán Niệm Tỉnh Giác (Sampajañña)
 
-### 6. Quán Niệm Tử Thi (Navasivathika)
-- Thi thể mới chết
-- Thi thể sình trương
-- Thi thể tan rã
-- Thi thể chỉ còn xương
+> "Lại nữa, này các Tỷ-kheo, Tỷ-kheo:
+> - Khi đi tới, đi lui, biết rõ việc mình đang làm
+> - Khi nhìn trước, nhìn sau, biết rõ việc mình đang làm
+> - Khi co tay, duỗi tay, biết rõ việc mình đang làm
+> - Khi mang y, đắp y, biết rõ việc mình đang làm"
 
-## Lời Phật Dạy
+## 4. Quán Thân Bất Tịnh (Paṭikūlamanasikāra)
 
-Trong Kinh Niệm Xứ, Đức Phật dạy:
+> "Lại nữa, này các Tỷ-kheo, Tỷ-kheo quán sát thân này từ gót chân trở lên, từ đỉnh tóc trở xuống, được da bọc, đầy những vật bất tịnh sai biệt: 'Trong thân này có tóc, lông, móng, răng, da, thịt, gân, xương, tủy, thận, tim, gan, hoành cách mô, lá lách, phổi, ruột, màng ruột, bao tử, phân, mật, đàm, mủ, máu, mồ hôi, mỡ, nước mắt, mỡ da, nước miếng, nước mũi, nước ở khớp xương, nước tiểu.'"
 
-> "Này các Tỳ kheo, thế nào là Tỳ kheo sống quán thân trên thân? Ở đây, Tỳ kheo đi đến khu rừng, đi đến gốc cây, hay đi đến ngôi nhà trống, ngồi kiết già, lưng thẳng và an trú chánh niệm trước mặt."
+## 5. Quán Tứ Đại (Dhātumanasikāra)
 
-## Phương Pháp Thực Hành
+> "Lại nữa, này các Tỷ-kheo, Tỷ-kheo quán sát thân này về vị trí các giới và sự sắp đặt các giới: 'Trong thân này có:
+> - **Địa đại** (Pathavīdhātu): đất
+> - **Thủy đại** (Āpodhātu): nước
+> - **Hỏa đại** (Tejodhātu): lửa
+> - **Phong đại** (Vāyodhātu): gió'"
 
-### 1. Chuẩn Bị
-- Chọn tư thế thích hợp
-- Giữ thân thẳng tự nhiên
-- An trú chánh niệm
+## 6. Chín Quán Tử Thi (Navasivathika)
 
-### 2. Quán Sát
-- Nhận biết rõ ràng
-- Không thêm bớt
-- Duy trì tỉnh giác
+> "Lại nữa, này các Tỷ-kheo, Tỷ-kheo như thấy một thi thể bị quăng bỏ trong nghĩa địa một ngày, hai ngày, ba ngày, thi thể ấy trương phồng lên, xanh đen lại, nát thối ra. Tỷ-kheo quán thân mình như sau: 'Thân này tánh chất là như vậy, bản tánh là như vậy, không vượt khỏi tánh chất ấy.'"
 
-### 3. Phát Triển
-- Từ thô đến tế
-- Từ bề ngoài vào bên trong
-- Từ dễ đến khó
+## Phương Pháp Thực Hành Chung
 
-## Lợi Ích của Thực Hành
+> "Như vậy, vị ấy sống quán thân trên nội thân; hay sống quán thân trên ngoại thân; hay sống quán thân trên cả nội thân, ngoại thân. Vị ấy sống quán tánh sanh khởi trên thân; hay sống quán tánh diệt tận trên thân; hay sống quán tánh sanh diệt trên thân."
 
-### 1. Đối Với Thân
-- Thân được thư giãn
-- Giảm bệnh tật
-- Tăng sức khỏe
+### Ba Giai Đoạn
+1. **Nội quán** (Ajjhatta): Quán sát thân của chính mình
+2. **Ngoại quán** (Bahiddhā): Quán sát thân của người khác
+3. **Nội ngoại quán** (Ajjhattabahiddhā): Quán sát cả hai
 
-### 2. Đối Với Tâm
-- Tâm được định tĩnh
-- Giảm phiền não
-- Tăng trí tuệ
+## Kết Quả
 
-### 3. Đối Với Tu Tập
-- Nền tảng thiền định
-- Phát triển tuệ giác
-- Hướng đến giải thoát
+> "Vị ấy sống không nương tựa, không chấp trước một vật gì trên đời. Này các Tỷ-kheo, như vậy là Tỷ-kheo sống quán thân trên thân."
 
-## Chướng Ngại và Cách Vượt Qua
-
-### 1. Thân Thể
-- Đau nhức
-- Mệt mỏi
-- Bệnh tật
-
-### 2. Tâm Lý
-- Buồn ngủ
-- Tán loạn
-- Phóng tâm
-
-### 3. Cách Khắc Phục
-- Điều chỉnh tư thế
-- Duy trì tỉnh giác
-- Kiên trì thực hành
-
-## Kết Quả Tu Tập
-
-### 1. Giai Đoạn Đầu
-- Thân an lạc
-- Tâm tĩnh lặng
-- Chánh niệm tỉnh giác
-
-### 2. Giai Đoạn Giữa
-- Thấy rõ vô thường
-- Hiểu về vô ngã
-- Buông xả chấp thủ
-
-### 3. Giai Đoạn Cuối
-- Thấy rõ thực tướng
-- Giải thoát thân kiến
-- Chứng ngộ chân lý
+Thực hành đúng đắn sẽ đưa đến:
+1. **Chánh niệm** (Sati): Tỉnh giác về thân
+2. **Chánh trí** (Ñāṇa): Thấy rõ bản chất của thân
+3. **Vô chấp thủ** (Anissito): Không dính mắc vào thân

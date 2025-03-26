@@ -1,114 +1,72 @@
+---
+layout: layouts/base.njk
+title: Tứ Niệm Xứ
+---
 # Tứ Niệm Xứ
 
-Tứ Niệm Xứ (Satipaṭṭhāna) là bốn lãnh vực quán niệm căn bản trong thiền tuệ, được Đức Phật dạy như là con đường trực tiếp đưa đến giác ngộ và giải thoát.
+Tứ Niệm Xứ (Satipaṭṭhāna) là bốn nền tảng của niệm. Trong Kinh Niệm Xứ (Satipaṭṭhāna Sutta), Đức Phật dạy:
 
-## Định Nghĩa
+> "Này các Tỷ-kheo, đây là con đường độc nhất đưa đến thanh tịnh cho chúng sanh, vượt khỏi sầu bi, diệt trừ khổ ưu, thành tựu chánh trí, chứng ngộ Niết-bàn (Nibbāna). Đó là Bốn Niệm Xứ."
 
-Tứ Niệm Xứ bao gồm:
-1. Quán thân trong thân (Kāyānupassanā)
-2. Quán thọ trong thọ (Vedanānupassanā)
-3. Quán tâm trong tâm (Cittānupassanā)
-4. Quán pháp trong pháp (Dhammānupassanā)
+## Định Nghĩa và Phương Pháp
 
-## Lời Phật Dạy
+Đức Phật chỉ dạy phương pháp thực hành cho mỗi niệm xứ như sau:
 
-Trong Kinh Niệm Xứ (Satipaṭṭhāna Sutta), Đức Phật dạy:
+### 1. Quán Thân Trong Thân (Kāyānupassanā)
 
-> "Này các Tỳ kheo, đây là con đường độc nhất đưa đến thanh tịnh cho chúng sinh, vượt khỏi sầu bi, diệt trừ khổ ưu, thành tựu chánh trí, chứng ngộ Niết-bàn. Đó là Bốn Niệm Xứ."
+> "Này các Tỷ-kheo, thế nào là Tỷ-kheo sống quán thân trên thân? Ở đây, Tỷ-kheo đi đến khu rừng, đi đến gốc cây, hay đi đến ngôi nhà trống, ngồi kiết-già, lưng thẳng và an trú chánh niệm trước mặt."
 
-## Bốn Lãnh Vực Quán Niệm
+Bao gồm:
+- **Niệm hơi thở** (Ānāpānasati)
+- **Quán tứ oai nghi** (Iriyāpatha): đi, đứng, nằm, ngồi
+- **Quán tỉnh giác** (Sampajañña): trong mọi động tác
+- **Quán thân bất tịnh** (Paṭikkūlamanasikāra): 32 thân phần
+- **Quán tứ đại** (Dhātumanasikāra): đất, nước, gió, lửa
+- **Quán chín tướng tử thi** (Navasivathika)
 
-### 1. Thân Niệm Xứ
-- Quán niệm hơi thở
-- Quán niệm tư thế thân
-- Quán niệm oai nghi tế hạnh
-- Quán niệm thân phần bất tịnh
-- Quán niệm tứ đại
-- Quán niệm tử thi
+### 2. Quán Thọ Trong Thọ (Vedanānupassanā)
 
-### 2. Thọ Niệm Xứ
-- Quán niệm lạc thọ
-- Quán niệm khổ thọ
-- Quán niệm xả thọ
-- Quán niệm thọ thuộc thân/tâm
-- Quán niệm thọ thế gian/xuất thế
+> "Này các Tỷ-kheo, thế nào là Tỷ-kheo sống quán thọ trên các thọ? Ở đây, Tỷ-kheo khi cảm giác lạc thọ, vị ấy biết rõ: 'Tôi cảm giác lạc thọ'; khi cảm giác khổ thọ, vị ấy biết rõ: 'Tôi cảm giác khổ thọ'..."
 
-### 3. Tâm Niệm Xứ
-- Tâm có/không tham
-- Tâm có/không sân
-- Tâm có/không si
-- Tâm thâu nhiếp/tán loạn
-- Tâm đại hành/không đại hành
-- Tâm vô thượng/hữu thượng
-- Tâm định/không định
-- Tâm giải thoát/không giải thoát
+Quán sát:
+- **Lạc thọ** (Sukhā-vedanā)
+- **Khổ thọ** (Dukkhā-vedanā)
+- **Bất khổ bất lạc thọ** (Adukkhamasukhā-vedanā)
+- **Thọ vật chất/tinh thần** (Sāmisa/Nirāmisa)
 
-### 4. Pháp Niệm Xứ
-- Quán năm triền cái
-- Quán năm thủ uẩn
-- Quán sáu nội ngoại xứ
-- Quán bảy giác chi
-- Quán bốn thánh đế
+### 3. Quán Tâm Trong Tâm (Cittānupassanā)
 
-## Phương Pháp Thực Hành
+> "Này các Tỷ-kheo, thế nào là Tỷ-kheo sống quán tâm trên tâm? Ở đây, Tỷ-kheo khi tâm có tham, biết rõ: 'Tâm có tham'; khi tâm không tham, biết rõ: 'Tâm không tham'..."
 
-### 1. Chuẩn Bị
-- Chọn nơi thanh vắng
-- Tư thế thích hợp
-- Tâm chánh niệm
+Quán sát tâm:
+- Có/không **tham** (Sarāga/Vītarāga)
+- Có/không **sân** (Sadosa/Vītadosa)
+- Có/không **si** (Samoha/Vītamoha)
+- **Thâu nhiếp/tán loạn** (Saṅkhitta/Vikkhitta)
+- **Đại hành/không đại hành** (Mahaggata/Amahaggata)
+- Có/không **định** (Samāhita/Asamāhita)
+- **Giải thoát/không giải thoát** (Vimutta/Avimutta)
 
-### 2. Thực Hành
-- Theo dõi đối tượng
-- Duy trì chánh niệm
-- Không phán xét
+### 4. Quán Pháp Trong Pháp (Dhammānupassanā)
 
-### 3. Khai Triển
-- Từ thô đến tế
-- Từ dễ đến khó
-- Liên tục tinh tấn
+> "Này các Tỷ-kheo, thế nào là Tỷ-kheo sống quán pháp trên các pháp? Ở đây, Tỷ-kheo sống quán pháp trên các pháp đối với Năm Triền Cái..."
 
-## Lợi Ích của Tu Tập
+Quán sát:
+- **Năm triền cái** (Pañca-nīvaraṇa)
+- **Năm thủ uẩn** (Pañc-upādāna-kkhandha)
+- **Sáu nội ngoại xứ** (Āyatana)
+- **Bảy giác chi** (Bojjhaṅga)
+- **Bốn thánh đế** (Ariya-sacca)
 
-### 1. Hiện Tại
-- Tâm an lạc
-- Giảm phiền não
-- Tăng trí tuệ
+## Phương Pháp Thực Hành Chung
 
-### 2. Tương Lai
-- Đoạn trừ vọng tưởng
-- Phát triển định tuệ
-- Hướng đến giải thoát
+> "Này các Tỷ-kheo, vị ấy sống quán tánh sinh khởi... tánh đoạn diệt... tánh sinh diệt trên [đối tượng]. Vị ấy an trú chánh niệm: 'Có [đối tượng]', chỉ với mục đích quán tri và chánh niệm. Và vị ấy sống không nương tựa, không chấp trước bất cứ gì ở đời."
 
-### 3. Tối Hậu
-- Thấy rõ thực tướng
-- Đoạn trừ lậu hoặc
-- Giải thoát viên mãn
+Ba giai đoạn:
+1. **Quán sinh** (Samudaya): thấy rõ sự sinh khởi
+2. **Quán diệt** (Vaya): thấy rõ sự hoại diệt
+3. **Quán sinh diệt** (Samudaya-vaya): thấy rõ cả hai
 
-## Chướng Ngại và Giải Pháp
+## Kết Quả Tu Tập
 
-### 1. Chướng Ngại
-- Tâm tán loạn
-- Hôn trầm thụy miên
-- Phóng tâm
-
-### 2. Giải Pháp
-- Duy trì tinh tấn
-- Điều chỉnh phương pháp
-- Kiên trì thực hành
-
-## Kết Quả Viên Mãn
-
-### 1. Thân
-- Thấy rõ thân vô thường
-- Không chấp thân
-- Giải thoát thân kiến
-
-### 2. Tâm
-- Thấy rõ tâm vô thường
-- Không chấp tâm
-- Giải thoát ngã kiến
-
-### 3. Giải Thoát
-- Đoạn trừ phiền não
-- Chứng ngộ vô ngã
-- Thành tựu giải thoát
+> "Này các Tỷ-kheo, ai tu tập Bốn Niệm Xứ này như vậy trong bảy năm, vị ấy có thể chứng một trong hai quả sau đây: Một là chứng Chánh trí ngay trong hiện tại, hay nếu còn dư y, thì chứng quả Bất hoàn."

@@ -1,143 +1,68 @@
+---
+layout: layouts/base.njk
+title: Tâm Niệm Xứ
+---
 # Tâm Niệm Xứ
 
-Tâm Niệm Xứ (Cittānupassanā) là phần thứ ba trong Tứ Niệm Xứ, tập trung vào việc quán sát các trạng thái tâm để thấy rõ bản chất vô thường và vô ngã của tâm.
+Tâm Niệm Xứ (Cittānupassanā) là phần thứ ba trong Tứ Niệm Xứ. Trong Kinh Niệm Xứ (Satipaṭṭhāna Sutta), Đức Phật dạy:
 
-## Định Nghĩa
+> "Này các Tỷ-kheo, thế nào là Tỷ-kheo sống quán tâm trên tâm? Ở đây, Tỷ-kheo:
+> - Với tâm có tham, biết rõ 'Tâm có tham' (sarāgaṃ cittaṃ)
+> - Với tâm không tham, biết rõ 'Tâm không tham' (vītarāgaṃ cittaṃ)
+> - Với tâm có sân, biết rõ 'Tâm có sân' (sadosaṃ cittaṃ)
+> - Với tâm không sân, biết rõ 'Tâm không sân' (vītadosaṃ cittaṃ)
+> - Với tâm có si, biết rõ 'Tâm có si' (samohaṃ cittaṃ)
+> - Với tâm không si, biết rõ 'Tâm không si' (vītamohaṃ cittaṃ)"
 
-Tâm Niệm Xứ là sự theo dõi, quán sát các trạng thái tâm khi chúng sinh khởi, tồn tại và hoại diệt. Đây là phương pháp trực tiếp nhận diện và hiểu rõ về tâm.
+## Mười Sáu Trạng Thái Tâm
 
-## Lời Phật Dạy
+Theo Kinh điển, có 16 trạng thái tâm cần quán sát:
 
-Trong Kinh Niệm Xứ, Đức Phật dạy:
+### 1. Căn Bản Phiền Não
+1. **Tâm có tham** (Sarāgaṃ cittaṃ)
+2. **Tâm không tham** (Vītarāgaṃ cittaṃ)
+3. **Tâm có sân** (Sadosaṃ cittaṃ)
+4. **Tâm không sân** (Vītadosaṃ cittaṃ)
+5. **Tâm có si** (Samohaṃ cittaṃ)
+6. **Tâm không si** (Vītamohaṃ cittaṃ)
 
-> "Này các Tỳ kheo, thế nào là Tỳ kheo sống quán tâm trên tâm? Ở đây, Tỳ kheo khi tâm có tham, biết rõ 'Tâm có tham'; khi tâm không tham, biết rõ 'Tâm không tham'... khi tâm định, biết rõ 'Tâm định'; khi tâm không định, biết rõ 'Tâm không định'."
+### 2. Trạng Thái Tu Tập
+7. **Tâm thâu nhiếp** (Saṅkhittaṃ cittaṃ)
+8. **Tâm tán loạn** (Vikkhittaṃ cittaṃ)
+9. **Tâm đại hành** (Mahāggataṃ cittaṃ)
+10. **Tâm không đại hành** (Amahāggataṃ cittaṃ)
+11. **Tâm hữu thượng** (Sa-uttaraṃ cittaṃ)
+12. **Tâm vô thượng** (Anuttaraṃ cittaṃ)
 
-## Các Trạng Thái Tâm Cần Quán Sát
-
-### 1. Theo Phiền Não
-- **Tâm tham/không tham**
-  - Nhận diện tham ái
-  - Hiểu rõ nguyên nhân
-  - Thấy sự đoạn diệt
-
-- **Tâm sân/không sân**
-  - Nhận diện sân hận
-  - Hiểu rõ tác hại
-  - Phát triển tâm từ
-
-- **Tâm si/không si**
-  - Nhận diện si mê
-  - Thấy rõ vô minh
-  - Phát triển trí tuệ
-
-### 2. Theo Trạng Thái
-- **Tâm thâu nhiếp/tán loạn**
-  - Định tĩnh hay phóng dật
-  - Tập trung hay tán loạn
-  - An định hay dao động
-
-- **Tâm quảng đại/hạn hẹp**
-  - Tâm phát triển hay thu hẹp
-  - Tâm bao dung hay hạn chế
-  - Tâm rộng lớn hay nhỏ hẹp
-
-- **Tâm vô thượng/hữu thượng**
-  - Tâm cao thượng hay thấp kém
-  - Tâm xuất thế hay thế gian
-  - Tâm giải thoát hay trói buộc
-
-### 3. Theo Thiền Định
-- **Tâm định/không định**
-  - Trạng thái thiền định
-  - Mức độ tập trung
-  - Sự an tịnh của tâm
-
-- **Tâm giải thoát/không giải thoát**
-  - Mức độ buông xả
-  - Sự tự tại
-  - Giải thoát khỏi phiền não
+### 3. Định và Giải Thoát
+13. **Tâm định** (Samāhitaṃ cittaṃ)
+14. **Tâm không định** (Asamāhitaṃ cittaṃ)
+15. **Tâm giải thoát** (Vimuttaṃ cittaṃ)
+16. **Tâm không giải thoát** (Avimuttaṃ cittaṃ)
 
 ## Phương Pháp Thực Hành
 
-### 1. Chuẩn Bị
-- Giữ thân yên tĩnh
-- Tâm tỉnh giác
-- Chánh niệm hiện tiền
+> "Như vậy, vị ấy sống quán tâm trên nội tâm; hay sống quán tâm trên ngoại tâm; hay sống quán tâm trên cả nội tâm, ngoại tâm. Vị ấy sống quán tánh sanh khởi trên tâm; hay sống quán tánh diệt tận trên tâm; hay sống quán tánh sanh diệt trên tâm."
 
-### 2. Thực Hành
-- Đơn thuần quán sát
-- Không phán xét
-- Không can thiệp
+### Ba Giai Đoạn Quán Tâm
+1. **Nội quán** (Ajjhatta): Quán sát tâm của chính mình
+2. **Ngoại quán** (Bahiddhā): Quán sát tâm của người khác
+3. **Nội ngoại quán** (Ajjhattabahiddhā): Quán sát cả hai
 
-### 3. Phát Triển
-- Thấy rõ sinh diệt
-- Hiểu bản chất vô thường
-- Buông xả chấp thủ
+### Ba Tính Chất của Tâm
+1. **Sinh khởi** (Samudaya): Thấy rõ nguyên nhân và sự sinh khởi của tâm
+2. **Hoại diệt** (Vaya): Thấy rõ sự diệt mất của tâm
+3. **Sinh diệt** (Samudayavaya): Thấy rõ cả sinh và diệt của tâm
 
-## Tiến Trình Tu Tập
+## Mục Đích và Kết Quả
 
-### 1. Giai Đoạn Đầu
-- Nhận diện trạng thái tâm
-- Ghi nhận sự thay đổi
-- Duy trì chánh niệm
+> "Vị ấy an trú chánh niệm 'Có tâm đây', với mục đích củng cố chánh niệm và chánh trí. Và vị ấy sống không nương tựa, không chấp trước một vật gì trên đời."
 
-### 2. Giai Đoạn Giữa
-- Thấy rõ vô thường
-- Hiểu sâu về tâm
-- Phát triển trí tuệ
+Thực hành Tâm Niệm Xứ nhằm:
+1. **Chánh niệm** (Sati): Duy trì sự tỉnh giác về các trạng thái tâm
+2. **Chánh trí** (Ñāṇa): Phát triển trí tuệ thấy rõ bản chất vô thường của tâm
+3. **Không chấp thủ** (Anissito): Sống không nương tựa vào bất cứ điều gì trên đời
 
-### 3. Giai Đoạn Cuối
-- Không đồng hóa với tâm
-- Tự tại với mọi trạng thái
-- Giải thoát khỏi chấp thủ
+## Kết Quả Tối Hậu
 
-## Lợi Ích của Thực Hành
-
-### 1. Hiểu Biết Tâm
-- Thấy rõ bản chất tâm
-- Hiểu được sự vận hành
-- Làm chủ được tâm
-
-### 2. Chuyển Hóa Tâm
-- Giảm thiểu phiền não
-- Tăng trưởng thiện pháp
-- Phát triển trí tuệ
-
-### 3. Giải Thoát
-- Buông xả chấp thủ
-- Tự tại với tâm
-- Hướng đến Niết-bàn
-
-## Chướng Ngại và Cách Vượt Qua
-
-### 1. Chướng Ngại
-- Đồng hóa với tâm
-- Phán xét, can thiệp
-- Mất chánh niệm
-
-### 2. Cách Khắc Phục
-- Duy trì tỉnh giác
-- Quán chiếu vô thường
-- Thực hành liên tục
-
-### 3. Điều Kiện Thuận Lợi
-- Môi trường yên tĩnh
-- Thời gian thích hợp
-- Thân tâm an ổn
-
-## Kết Quả Viên Mãn
-
-### 1. Tự Tại với Tâm
-- Không bị tâm chi phối
-- Làm chủ được tâm
-- An lạc nội tại
-
-### 2. Trí Tuệ
-- Thấy rõ bản chất tâm
-- Hiểu sâu về vô ngã
-- Giác ngộ chân lý
-
-### 3. Giải Thoát
-- Đoạn trừ phiền não
-- Thoát khỏi sinh tử
-- Chứng đắc Niết-bàn
+> "Này các Tỷ-kheo, ai tu tập Bốn Niệm Xứ này như vậy trong bảy năm... bảy tháng... bảy ngày, vị ấy có thể chứng được một trong hai quả sau đây: Một là chứng Chánh trí ngay trong hiện tại, hay nếu còn dư y, thì chứng quả Bất hoàn."

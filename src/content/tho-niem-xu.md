@@ -1,111 +1,63 @@
+---
+layout: layouts/base.njk
+title: Thọ Niệm Xứ
+---
 # Thọ Niệm Xứ
 
-Thọ Niệm Xứ (Vedanānupassanā) là phần thứ hai trong Tứ Niệm Xứ, tập trung vào việc quán sát các cảm thọ để thấy rõ bản chất vô thường, khổ, vô ngã của chúng.
+Thọ Niệm Xứ (Vedanānupassanā) là phần thứ hai trong Tứ Niệm Xứ. Trong Kinh Niệm Xứ (Satipaṭṭhāna Sutta), Đức Phật dạy:
 
-## Định Nghĩa
+> "Này các Tỷ-kheo, thế nào là Tỷ-kheo sống quán thọ trên các thọ? Ở đây, này các Tỷ-kheo:
+> - Khi cảm giác lạc thọ, vị ấy biết rõ: 'Tôi cảm giác lạc thọ'
+> - Khi cảm giác khổ thọ, vị ấy biết rõ: 'Tôi cảm giác khổ thọ'
+> - Khi cảm giác bất khổ bất lạc thọ, vị ấy biết rõ: 'Tôi cảm giác bất khổ bất lạc thọ'"
 
-Thọ (Vedanā) là những cảm giác, cảm nhận sinh khởi khi các giác quan tiếp xúc với đối tượng. Có ba loại thọ chính:
-1. Lạc thọ (Sukha-vedanā)
-2. Khổ thọ (Dukkha-vedanā)
-3. Xả thọ (Upekkhā-vedanā)
+## Phân Loại Thọ Theo Kinh Điển
 
-## Lời Phật Dạy
-
-Trong Kinh Niệm Xứ, Đức Phật dạy:
-
-> "Này các Tỳ kheo, thế nào là Tỳ kheo sống quán thọ trên các thọ? Ở đây, Tỳ kheo khi cảm giác lạc thọ, vị ấy biết rõ: 'Tôi cảm giác lạc thọ'; khi cảm giác khổ thọ, vị ấy biết rõ: 'Tôi cảm giác khổ thọ'; khi cảm giác bất khổ bất lạc thọ, vị ấy biết rõ: 'Tôi cảm giác bất khổ bất lạc thọ'."
-
-## Phân Loại Cảm Thọ
-
-### 1. Theo Tính Chất
-- **Lạc thọ**: Cảm giác dễ chịu
-- **Khổ thọ**: Cảm giác khó chịu
-- **Xả thọ**: Cảm giác trung tính
+### 1. Theo Cảm Giác Chính
+1. **Lạc thọ** (Sukhā-vedanā): Cảm giác dễ chịu, vui sướng
+2. **Khổ thọ** (Dukkhā-vedanā): Cảm giác khó chịu, đau đớn
+3. **Bất khổ bất lạc thọ** (Adukkhamasukhā-vedanā): Cảm giác trung tính
 
 ### 2. Theo Nguồn Gốc
-- **Thọ về thân**: Từ thân xúc
-- **Thọ về tâm**: Từ ý xúc
+1. **Thọ do thân xúc** (Kāyasamphassajā-vedanā)
+   - **Lạc thân thọ** (Kāyikaṃ sātaṃ)
+   - **Khổ thân thọ** (Kāyikaṃ asātaṃ)
 
-### 3. Theo Đặc Tính
-- **Thọ vật chất**: Liên quan đến vật chất
-- **Thọ tinh thần**: Liên quan đến tâm lý
+2. **Thọ do ý xúc** (Manosamphassajā-vedanā)
+   - **Lạc tâm thọ** (Cetasikaṃ sātaṃ)
+   - **Khổ tâm thọ** (Cetasikaṃ asātaṃ)
 
-## Phương Pháp Thực Hành
+### 3. Theo Tính Chất
+1. **Thọ vật chất** (Sāmisa-vedanā): Liên hệ đến các dục lạc
+2. **Thọ phi vật chất** (Nirāmisa-vedanā): Không liên hệ đến dục lạc
 
-### 1. Nhận Diện Cảm Thọ
-- Biết rõ khi có lạc thọ
-- Biết rõ khi có khổ thọ
-- Biết rõ khi có xả thọ
+## Phương Pháp Quán Thọ
 
-### 2. Quán Sát Đặc Tính
-- Tính chất vô thường
-- Bản chất khổ
-- Bản chất vô ngã
+> "Như vậy vị ấy sống quán thọ trên các nội thọ; hay sống quán thọ trên các ngoại thọ; hay sống quán thọ trên cả nội thọ, ngoại thọ. Vị ấy sống quán tánh sanh khởi trên các thọ; hay sống quán tánh diệt tận trên các thọ; hay sống quán tánh sanh diệt trên các thọ."
 
-### 3. Thái Độ Đúng Đắn
-- Không đồng hóa với thọ
-- Không chạy theo/chống đối
-- Chỉ thuần quán sát
+### Ba Giai Đoạn Quán Thọ
+1. **Nội quán** (Ajjhatta): Quán sát cảm thọ của chính mình
+2. **Ngoại quán** (Bahiddhā): Quán sát cảm thọ của người khác
+3. **Nội ngoại quán** (Ajjhattabahiddhā): Quán sát cả hai
 
-## Tiến Trình Tu Tập
+### Ba Tính Chất của Thọ
+1. **Sinh khởi** (Samudaya): Thấy rõ nhân duyên và sự sinh khởi của thọ
+2. **Hoại diệt** (Vaya): Thấy rõ sự diệt mất của thọ
+3. **Sinh diệt** (Samudayavaya): Thấy rõ cả sinh và diệt của thọ
 
-### 1. Giai Đoạn Đầu
-- Nhận diện được cảm thọ
-- Phân biệt các loại thọ
-- Duy trì chánh niệm
+## Mục Đích và Kết Quả
 
-### 2. Giai Đoạn Giữa
-- Thấy sự sinh diệt
-- Hiểu bản chất vô thường
-- Buông xả chấp thủ
+> "Vị ấy an trú chánh niệm 'Có thọ đây', với mục đích củng cố chánh niệm và chánh trí đến mức độ cần thiết để duy trì sự hiểu biết. Và vị ấy sống không nương tựa, không chấp trước một vật gì trên đời."
 
-### 3. Giai Đoạn Cuối
-- Hoàn toàn không đồng hóa
-- Tự tại với mọi cảm thọ
-- Giải thoát khỏi thọ
+### Mục Đích
+1. **Chánh niệm** (Sati): Tỉnh giác về các cảm thọ
+2. **Chánh trí** (Ñāṇa): Thấy rõ bản chất của thọ
+3. **Vô chấp thủ** (Anissito): Không dính mắc vào thọ
 
-## Lợi Ích của Thực Hành
+### Kết Quả
+> "Này các Tỷ-kheo, do đoạn tận tham, do đoạn tận sân, do đoạn tận si, vị ấy trở thành người không còn bị lay chuyển."
 
-### 1. Đối Với Đời Sống
-- Không bị cảm xúc chi phối
-- Sống an lạc hơn
-- Quan hệ tốt đẹp hơn
-
-### 2. Đối Với Tu Tập
-- Phát triển định lực
-- Tăng trưởng trí tuệ
-- Tiến bộ trên đạo lộ
-
-### 3. Đối Với Giải Thoát
-- Không còn chấp thủ
-- Tự tại với thọ
-- Hướng đến Niết-bàn
-
-## Chướng Ngại và Cách Vượt Qua
-
-### 1. Chướng Ngại
-- Đồng hóa với cảm thọ
-- Phản ứng theo thói quen
-- Thiếu chánh niệm
-
-### 2. Cách Khắc Phục
-- Duy trì tỉnh giác
-- Quán chiếu vô thường
-- Thực hành kiên trì
-
-## Kết Quả Viên Mãn
-
-### 1. Tự Tại với Cảm Thọ
-- Không bị thọ chi phối
-- Thoát khỏi khổ đau
-- An lạc nội tâm
-
-### 2. Trí Tuệ Phát Triển
-- Thấy rõ bản chất thọ
-- Hiểu sâu về vô ngã
-- Đạt được giải thoát
-
-### 3. Chứng Ngộ
-- Giải thoát khỏi thọ
-- Không còn chấp thủ
-- Đạt đến Niết-bàn
+Thực hành Thọ Niệm Xứ đưa đến:
+1. **Đoạn tận tham** (Rāgakkhaya)
+2. **Đoạn tận sân** (Dosakkhaya)
+3. **Đoạn tận si** (Mohakkhaya)

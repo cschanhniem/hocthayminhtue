@@ -45,9 +45,9 @@ module.exports = {
             ]
           },
           {
-            id: "đaođđe",
+            id: "daođe",
             label: "Đạo Đế",
-            content: "đaođđe",
+            content: "daođe",
             children: [
               {
                 id: "batchanhđao",
@@ -207,6 +207,26 @@ module.exports = {
           { id: "kho", label: "Khổ (Dukkha)", content: "kho" },
           { id: "vo-nga", label: "Vô ngã (Anatta)", content: "vo-nga" }
         ]
+      },
+      {
+        id: "muoi-ba-la-mat",
+        label: "Mười Ba La Mật",
+        content: "muoi-ba-la-mat"
+      },
+      {
+        id: "nikaya",
+        label: "Kinh Nikaya",
+        content: "nikaya"
+      },
+      {
+        id: "thayminhue",
+        label: "Thầy Minh Huệ",
+        content: "thayminhue"
+      },
+      {
+        id: "about",
+        label: "Giới Thiệu",
+        content: "about"
       }
     ]
   }
