@@ -1,158 +1,175 @@
 ---
 layout: layouts/content.njk
-title: Ngũ Uẩn (Pañca-khandha)
-description: Năm uẩn - năm tập hợp tạo thành cái được gọi là "con người" theo quan điểm Phật giáo
+title: Ngũ Uẩn (Pañcakkhandha)
+description: Năm uẩn - năm nhóm tạo thành con người theo giáo lý đức Phật
 ---
 
 ## Định Nghĩa từ Kinh Điển
 
-Trong Kinh Uẩn (Khandha Sutta), đức Phật dạy:
+Trong Tương Ưng Bộ Kinh (Saṃyutta Nikāya), đức Phật dạy:
 
-> "Này các Tỳ kheo, có năm thủ uẩn này. Thế nào là năm? Sắc thủ uẩn, thọ thủ uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn."
+> "Này các Tỳ kheo, có năm thủ uẩn này. Thế nào là năm? Sắc thủ uẩn, thọ thủ uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn. Này các Tỳ kheo, đây là năm thủ uẩn."
 
 ## Năm Uẩn
 
 ### 1. Sắc Uẩn (Rūpa-khandha)
-> "Và này các Tỳ kheo, thế nào là sắc? Bốn đại và sắc do bốn đại tạo thành..."
+> "Sắc là gì? Bốn đại và sắc do bốn đại tạo thành..."
 
-#### Thành Phần
-- Tứ đại (đất, nước, gió, lửa)
-- Sắc do tứ đại tạo
-- Các giác quan vật lý
+#### Nội Dung
+- Thân thể vật chất
+- Các giác quan
+- Đối tượng vật chất
 
 #### Đặc Tính
 - Biến hoại
+- Chuyển đổi
 - Vô thường
-- Chịu tác động
 
 ### 2. Thọ Uẩn (Vedanā-khandha)
-> "Và này các Tỳ kheo, thế nào là thọ? Có sáu loại thọ: thọ do nhãn xúc sinh... thọ do ý xúc sinh."
+> "Thọ là gì? Có sáu loại thọ: thọ do nhãn xúc... thọ do ý xúc..."
+
+#### Nội Dung
+- Cảm giác
+- Cảm thọ
+- Trải nghiệm
 
 #### Phân Loại
 - Lạc thọ
 - Khổ thọ
 - Bất khổ bất lạc thọ
 
-#### Đặc Tính
-- Cảm nhận
-- Trải nghiệm
-- Phản ứng cảm xúc
-
 ### 3. Tưởng Uẩn (Saññā-khandha)
-> "Và này các Tỳ kheo, thế nào là tưởng? Có sáu loại tưởng: sắc tưởng, thanh tưởng..."
+> "Tưởng là gì? Có sáu loại tưởng: sắc tưởng... pháp tưởng..."
 
-#### Chức Năng
+#### Nội Dung
+- Tri giác
 - Nhận biết
-- Ghi nhớ
 - Phân biệt
 
-#### Đặc Tính
-- Tạo khái niệm
-- Hình thành ký ức
-- Nhận dạng đối tượng
+#### Hoạt Động
+- Ghi nhận đặc điểm
+- Phân biệt đối tượng
+- Lưu giữ ký ức
 
 ### 4. Hành Uẩn (Saṅkhāra-khandha)
-> "Và này các Tỳ kheo, thế nào là hành? Có sáu loại tư: sắc tư, thanh tư..."
+> "Hành là gì? Có sáu loại tư: sắc tư... pháp tư..."
 
-#### Chức Năng
+#### Nội Dung
+- Tâm hành
+- Ý chí
 - Tạo tác nghiệp
-- Ý chí hành động
-- Phản ứng tâm lý
 
-#### Đặc Tính
-- Tạo nghiệp
-- Huân tập thói quen
-- Điều khiển hành vi
+#### Đặc Điểm
+- Tạo tác nghiệp
+- Phản ứng tâm lý
+- Thói quen tâm
 
 ### 5. Thức Uẩn (Viññāṇa-khandha)
-> "Và này các Tỳ kheo, thế nào là thức? Có sáu loại thức: nhãn thức, nhĩ thức..."
+> "Thức là gì? Có sáu loại thức: nhãn thức... ý thức..."
 
-#### Chức Năng
+#### Nội Dung
 - Nhận thức
-- Phân biệt
-- Tâm thức cơ bản
+- Tâm thức
+- Sự biết
 
-#### Đặc Tính
-- Liên tục biến đổi
-- Nương vào căn trần
+#### Hoạt Động
+- Nhận biết đối tượng
+- Phân biệt hiểu biết
 - Duy trì dòng tâm thức
 
-## Mối Tương Quan Giữa Các Uẩn
+## Tính Chất của Ngũ Uẩn
 
-### 1. Sự Phụ Thuộc
-- Các uẩn nương tựa nhau
-- Không tồn tại độc lập
-- Tương tác liên tục
-
-### 2. Tính Vô Thường
+### 1. Vô Thường (Anicca)
 - Luôn biến đổi
-- Không bền vững
+- Không tồn tại vĩnh viễn
 - Sinh diệt liên tục
 
-### 3. Tính Vô Ngã
-- Không có thực thể
-- Không có tự tánh
-- Chỉ là giả hợp
+### 2. Khổ (Dukkha)
+- Bất toại nguyện
+- Không thể kiểm soát
+- Nguồn gốc của khổ
 
-## Quán Chiếu Ngũ Uẩn
+### 3. Vô Ngã (Anatta)
+- Không có thực thể
+- Không có tự ngã
+- Tùy thuộc duyên sinh
+
+## Phương Pháp Quán Chiếu
 
 ### 1. Quán Vô Thường
 - Thấy sự biến đổi
 - Nhận ra tính tạm bợ
-- Hiểu rõ sinh diệt
+- Hiểu được sinh diệt
 
 ### 2. Quán Khổ
 - Thấy tính bất toại nguyện
-- Hiểu rõ bản chất khổ
-- Nhận ra sự bức bách
+- Hiểu được sự bức bách
+- Nhận ra khổ não
 
 ### 3. Quán Vô Ngã
-- Thấy không thực thể
-- Hiểu rõ tính duyên sinh
-- Buông xả chấp thủ
+- Thấy tính duyên sinh
+- Hiểu được không thực thể
+- Nhận ra tánh không
+
+## Mối Quan Hệ Giữa Các Uẩn
+
+### 1. Tương Tác
+- Hỗ trợ lẫn nhau
+- Tác động qua lại
+- Không tách rời
+
+### 2. Duyên Sinh
+- Điều kiện cho nhau
+- Phụ thuộc lẫn nhau
+- Sinh diệt đồng thời
+
+### 3. Tạo Thành "Ngã"
+- Tổng hợp tạo ảo tưởng ngã
+- Cơ sở của chấp thủ
+- Nguồn gốc đau khổ
 
 ## Lợi Ích của Quán Ngũ Uẩn
 
 ### 1. Đối Với Trí Tuệ
 - Thấy rõ thực tướng
-- Hiểu đúng bản chất
-- Phát triển tuệ giác
+- Hiểu được vô ngã
+- Phá bỏ chấp thủ
 
 ### 2. Đối Với Tu Tập
-- Giảm chấp thủ
-- Tăng buông xả
+- Giảm thiểu tham ái
+- Tăng trưởng buông xả
 - Hướng đến giải thoát
 
 ### 3. Đối Với Giải Thoát
 - Đoạn trừ ngã chấp
-- Thoát khổ luân hồi
-- Chứng ngộ Niết-bàn
+- Thoát khỏi phiền não
+- Chứng ngộ chân lý
 
-## Phương Pháp Tu Tập
+## Mối Liên Hệ với Giáo Lý Khác
 
-### 1. Niệm Thân
-- Quán sát sắc uẩn
-- Thấy rõ tứ đại
-- Hiểu bản chất vật chất
-
-### 2. Niệm Thọ
-- Quán sát cảm thọ
-- Thấy rõ sinh diệt
-- Không đồng hóa với thọ
-
-### 3. Niệm Tâm
-- Quán sát tâm thức
+### 1. Với [Ba Đặc Tính](/content/ba-dac-tinh/)
 - Thấy rõ vô thường
-- Không chấp thủ tâm
+- Chứng nghiệm khổ
+- Hiểu được vô ngã
+
+### 2. Với [Tứ Diệu Đế](/content/tu-dieu-de/)
+- Hiểu rõ khổ đế
+- Thấy được tập đế
+- Hướng đến diệt đế
+
+### 3. Với [Thập Nhị Nhân Duyên](/content/thap-nhi-nhan-duyen/)
+- Thấy được duyên sinh
+- Hiểu rõ vô minh
+- Đoạn trừ tham ái
 
 ## Kết Luận
 
 Ngũ Uẩn là:
-- Cấu thành giả tạm
-- Không có thực thể
+- Cấu trúc con người
 - Đối tượng quán chiếu
+- Con đường giải thoát
 
-Để giải thoát cần:
-- Thấy rõ bản chất
+Để thực chứng cần:
+- Quán chiếu thường xuyên
+- Thấy rõ thực tướng
 - Buông xả chấp thủ
-- Tu tập minh sát
