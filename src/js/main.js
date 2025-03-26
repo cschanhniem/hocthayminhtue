@@ -53,4 +53,19 @@ document.addEventListener('DOMContentLoaded', function() {
     // Scroll active node into view
     activeNode.scrollIntoView({ behavior: 'smooth', block: 'center' });
   }
+
+  // Initialize tree state
+  document.querySelectorAll('.tree-node').forEach(node => {
+    const isActive = node.classList.contains('active');
+    const hasActiveChild = node.querySelector('.active');
+    
+    if (!isActive && !hasActiveChild) {
+      node.classList.add('collapsed');
+      const icon = node.querySelector('.icon');
+      if (icon) icon.textContent = '+';
+    } else {
+      const icon = node.querySelector('.icon');
+      if (icon) icon.textContent = '-';
+    }
+  });
 });

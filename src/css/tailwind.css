@@ -2,6 +2,27 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  :root {
+    --color-primary: #7d5a4f;
+    --color-secondary: #9b735c;
+    --color-earth: #c29e80;
+    --color-cream: #f3e9dc;
+    --color-aurora-blue: #58B2DC;
+    --color-aurora-purple: #A59ACA;
+    --color-aurora-pink: #F5B2AC;
+    --color-aurora-green: #A8D8B9;
+  }
+
+  body {
+    font-family: 'Inter', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+  }
+}
+
 @layer components {
   .container {
     @apply w-full max-w-7xl mx-auto px-4;
@@ -42,5 +63,186 @@
   /* Content styling */
   .concept-content {
     @apply prose prose-stone max-w-none;
+  }
+
+  .aurora-bg {
+    background: linear-gradient(135deg, 
+      rgba(243, 233, 220, 0.8) 0%, 
+      rgba(168, 216, 185, 0.2) 25%, 
+      rgba(165, 154, 202, 0.2) 50%, 
+      rgba(245, 178, 172, 0.2) 75%, 
+      rgba(243, 233, 220, 0.8) 100%
+    );
+    background-size: 400% 400%;
+    animation: aurora 15s ease infinite;
+  }
+
+  .glass-nav {
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  }
+
+  .glass-card {
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(125, 90, 79, 0.1);
+    padding: 24px;
+    transition: all 0.3s ease;
+  }
+
+  .glass-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(125, 90, 79, 0.15);
+  }
+
+  .nav-item {
+    position: relative;
+    padding: 8px 16px;
+    color: var(--color-primary);
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.3s ease;
+  }
+
+  .nav-item::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 2px;
+    background: linear-gradient(90deg, var(--color-aurora-blue), var(--color-aurora-purple));
+    transition: width 0.3s ease;
+  }
+
+  .nav-item:hover::after,
+  .nav-item.active::after {
+    width: 80%;
+  }
+
+  .tree-container {
+    padding: 0;
+  }
+
+  .tree-node {
+    margin: 12px 0;
+    transition: all 0.3s ease;
+  }
+
+  .node-content {
+    display: flex;
+    align-items: center;
+    padding: 8px 12px;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+  }
+
+  .node-content:hover {
+    background: rgba(194, 158, 128, 0.1);
+  }
+
+  .node-label {
+    margin-left: 8px;
+    color: var(--color-primary);
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .tree-node.active > .node-content {
+    background: rgba(125, 90, 79, 0.1);
+  }
+
+  .tree-children {
+    margin-left: 24px;
+    padding-left: 16px;
+    border-left: 1px solid rgba(125, 90, 79, 0.2);
+  }
+
+  .toggle {
+    background: rgba(255, 255, 255, 0.5);
+    border: 1px solid rgba(125, 90, 79, 0.2);
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+
+  .toggle:hover {
+    background: rgba(194, 158, 128, 0.2);
+  }
+
+  .buddha-quote {
+    background: rgba(243, 233, 220, 0.7);
+    backdrop-filter: blur(10px);
+    border-radius: 16px;
+    border-left: 4px solid var(--color-primary);
+    padding: 24px;
+    margin: 32px 0;
+    font-family: 'EB Garamond', serif;
+    font-size: 1.125rem;
+    line-height: 1.6;
+    color: #5D4037;
+    position: relative;
+  }
+
+  .buddha-quote::before {
+    content: '"';
+    position: absolute;
+    top: 16px;
+    left: 16px;
+    font-size: 4rem;
+    color: rgba(125, 90, 79, 0.1);
+    font-family: 'EB Garamond', serif;
+  }
+
+  .quote-source {
+    display: block;
+    text-align: right;
+    margin-top: 16px;
+    font-style: italic;
+    font-size: 0.875rem;
+  }
+}
+
+@keyframes aurora {
+  0% { background-position: 0% 50% }
+  50% { background-position: 100% 50% }
+  100% { background-position: 0% 50% }
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 0 16px;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+  }
+  
+  h3 {
+    font-size: 1.25rem;
+  }
+  
+  .tree-container {
+    border-radius: 0;
+    border-left: none;
+    border-right: none;
+    padding: 16px;
+  }
+  
+  .concept-card {
+    padding: 16px;
   }
 }

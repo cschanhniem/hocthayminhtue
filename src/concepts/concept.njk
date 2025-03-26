@@ -7,23 +7,31 @@ pagination:
 permalink: "concepts/{{ concept.id }}/"
 ---
 
-{% if concept.id %}
-  {% set content_file = "../content/" + concept.id + ".md" %}
-  {% include content_file %}
-{% else %}
-  <h1>{{ concept.label }}</h1>
-  <p>Nội dung đang được cập nhật...</p>
-{% endif %}
+<nav class="mb-6 text-sm text-gray-600">
+  <a href="/" class="text-secondary hover:text-earth">Trang chủ</a> &gt; 
+  <span>{{ concept.label }}</span>
+</nav>
+
+<article class="concept-content">
+  <h1 class="text-3xl font-bold text-primary mb-6 pb-2 border-b-2 border-secondary">{{ concept.label }}</h1>
+  
+  {% if concept.id %}
+    {% set content_file = "../content/" + concept.id + ".md" %}
+    {% include content_file %}
+  {% else %}
+    <p class="text-gray-600">Nội dung đang được cập nhật...</p>
+  {% endif %}
+</article>
 
 {% if concept.children and concept.children.length > 0 %}
-<h2 class="mt-8 mb-4">Các phần liên quan</h2>
-<ul class="list-disc pl-5">
-  {% for child in concept.children %}
-    <li class="mb-2">
-      <a href="/concepts/{{ child.id }}/" class="text-blue-600 hover:text-blue-800">
-        {{ child.label }}
-      </a>
-    </li>
-  {% endfor %}
-</ul>
+<div class="glass-card mt-8">
+  <h2 class="text-xl font-semibold text-primary mb-4">Các khái niệm liên quan</h2>
+  <ul class="space-y-2">
+    {% for child in concept.children %}
+      <li>
+        <a href="/concepts/{{ child.id }}/" class="nav-item">{{ child.label }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
 {% endif %}

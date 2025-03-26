@@ -3,30 +3,56 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ title | default("Giáo Lý Căn Bản") }}</title>
-    <link rel="stylesheet" href="/css/style.css">
+    <title>{% if title %}{{ title }} - {% endif %}Lý Thuyết Phật Giáo từ Kinh Nikaya</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="icon" href="/images/logo.svg" type="image/svg+xml" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Inter:wght@400;500&family=EB+Garamond:ital@0;1&display=swap" rel="stylesheet">
 </head>
-<body class="bg-gray-50">
-    <div class="flex min-h-screen">
-        <!-- Sidebar Navigation -->
-        <aside class="w-64 bg-white shadow-lg">
-            <div class="p-4">
-                <h1 class="text-xl font-bold mb-4">
-                    <a href="/" class="text-gray-800 hover:text-blue-600">
-                        Giáo Lý Căn Bản
-                    </a>
-                </h1>
-                {% include "partials/tree.njk" %}
-            </div>
-        </aside>
+<body class="min-h-screen bg-bg-base text-text-base aurora-bg">
+    <header class="glass-nav sticky top-0 z-50 mb-8">
+        <div class="container mx-auto px-4 py-4 flex justify-between items-center">
+            <h1 class="text-xl m-0 flex items-center">
+                <img src="/images/logo.svg" alt="Logo" class="h-8 w-8 mr-3" />
+                <a href="/" class="text-primary hover:text-secondary no-underline font-montserrat font-bold">Lý Thuyết Phật Giáo từ Kinh Nikaya</a>
+            </h1>
+            <button id="menu-toggle" class="md:hidden bg-transparent border-0 text-primary text-2xl cursor-pointer" aria-label="Toggle menu">☰</button>
+        </div>
+    </header>
 
-        <!-- Main Content -->
-        <main class="flex-1 p-8">
-            <article class="prose prose-lg max-w-4xl mx-auto">
-                {{ content | safe }}
-            </article>
-        </main>
+    <div class="container mx-auto px-4 py-8">
+        <div class="flex flex-col md:flex-row gap-6">
+            <nav class="sidebar w-full md:w-72 glass-card" id="sidebar">
+                <div class="tree-container">
+                    {% include "partials/tree.njk" %}
+                </div>
+            </nav>
+            
+            <main class="flex-1">
+                <article class="concept-card prose prose-stone max-w-none">
+                    {{ content | safe }}
+                </article>
+
+                {% if concept and concept.children and concept.children.length > 0 %}
+                <div class="glass-card mt-8">
+                    <h3 class="text-xl font-semibold text-primary mb-4">Các khái niệm liên quan</h3>
+                    <ul class="space-y-2">
+                        {% for child in concept.children %}
+                        <li>
+                            <a href="/concepts/{{ child.id }}/" class="nav-item">{{ child.label }}</a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% endif %}
+            </main>
+        </div>
     </div>
+
+    <footer class="glass-nav mt-8 py-6">
+        <div class="container mx-auto px-4 text-center">
+            <p class="text-sm text-gray-600">Dự án cộng đồng chia sẻ lý thuyết Phật giáo từ kinh Nikaya</p>
+        </div>
+    </footer>
 
     <script src="/js/main.js"></script>
 </body>

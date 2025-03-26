@@ -1,31 +1,30 @@
-{% macro renderNode(node) %}
-<div class="tree-node">
-    {% if node.children %}
-    <details class="ml-4">
-        <summary class="cursor-pointer hover:text-blue-600 py-1">
-            <a href="/content/{{ node.content }}/" class="text-gray-700 hover:text-blue-600">
-                {{ node.label }}
-            </a>
-        </summary>
-        <div class="pl-4 border-l border-gray-200">
-            {% for child in node.children %}
-                {{ renderNode(child) }}
-            {% endfor %}
-        </div>
-    </details>
-    {% else %}
-    <div class="ml-4 py-1">
-        <a href="/content/{{ node.content }}/" class="text-gray-700 hover:text-blue-600">
-            {{ node.label }}
-        </a>
+{% macro renderTree(node, activeId) %}
+  <li class="tree-node {% if node.id === activeId %}active{% endif %} {% if node.id !== 'root' %}collapsed{% endif %}">
+    <div class="node-content">
+      {% if node.children and node.children.length > 0 %}
+        <button class="toggle" aria-label="Toggle {{ node.label }}">
+          <span class="icon">+</span>
+        </button>
+      {% else %}
+        <span class="leaf-spacer w-6"></span>
+      {% endif %}
+      
+      <a href="/concepts/{{ node.id }}" class="node-label">{{ node.label }}</a>
     </div>
+    
+    {% if node.children and node.children.length > 0 %}
+      <ul class="tree-children">
+        {% for child in node.children %}
+          {{ renderTree(child, activeId) }}
+        {% endfor %}
+      </ul>
     {% endif %}
-</div>
+  </li>
 {% endmacro %}
 
-<nav class="tree">
-    {{ renderNode(concepts.root) }}
-</nav>
+<ul class="tree-root list-none p-0 m-0">
+  {{ renderTree(concepts.root, activeId) }}
+</ul>
 
 <style>
 .tree-node summary::-webkit-details-marker {
