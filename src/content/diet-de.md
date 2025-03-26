@@ -1,122 +1,164 @@
 ---
 layout: layouts/content.njk
-title: Diệt Đế (Nirodha Sacca)
-description: Chân lý thứ ba trong Tứ Diệu Đế - sự chấm dứt khổ đau và Niết-bàn
+title: Diệt Đế (Nirodha Ariyasacca)
+description: Chân lý thứ ba trong Tứ Diệu Đế - sự thật về sự chấm dứt khổ đau và chứng đắc Niết-bàn
 ---
 
-## Định Nghĩa Từ Kinh Điển
+## Định Nghĩa từ Kinh Điển
 
-Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật dạy:
+Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật dạy về Diệt Đế:
 
-> "Này các Tỳ kheo, đây là Diệt Thánh đế: Sự diệt tận hoàn toàn, sự từ bỏ, sự từ khước, sự giải thoát, sự không chấp thủ đối với ái ấy."
+> "Này các Tỳ kheo, đây là Khổ Diệt Thánh đế: Sự diệt tận hoàn toàn, không còn dư tàn khát ái ấy, sự xả ly, sự từ bỏ, sự giải thoát, sự không chấp thủ."
 
-## Ý Nghĩa Của Diệt
+## Đặc Tính của Niết Bàn
 
-### 1. Định Nghĩa
-> "Và này các Tỳ kheo, thế nào là Khổ Diệt Thánh Đế? Đó là sự diệt tận không còn dư tàn, sự từ bỏ, sự giải thoát, sự không còn chấp thủ đối với ái ấy."
+### 1. Tịch Tĩnh (Santi)
+> "Niết-bàn là tịch tĩnh tối thượng..."
 
-- Chấm dứt hoàn toàn tham ái
-- Đoạn tận mọi phiền não
-- Giải thoát khỏi khổ đau
-
-### 2. Đặc Tính Của Diệt
-- Tịch tĩnh tuyệt đối
-- Vắng bặt phiền não
-- Không còn tái sinh
-
-## Niết-bàn - Mục Tiêu Tối Hậu
-
-### 1. Định Nghĩa Niết-bàn
-> "Này các Tỳ kheo, có cảnh giới không sinh, không hữu, không tác, không thành. Nếu không có cảnh giới ấy thì không thể thoát khỏi cảnh giới sinh, hữu, tác, thành."
-
-#### Ý Nghĩa Từ Nguyên
-- Ni (không) + Vāna (rừng rậm phiền não)
-- Thoát khỏi mọi ràng buộc
-- Vượt thoát sinh tử
-
-#### Đặc Tính
-- Vô sinh
-- Bất diệt
-- Tịch tĩnh
-
-### 2. Hai Loại Niết-bàn
-
-#### Hữu Dư Niết-bàn (Sopadisesa Nibbāna)
-- Đoạn tận phiền não
-- Còn thân ngũ uẩn
-- Trạng thái A-la-hán
-
-#### Vô Dư Niết-bàn (Anupadisesa Nibbāna)
-- Không còn ngũ uẩn
-- Hoàn toàn giải thoát
-- Sau khi A-la-hán viên tịch
-
-## Phương Pháp Chứng Đắc
-
-### 1. Đoạn Trừ Tham Ái
-> "Do đoạn diệt, ly tham ái một cách hoàn toàn nên diệt thủ..."
-
-- Nhận diện tham ái
-- Buông bỏ chấp thủ
-- Thanh lọc tâm ý
-
-### 2. Tu Tập Giới-Định-Tuệ
-- Giữ giới thanh tịnh
-- Phát triển thiền định
-- Trau dồi trí tuệ
-
-### 3. Thực Hành Bát Chánh Đạo
-- Con đường trung đạo
-- Tránh cực đoan
-- Tiến tu giác ngộ
-
-## Các Giai Đoạn Giải Thoát
-
-### 1. Tu-đà-hoàn (Sotāpanna)
-- Phá ba kiết sử đầu
-- Vững tin Tam Bảo
-- Còn tái sinh tối đa 7 lần
-
-### 2. Tư-đà-hàm (Sakadāgāmī)
-- Giảm nhẹ tham sân si
-- Còn tái sinh một lần
-- Tiếp tục tiến tu
-
-### 3. A-na-hàm (Anāgāmī)
-- Đoạn tận dục ái
-- Không còn tái sinh cõi dục
-- Tu tập ở cõi sắc
-
-### 4. A-la-hán (Arahant)
-- Đoạn tận mọi phiền não
-- Chứng ngộ Niết-bàn
-- Hoàn toàn giải thoát
-
-## Đặc Điểm Của Giải Thoát
-
-### 1. Tâm Hoàn Toàn Thanh Tịnh
+#### Biểu Hiện
+- Vắng lặng tuyệt đối
 - Không còn phiền não
-- Tâm an lạc tuyệt đối
-- Trí tuệ viên mãn
+- An lạc tối thượng
 
-### 2. Vượt Thoát Sinh Tử
-- Không còn tái sinh
+#### Ý Nghĩa
+- Vượt thoát đau khổ
+- Chấm dứt sinh tử
+- Giải thoát viên mãn
+
+### 2. Vô Vi (Asaṅkhata)
+> "Niết-bàn là pháp vô vi..."
+
+#### Đặc Điểm
+- Không do duyên sinh
+- Không bị tạo tác
+- Không sinh không diệt
+
+#### Bản Chất
+- Thường hằng
+- Bất biến
+- Tuyệt đối
+
+### 3. Giải Thoát (Vimutti)
+> "Niết-bàn là sự giải thoát..."
+
+#### Nội Dung
 - Thoát khỏi luân hồi
+- Đoạn tận phiền não
 - Chấm dứt khổ đau
 
-### 3. An Lạc Tối Thượng
-- Hạnh phúc chân thật
-- Không còn dao động
-- Tịch tĩnh vĩnh hằng
+#### Thành Tựu
+- Tịnh lạc tối thượng
+- Tự tại viên mãn
+- Giác ngộ trọn vẹn
+
+## Hai Loại Niết Bàn
+
+### 1. Hữu Dư Niết Bàn (Sopadisesa-nibbāna)
+- Còn thân ngũ uẩn
+- Đoạn tận phiền não
+- A-la-hán tại thế
+
+### 2. Vô Dư Niết Bàn (Anupādisesa-nibbāna)
+- Xả bỏ thân ngũ uẩn
+- Hoàn toàn giải thoát
+- Tịch diệt viên mãn
+
+## Con Đường Chứng Đắc
+
+### 1. Đoạn Trừ Phiền Não
+- Tham ái
+- Sân hận
+- Si mê
+
+### 2. Tu Tập Ba Học
+- Giới học
+- Định học
+- Tuệ học
+
+### 3. Thành Tựu Đạo Quả
+- Tu-đà-hoàn
+- Tư-đà-hàm
+- A-na-hàm
+- A-la-hán
+
+## Chướng Ngại Cần Vượt Qua
+
+### 1. Mười Kiết Sử
+- Năm hạ phần kiết sử
+- Năm thượng phần kiết sử
+- Cần đoạn trừ tuần tự
+
+### 2. Năm Triền Cái
+- Tham dục
+- Sân hận
+- Hôn trầm thụy miên
+- Trạo cử hối quá
+- Hoài nghi
+
+### 3. Ba Độc
+- Tham 
+- Sân
+- Si
+
+## Phương Pháp Tu Tập
+
+### 1. Phát Triển Trí Tuệ
+- Văn tuệ
+- Tư tuệ
+- Tu tuệ
+
+### 2. Thực Hành Thiền Định
+- Thiền chỉ
+- Thiền quán
+- Chỉ quán song tu
+
+### 3. Đoạn Trừ Chấp Thủ
+- Không chấp ngã
+- Không chấp pháp
+- Xả ly triệt để
+
+## Dấu Hiệu Chứng Đắc
+
+### 1. Về Tâm
+- Thanh tịnh
+- Giải thoát
+- Vô chấp
+
+### 2. Về Trí
+- Thấy như thật
+- Không còn mê lầm
+- Tuệ giác viên mãn
+
+### 3. Về Đạo Quả
+- Đoạn tận lậu hoặc
+- Không còn tái sinh
+- Chứng ngộ Niết-bàn
+
+## Lợi Ích của Diệt Đế
+
+### 1. Đối Với Bản Thân
+- Giải thoát khổ đau
+- An lạc tối thượng
+- Tự tại vô ngại
+
+### 2. Đối Với Tha Nhân
+- Làm gương sáng
+- Hướng dẫn tu tập
+- Lợi lạc chúng sinh
+
+### 3. Đối Với Đạo Pháp
+- Chứng minh khả năng giải thoát
+- Duy trì chánh pháp
+- Lưu truyền đạo giác ngộ
 
 ## Kết Luận
 
 Diệt Đế là:
-- Chân lý về sự chấm dứt khổ
-- Mục tiêu tối hậu của đạo Phật
-- Trạng thái giải thoát viên mãn
+- Mục tiêu tối thượng
+- Sự thật giải thoát
+- [Niết-bàn](/content/niet-ban/) tịch tĩnh
 
-Hiểu và thực hành Diệt Đế giúp:
-- Thấy được mục đích tu tập
-- Tin tưởng vào giải thoát
-- Tinh tấn hướng đến Niết-bàn
+Để chứng đắc cần:
+- Đoạn trừ phiền não
+- Tu tập miên mật
+- Thực chứng giải thoát

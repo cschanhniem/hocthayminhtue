@@ -6,53 +6,53 @@ description: Năm chướng ngại che lấp tâm trí trong tu tập thiền đ
 
 ## Định Nghĩa từ Kinh Điển
 
-Trong Kinh Tăng Chi (Aṅguttara Nikāya), đức Phật dạy:
+Trong Kinh Trung Bộ (Majjhima Nikāya), đức Phật dạy:
 
-> "Này các Tỳ kheo, có năm triền cái này. Thế nào là năm? Tham dục triền cái, sân hận triền cái, hôn trầm thụy miên triền cái, trạo cử hối quá triền cái và nghi triền cái. Này các Tỳ kheo, đây là năm triền cái."
+> "Này các Tỳ kheo, có năm triền cái này, làm cho tâm ô nhiễm, làm cho tuệ lực yếu ớt. Thế nào là năm? Tham dục triền cái, sân hận triền cái, hôn trầm thụy miên triền cái, trạo cử hối quá triền cái, và nghi triền cái."
 
 ## Năm Loại Triền Cái
 
 ### 1. Tham Dục (Kāmacchanda)
-> "Và này các Tỳ kheo, thế nào là tham dục triền cái? Ở đây, này các Tỳ kheo, vị ấy thấy một sắc khả ái, khởi lên tham ái..."
+> "Như nước bị nhuộm màu, không thể phản chiếu hình ảnh..."
 
 #### Biểu Hiện
 - Ham muốn ngũ dục
-- Đắm nhiễm trần cảnh
-- Khó buông xả
+- Đắm nhiễm dục lạc
+- Tâm bị che lấp bởi tham
 
 #### Tác Hại
-- Che lấp tâm trí
-- Gây động tâm
+- Không thể định tâm
+- Mất chánh niệm
 - Chướng ngại thiền định
 
 ### 2. Sân Hận (Byāpāda)
-> "Và này các Tỳ kheo, thế nào là sân hận triền cái? Ở đây, này các Tỳ kheo, vị ấy khởi lên sân tâm..."
+> "Như nước sôi, không thể phản chiếu hình ảnh..."
 
 #### Biểu Hiện
 - Giận dữ
+- Oán ghét
 - Bực tức
-- Oán hận
 
 #### Tác Hại
 - Thiêu đốt tâm
 - Mất bình an
-- Không thể định tâm
+- Không thể tu tập
 
 ### 3. Hôn Trầm Thụy Miên (Thīna-middha)
-> "Và này các Tỳ kheo, thế nào là hôn trầm thụy miên triền cái? Ở đây, này các Tỳ kheo, khởi lên hôn trầm, khởi lên thụy miên..."
+> "Như nước bị rong rêu phủ kín, không thể phản chiếu hình ảnh..."
 
 #### Biểu Hiện
 - Buồn ngủ
-- Mệt mỏi
+- Dã dượi
 - Tâm mờ mịt
 
 #### Tác Hại
 - Không tỉnh táo
-- Không thể tinh tấn
 - Mất chánh niệm
+- Không thể tiến tu
 
 ### 4. Trạo Cử Hối Quá (Uddhacca-kukkucca)
-> "Và này các Tỳ kheo, thế nào là trạo cử hối quá triền cái? Ở đây, này các Tỳ kheo, tâm bị dao động..."
+> "Như nước bị gió thổi gợn sóng, không thể phản chiếu hình ảnh..."
 
 #### Biểu Hiện
 - Tâm bất an
@@ -60,29 +60,29 @@ Trong Kinh Tăng Chi (Aṅguttara Nikāya), đức Phật dạy:
 - Hối tiếc
 
 #### Tác Hại
-- Không thể an định
-- Tâm xao động
-- Khó tập trung
+- Không thể định tâm
+- Tán loạn
+- Mất sự tập trung
 
 ### 5. Hoài Nghi (Vicikicchā)
-> "Và này các Tỳ kheo, thế nào là nghi triền cái? Ở đây, này các Tỳ kheo, vị ấy nghi hoặc về Phật, về Pháp, về Tăng..."
+> "Như nước đục ngầu, không thể phản chiếu hình ảnh..."
 
 #### Biểu Hiện
+- Nghi ngờ giáo pháp
 - Thiếu niềm tin
-- Do dự không quyết
-- Không xác tín
+- Phân vân không quyết
 
 #### Tác Hại
 - Không thể tiến tu
-- Tâm dao động
 - Mất phương hướng
+- Chướng ngại giải thoát
 
 ## Phương Pháp Đối Trị
 
 ### 1. Đối Trị Tham Dục
 - Quán bất tịnh
 - Phòng hộ các căn
-- Tu tập thiểu dục tri túc
+- Tu tập thiểu dục
 
 ### 2. Đối Trị Sân Hận
 - Tu tập từ bi
@@ -90,62 +90,62 @@ Trong Kinh Tăng Chi (Aṅguttara Nikāya), đức Phật dạy:
 - Thực hành nhẫn nhục
 
 ### 3. Đối Trị Hôn Trầm
-- Tinh tấn nỗ lực
+- Tăng cường tinh tấn
 - Quán tưởng ánh sáng
-- Tăng cường vận động
+- Thay đổi oai nghi
 
 ### 4. Đối Trị Trạo Cử
-- An tịnh thân tâm
 - Tu tập thiền chỉ
+- Điều hòa hơi thở
 - Buông xả lo lắng
 
 ### 5. Đối Trị Hoài Nghi
-- Học hỏi Chánh pháp
+- Học hỏi chánh pháp
 - Thân cận thiện tri thức
 - Tăng trưởng đức tin
+
+## Dấu Hiệu Đoạn Trừ
+
+### 1. Về Tâm
+- Thanh tịnh
+- An định
+- Tỉnh giác
+
+### 2. Về Tu Tập
+- Tiến bộ rõ rệt
+- Định lực tăng trưởng
+- Trí tuệ phát sinh
+
+### 3. Về Giải Thoát
+- Chướng ngại giảm dần
+- Tâm được tự tại
+- Hướng đến giải thoát
 
 ## Lợi Ích của Đoạn Trừ
 
 ### 1. Đối Với Thiền Định
-- Tâm an định
+- Tâm dễ an định
 - Định lực tăng trưởng
 - Chứng đắc các thiền
 
 ### 2. Đối Với Trí Tuệ
 - Tuệ giác phát sinh
 - Thấy rõ thực tướng
-- Giải thoát phiền não
+- Hiểu được chân lý
 
 ### 3. Đối Với Đời Sống
 - An lạc hiện tại
 - Tâm được tự tại
 - Giải thoát khổ đau
 
-## Phương Pháp Tu Tập
-
-### 1. Nhận Diện
-- Biết rõ triền cái
-- Thấy được tác hại
-- Hiểu nguyên nhân
-
-### 2. Đối Trị
-- Áp dụng phương pháp
-- Kiên trì thực hành
-- Không thối chuyển
-
-### 3. Phòng Hộ
-- Giữ gìn các căn
-- Chánh niệm tỉnh giác
-- Không duyên phiền não
-
 ## Kết Luận
 
 Năm Triền Cái là:
 - Chướng ngại tu tập
-- Nguyên nhân đau khổ
 - Cần được đoạn trừ
+- Con đường thanh tịnh
 
-Để vượt qua cần:
+Để đoạn trừ cần:
 - Nhận diện rõ ràng
 - Áp dụng đối trị
-- Kiên trì tu tập
+- Tinh tấn không ngừng

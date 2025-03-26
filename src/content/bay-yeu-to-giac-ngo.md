@@ -1,150 +1,177 @@
 ---
 layout: layouts/content.njk
 title: Thất Giác Chi (Satta Bojjhaṅgā)
-description: Bảy yếu tố giác ngộ - con đường tu tập để đạt được giác ngộ giải thoát
+description: Bảy yếu tố giác ngộ - bảy pháp tu tập cần thiết để đạt đến giác ngộ giải thoát
 ---
 
 ## Định Nghĩa từ Kinh Điển
 
-Trong Kinh Giác Chi (Bojjhaṅga Sutta), đức Phật dạy:
+Trong Tương Ưng Bộ Kinh (Saṃyutta Nikāya), đức Phật dạy:
 
 > "Này các Tỳ kheo, có bảy giác chi này, được tu tập, được làm cho sung mãn, đưa đến thắng trí, giác ngộ và Niết-bàn. Thế nào là bảy? Niệm giác chi, Trạch pháp giác chi, Tinh tấn giác chi, Hỷ giác chi, Khinh an giác chi, Định giác chi, Xả giác chi."
 
 ## Bảy Yếu Tố Giác Ngộ
 
 ### 1. Niệm Giác Chi (Sati-sambojjhaṅga)
-> "Này các Tỳ kheo, thế nào là niệm giác chi? Ở đây, này các Tỳ kheo, vị Tỳ kheo trú chánh niệm..."
+> "Niệm giác chi được tu tập, được làm cho sung mãn..."
 
-#### Ý Nghĩa
+#### Bản Chất
 - Tỉnh giác trong hiện tại
 - Nhận biết rõ ràng
 - Không quên mất đối tượng
 
 #### Tu Tập
-- Thực hành chánh niệm
-- Giữ tâm tỉnh thức
-- Quán sát thân tâm
+- Chánh niệm trong mọi hoạt động
+- Duy trì sự tỉnh thức
+- Không để tâm tán loạn
 
 ### 2. Trạch Pháp Giác Chi (Dhammavicaya-sambojjhaṅga)
-> "Và này các Tỳ kheo, thế nào là trạch pháp giác chi? Ở đây, vị Tỳ kheo quán sát, tư duy, thẩm sát..."
+> "Trạch pháp giác chi được tu tập, được làm cho sung mãn..."
 
-#### Ý Nghĩa
+#### Bản Chất
+- Khảo sát, phân tích pháp
 - Phân biệt thiện ác
-- Hiểu rõ chánh tà
-- Thấu suốt chân lý
+- Thấu hiểu chân lý
 
 #### Tu Tập
 - Học hỏi Chánh pháp
-- Tư duy chân chánh
-- Quán chiếu thực tại
+- Tư duy quán chiếu
+- Thực chứng chân lý
 
 ### 3. Tinh Tấn Giác Chi (Vīriya-sambojjhaṅga)
-> "Và này các Tỳ kheo, thế nào là tinh tấn giác chi? Ở đây, vị Tỳ kheo phát khởi ý chí..."
+> "Tinh tấn giác chi được tu tập, được làm cho sung mãn..."
 
-#### Ý Nghĩa
+#### Bản Chất
 - Nỗ lực không ngừng
 - Kiên trì tu tập
-- Vượt qua chướng ngại
+- Không thối chuyển
 
 #### Tu Tập
 - Phát triển ý chí
-- Tinh tấn đúng mức
-- Không thối chuyển
+- Tinh tấn không gián đoạn
+- Vượt qua chướng ngại
 
 ### 4. Hỷ Giác Chi (Pīti-sambojjhaṅga)
-> "Và này các Tỳ kheo, thế nào là hỷ giác chi? Ở đây, vị Tỳ kheo có hỷ..."
+> "Hỷ giác chi được tu tập, được làm cho sung mãn..."
 
-#### Ý Nghĩa
-- Niềm vui trong đạo
+#### Bản Chất
+- Niềm vui trong tu tập
 - Hoan hỷ với thiện pháp
-- An lạc trong tu tập
+- An lạc trong đạo
 
 #### Tu Tập
-- Nuôi dưỡng niềm vui
-- Thấy lợi ích tu tập
-- Hoan hỷ với tiến bộ
+- Phát triển niềm vui
+- Thấy được lợi ích tu tập
+- Tăng trưởng hỷ lạc
 
 ### 5. Khinh An Giác Chi (Passaddhi-sambojjhaṅga)
-> "Và này các Tỳ kheo, thế nào là khinh an giác chi? Ở đây, vị Tỳ kheo có thân khinh an..."
+> "Khinh an giác chi được tu tập, được làm cho sung mãn..."
 
-#### Ý Nghĩa
+#### Bản Chất
 - Thân tâm nhẹ nhàng
-- Vắng lặng phiền não
-- An tịnh thanh thản
+- An tịnh, thoải mái
+- Không căng thẳng
 
 #### Tu Tập
+- Buông xả căng thẳng
 - Thư giãn thân tâm
-- Buông bỏ căng thẳng
-- Phát triển an tịnh
+- Duy trì an tịnh
 
 ### 6. Định Giác Chi (Samādhi-sambojjhaṅga)
-> "Và này các Tỳ kheo, thế nào là định giác chi? Ở đây, vị Tỳ kheo có tâm định tĩnh..."
+> "Định giác chi được tu tập, được làm cho sung mãn..."
 
-#### Ý Nghĩa
+#### Bản Chất
 - Tâm nhất cảnh
 - Không tán loạn
 - An trú vững vàng
 
 #### Tu Tập
-- Tập trung tâm ý
 - Phát triển thiền định
-- Giữ tâm ổn định
+- Duy trì chánh định
+- Tăng trưởng định lực
 
 ### 7. Xả Giác Chi (Upekkhā-sambojjhaṅga)
-> "Và này các Tỳ kheo, thế nào là xả giác chi? Ở đây, vị Tỳ kheo trú xả..."
+> "Xả giác chi được tu tập, được làm cho sung mãn..."
 
-#### Ý Nghĩa
+#### Bản Chất
 - Tâm quân bình
 - Không thiên lệch
 - Buông xả chấp thủ
 
 #### Tu Tập
-- Phát triển buông xả
+- Phát triển tâm xả
 - Giữ tâm trung đạo
-- Không chấp thủ
+- Không dính mắc
 
-## Mối Tương Quan
+## Sự Quân Bình Của Các Giác Chi
 
-### 1. Thứ Tự Phát Triển
-- Từ niệm đến xả
-- Tuần tự sinh khởi
-- Hỗ trợ lẫn nhau
+### 1. Nhóm Tăng Trưởng Năng Lượng
+- Trạch pháp
+- Tinh tấn
+- Hỷ
 
-### 2. Quân Bình Tu Tập
-- Tinh tấn và khinh an
-- Hỷ và xả
-- Niệm luôn hiện diện
+### 2. Nhóm An Tịnh
+- Khinh an
+- Định
+- Xả
 
-### 3. Viên Mãn Phát Triển
-- Đầy đủ bảy chi
-- Hoạt động đồng thời
-- Dẫn đến giác ngộ
+### 3. Yếu Tố Điều Hòa
+- Niệm giác chi
 
 ## Phương Pháp Tu Tập
 
-### 1. Chuẩn Bị
-- Giới hạnh thanh tịnh
+### 1. Thứ Tự Phát Triển
+- Bắt đầu với chánh niệm
+- Phát triển tuần tự
+- Hoàn thiện từng chi
+
+### 2. Cách Thức Tu Tập
+- Học hiểu ý nghĩa
+- Áp dụng thực hành
+- Kiểm chứng kết quả
+
+### 3. Điều Kiện Hỗ Trợ
 - Môi trường thích hợp
-- Thiện tri thức hỗ trợ
+- Thiện tri thức
+- Tinh tấn không ngừng
 
-### 2. Thực Hành
-- Tu tập từng chi
-- Phát triển quân bình
-- Liên tục tinh tấn
+## Chướng Ngại và Cách Vượt Qua
 
-### 3. Thành Tựu
-- Các chi viên mãn
-- Giác ngộ giải thoát
+### 1. Chướng Ngại
+- Lười biếng
+- Tán loạn
+- Mất quân bình
+
+### 2. Cách Khắc Phục
+- Tăng cường tinh tấn
+- Duy trì chánh niệm
+- Điều hòa các giác chi
+
+## Lợi Ích của Tu Tập
+
+### 1. Đối Với Tâm
+- Tăng trưởng thiện pháp
+- Giảm thiểu phiền não
+- Phát triển trí tuệ
+
+### 2. Đối Với Tu Tập
+- Con đường giác ngộ
+- Phương pháp toàn diện
+- Tiến bộ vững chắc
+
+### 3. Đối Với Giải Thoát
+- Dẫn đến giác ngộ
 - Chứng đắc Niết-bàn
+- Giải thoát viên mãn
 
 ## Kết Luận
 
 Thất Giác Chi là:
-- Yếu tố thiết yếu
 - Con đường giác ngộ
-- Phương pháp toàn diện
+- Phương pháp tu tập toàn diện
+- Yếu tố thiết yếu cho giải thoát
 
-Để tu tập viên mãn cần:
-- Hiểu rõ ý nghĩa
-- Thực hành đúng pháp
-- Kiên trì tinh tấn
+Để thành tựu cần:
+- Tu tập đồng bộ
+- Phát triển quân bình
+- Kiên trì không ngừng
