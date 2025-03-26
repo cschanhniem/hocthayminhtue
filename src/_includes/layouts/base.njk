@@ -2,7 +2,9 @@
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' https://fonts.googleapis.com https://fonts.gstatic.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; script-src 'self' 'unsafe-inline';">
+    <meta name="description" content="{% if description %}{{ description }}{% else %}Tìm hiểu lý thuyết Phật giáo từ kinh Nikaya với hướng dẫn chi tiết và dễ hiểu{% endif %}">
     <title>{% if title %}{{ title }} - {% endif %}Lý Thuyết Phật Giáo từ Kinh Nikaya</title>
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="icon" href="/images/logo.svg" type="image/svg+xml" />
@@ -19,9 +21,11 @@
         </div>
     </header>
 
+    <div id="menu-backdrop" class="fixed inset-0 bg-black transition-opacity duration-300 ease-in-out opacity-0 z-40 hidden md:hidden" aria-hidden="true"></div>
+
     <div class="container mx-auto px-4 py-8">
         <div class="flex flex-col md:flex-row gap-6">
-            <nav class="sidebar w-full md:w-72 glass-card md:block hidden" id="sidebar">
+            <nav class="sidebar fixed md:static w-full md:w-72 glass-card md:block hidden z-50 top-[72px] left-0 right-0 bottom-0 overflow-y-auto transition-transform duration-300 transform p-4 md:p-0" id="sidebar">
                 <div class="tree-container">
                     {% include "partials/tree.njk" %}
                 </div>

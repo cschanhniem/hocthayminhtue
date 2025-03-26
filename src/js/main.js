@@ -2,12 +2,51 @@ document.addEventListener('DOMContentLoaded', function() {
   // Mobile menu toggle
   const menuToggle = document.getElementById('menu-toggle');
   const sidebar = document.getElementById('sidebar');
+  const backdrop = document.getElementById('menu-backdrop');
   
-  if (menuToggle && sidebar) {
+  if (menuToggle && sidebar && backdrop) {
     menuToggle.addEventListener('click', function() {
-      sidebar.classList.toggle('hidden');
-      // Toggle the hamburger/close icon
-      this.textContent = sidebar.classList.contains('hidden') ? '☰' : '✕';
+      const isOpen = !sidebar.classList.contains('hidden');
+      
+      if (isOpen) {
+        // Close menu with slide and fade animations
+        sidebar.style.transform = 'translateX(-100%)';
+        backdrop.classList.remove('opacity-50');
+        backdrop.classList.add('opacity-0');
+        setTimeout(() => {
+          sidebar.classList.add('hidden');
+          backdrop.classList.add('hidden');
+          document.body.classList.remove('overflow-hidden');
+          sidebar.style.transform = '';
+        }, 300);
+        this.textContent = '☰';
+      } else {
+        // Open menu with slide and fade animations
+        sidebar.classList.remove('hidden');
+        backdrop.classList.remove('hidden');
+        document.body.classList.add('overflow-hidden');
+        // Trigger reflow
+        sidebar.offsetHeight;
+        backdrop.offsetHeight;
+        sidebar.style.transform = 'translateX(0)';
+        backdrop.classList.remove('opacity-0');
+        backdrop.classList.add('opacity-50');
+        this.textContent = '✕';
+      }
+    });
+
+    // Close menu when backdrop is clicked
+    backdrop.addEventListener('click', function() {
+      sidebar.style.transform = 'translateX(-100%)';
+      backdrop.classList.remove('opacity-50');
+      backdrop.classList.add('opacity-0');
+      setTimeout(() => {
+        sidebar.classList.add('hidden');
+        backdrop.classList.add('hidden');
+        document.body.classList.remove('overflow-hidden');
+        sidebar.style.transform = '';
+      }, 300);
+      menuToggle.textContent = '☰';
     });
   }
   
