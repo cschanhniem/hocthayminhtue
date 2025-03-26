@@ -1,8 +1,8 @@
 module.exports = {
   root: {
     id: "root",
-    label: "Kinh Nikaya",
-    content: "nikaya",
+    label: "Giáo Lý Căn Bản",
+    content: "menu",
     children: [
       {
         id: "tudieuđe",
@@ -50,9 +50,9 @@ module.exports = {
             content: "đaođđe",
             children: [
               {
-                id: "bat-chanh-dao",
+                id: "batchanhđao",
                 label: "Bát Chánh Đạo",
-                content: "bat-chanh-dao",
+                content: "batchanhđao",
                 children: [
                   { id: "chanh-kien", label: "Chánh kiến", content: "chanh-kien" },
                   { id: "chanh-tu-duy", label: "Chánh tư duy", content: "chanh-tu-duy" },
@@ -109,61 +109,6 @@ module.exports = {
         ]
       },
       {
-        id: "thap-nhi-nhan-duyen",
-        label: "Thập Nhị Nhân Duyên",
-        content: "thap-nhi-nhan-duyen",
-        children: [
-          { id: "vo-minh", label: "Vô minh", content: "vo-minh" },
-          { id: "hanh", label: "Hành", content: "hanh" },
-          { id: "thuc", label: "Thức", content: "thuc" },
-          { id: "danh-sac", label: "Danh sắc", content: "danh-sac" },
-          { id: "luc-nhap", label: "Lục nhập", content: "luc-nhap" },
-          { id: "xuc", label: "Xúc", content: "xuc" },
-          { id: "tho", label: "Thọ", content: "tho" },
-          { id: "ai", label: "Ái", content: "ai" },
-          { id: "thu", label: "Thủ", content: "thu" },
-          { id: "huu", label: "Hữu", content: "huu" },
-          { id: "sinh", label: "Sinh", content: "sinh" },
-          { id: "lao-tu", label: "Lão tử", content: "lao-tu" }
-        ]
-      },
-      {
-        id: "ngu-uan",
-        label: "Ngũ Uẩn",
-        content: "ngu-uan",
-        children: [
-          { id: "sac", label: "Sắc", content: "sac" },
-          { id: "tho", label: "Thọ", content: "tho" },
-          { id: "tuong", label: "Tưởng", content: "tuong" },
-          { id: "hanh", label: "Hành", content: "hanh" },
-          { id: "thuc", label: "Thức", content: "thuc" }
-        ]
-      },
-      {
-        id: "ba-dac-tinh",
-        label: "Ba Đặc Tính",
-        content: "ba-dac-tinh",
-        children: [
-          { id: "vo-thuong", label: "Vô thường (Anicca)", content: "vo-thuong" },
-          { id: "kho", label: "Khổ (Dukkha)", content: "kho" },
-          { id: "vo-nga", label: "Vô ngã (Anatta)", content: "vo-nga" }
-        ]
-      },
-      {
-        id: "bay-yeu-to-giac-ngo",
-        label: "Bảy Yếu Tố Giác Ngộ",
-        content: "bay-yeu-to-giac-ngo",
-        children: [
-          { id: "niem", label: "Niệm", content: "niem" },
-          { id: "trach-phap", label: "Trạch pháp", content: "trach-phap" },
-          { id: "tinh-tan", label: "Tinh tấn", content: "tinh-tan" },
-          { id: "hy", label: "Hỷ", content: "hy" },
-          { id: "khinh-an", label: "Khinh an", content: "khinh-an" },
-          { id: "dinh", label: "Định", content: "dinh" },
-          { id: "xa", label: "Xả", content: "xa" }
-        ]
-      },
-      {
         id: "tu-niem-xu",
         label: "Tứ Niệm Xứ",
         content: "tu-niem-xu",
@@ -198,20 +143,48 @@ module.exports = {
         ]
       },
       {
-        id: "muoi-ba-la-mat",
-        label: "Mười Ba La Mật",
-        content: "muoi-ba-la-mat",
+        id: "that-giac-chi",
+        label: "Thất Giác Chi",
+        content: "that-giac-chi",
         children: [
-          { id: "bo-thi", label: "Bố thí", content: "bo-thi" },
-          { id: "tri-gioi", label: "Trì giới", content: "tri-gioi" },
-          { id: "xuat-gia", label: "Xuất gia", content: "xuat-gia" },
-          { id: "tri-tue", label: "Trí tuệ", content: "tri-tue" },
+          { id: "niem-giac-chi", label: "Niệm", content: "niem-giac-chi" },
+          { id: "trach-phap", label: "Trạch pháp", content: "trach-phap" },
           { id: "tinh-tan", label: "Tinh tấn", content: "tinh-tan" },
-          { id: "nhan-nhuc", label: "Nhẫn nhục", content: "nhan-nhuc" },
-          { id: "chan-that", label: "Chân thật", content: "chan-that" },
-          { id: "quyet-dinh", label: "Quyết định", content: "quyet-dinh" },
-          { id: "tu-bi", label: "Từ bi", content: "tu-bi" },
-          { id: "hanh-xa", label: "Hành xả", content: "hanh-xa" }
+          { id: "hy-giac-chi", label: "Hỷ", content: "hy-giac-chi" },
+          { id: "khinh-an", label: "Khinh an", content: "khinh-an" },
+          { id: "dinh-giac-chi", label: "Định", content: "dinh-giac-chi" },
+          { id: "xa-giac-chi", label: "Xả", content: "xa-giac-chi" }
+        ]
+      },
+      {
+        id: "thap-nhi-nhan-duyen",
+        label: "Thập Nhị Nhân Duyên",
+        content: "thap-nhi-nhan-duyen",
+        children: [
+          { id: "vo-minh", label: "Vô minh", content: "vo-minh" },
+          { id: "hanh", label: "Hành", content: "hanh" },
+          { id: "thuc", label: "Thức", content: "thuc" },
+          { id: "danh-sac", label: "Danh sắc", content: "danh-sac" },
+          { id: "luc-nhap", label: "Lục nhập", content: "luc-nhap" },
+          { id: "xuc", label: "Xúc", content: "xuc" },
+          { id: "tho", label: "Thọ", content: "tho" },
+          { id: "ai", label: "Ái", content: "ai" },
+          { id: "thu", label: "Thủ", content: "thu" },
+          { id: "huu", label: "Hữu", content: "huu" },
+          { id: "sinh", label: "Sinh", content: "sinh" },
+          { id: "lao-tu", label: "Lão tử", content: "lao-tu" }
+        ]
+      },
+      {
+        id: "ngu-uan",
+        label: "Ngũ Uẩn",
+        content: "ngu-uan",
+        children: [
+          { id: "sac", label: "Sắc", content: "sac" },
+          { id: "tho", label: "Thọ", content: "tho" },
+          { id: "tuong", label: "Tưởng", content: "tuong" },
+          { id: "hanh", label: "Hành", content: "hanh" },
+          { id: "thuc", label: "Thức", content: "thuc" }
         ]
       },
       {
@@ -223,6 +196,16 @@ module.exports = {
           { id: "tu-da-ham", label: "Tư-đà-hàm (Nhất lai)", content: "tu-da-ham" },
           { id: "a-na-ham", label: "A-na-hàm (Bất lai)", content: "a-na-ham" },
           { id: "a-la-han", label: "A-la-hán (Vô sanh)", content: "a-la-han" }
+        ]
+      },
+      {
+        id: "ba-dac-tinh",
+        label: "Ba Đặc Tính",
+        content: "ba-dac-tinh",
+        children: [
+          { id: "vo-thuong", label: "Vô thường (Anicca)", content: "vo-thuong" },
+          { id: "kho", label: "Khổ (Dukkha)", content: "kho" },
+          { id: "vo-nga", label: "Vô ngã (Anatta)", content: "vo-nga" }
         ]
       }
     ]
