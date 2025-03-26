@@ -1,53 +1,46 @@
-{% macro renderTree(node, activeId) %}
-  <li class="tree-node {% if node.id === activeId %}active{% endif %} {% if node.id !== 'root' %}collapsed{% endif %}">
-    <div class="node-content">
-      {% if node.children and node.children.length > 0 %}
-        <button class="toggle" aria-label="Toggle {{ node.label }}">
-          <span class="icon">+</span>
-        </button>
-      {% else %}
-        <span class="leaf-spacer w-6"></span>
-      {% endif %}
-      
-      <a href="/concepts/{{ node.id }}/" class="node-label">{{ node.label }}</a>
-    </div>
-    
-    {% if node.children and node.children.length > 0 %}
-      <ul class="tree-children">
-        {% for child in node.children %}
-          {{ renderTree(child, activeId) }}
-        {% endfor %}
-      </ul>
-    {% endif %}
-  </li>
+{% macro renderNode(node, level=0) %}
+<li>
+  {% if node.children and node.children.length > 0 %}
+  <div class="node-content level-{{ level }}">
+    <button class="toggle" onclick="toggleNode(this)" aria-label="Toggle {{ node.label }}">+</button>
+    <a href="/concepts/{{ node.id }}/" {% if page.url == '/concepts/' + node.id + '/' %}class="active"{% endif %}>
+      {{ node.label }}
+    </a>
+  </div>
+  <ul class="tree-children">
+    {% for child in node.children %}
+      {{ renderNode(child, level + 1) }}
+    {% endfor %}
+  </ul>
+  {% else %}
+  <div class="node-content level-{{ level }}">
+    <span class="leaf-spacer"></span>
+    <a href="/concepts/{{ node.id }}/" {% if page.url == '/concepts/' + node.id + '/' %}class="active"{% endif %}>
+      {{ node.label }}
+    </a>
+  </div>
+  {% endif %}
+</li>
 {% endmacro %}
 
-<ul class="tree-root list-none p-0 m-0">
-  {{ renderTree(concepts.root, activeId) }}
+<ul class="tree">
+  {% for node in concepts %}
+    {{ renderNode(node) }}
+  {% endfor %}
 </ul>
 
-<style>
-.tree-node summary::-webkit-details-marker {
-    display: none;
+<script>
+function toggleNode(button) {
+  const li = button.closest('li');
+  li.classList.toggle('collapsed');
+  button.textContent = li.classList.contains('collapsed') ? '+' : '-';
 }
 
-.tree-node summary::before {
-    content: '►';
-    display: inline-block;
-    margin-right: 5px;
-    transform: rotate(0);
-    transition: transform 0.2s;
-}
-
-.tree-node details[open] > summary::before {
-    transform: rotate(90deg);
-}
-
-.tree-node a {
-    text-decoration: none;
-}
-
-.tree-node a:hover {
-    text-decoration: underline;
-}
-</style>
+// Set initial state of toggle buttons
+document.addEventListener('DOMContentLoaded', () => {
+  const toggles = document.querySelectorAll('.toggle');
+  toggles.forEach(toggle => {
+    toggle.textContent = '-';
+  });
+});
+</script>
