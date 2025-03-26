@@ -4,11 +4,11 @@ pagination:
   data: concepts.root.children
   size: 1
   alias: concept
-permalink: "content/{{ concept.content }}/"
+permalink: "concepts/{{ concept.id }}/"
 ---
 
-{% if concept.content %}
-  {% set content_file = "./src/content/" + concept.content + ".md" %}
+{% if concept.id %}
+  {% set content_file = "../content/" + concept.id + ".md" %}
   {% include content_file %}
 {% else %}
   <h1>{{ concept.label }}</h1>
@@ -20,7 +20,7 @@ permalink: "content/{{ concept.content }}/"
 <ul class="list-disc pl-5">
   {% for child in concept.children %}
     <li class="mb-2">
-      <a href="/content/{{ child.content }}/" class="text-blue-600 hover:text-blue-800">
+      <a href="/concepts/{{ child.id }}/" class="text-blue-600 hover:text-blue-800">
         {{ child.label }}
       </a>
     </li>
