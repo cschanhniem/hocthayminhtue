@@ -1,25 +1,28 @@
 document.addEventListener('DOMContentLoaded', () => {
   const menuToggle = document.getElementById('menu-toggle');
-  const sidebar = document.getElementById('sidebar');
+  const backdrop = document.getElementById('menu-backdrop');
   
-  if (menuToggle && sidebar) {
+  if (menuToggle && backdrop) {
+    // Toggle menu on button click
     menuToggle.addEventListener('click', () => {
-      sidebar.classList.toggle('active');
-      
-      // Toggle aria-expanded
-      const isExpanded = sidebar.classList.contains('active');
-      menuToggle.setAttribute('aria-expanded', isExpanded);
-      
-      // Lock body scroll when menu is open
-      document.body.style.overflow = isExpanded ? 'hidden' : '';
+      const isExpanded = menuToggle.getAttribute('aria-expanded') === 'true';
+      backdrop.classList.toggle('active', !isExpanded);
+      menuToggle.setAttribute('aria-expanded', !isExpanded);
+      document.body.style.overflow = !isExpanded ? 'hidden' : '';
     });
     
-    // Close menu when clicking outside
-    document.addEventListener('click', (e) => {
-      const isClickInside = sidebar.contains(e.target) || menuToggle.contains(e.target);
-      if (!isClickInside && sidebar.classList.contains('active')) {
-        sidebar.classList.remove('active');
-        menuToggle.setAttribute('aria-expanded', false);
+    // Close menu when clicking backdrop
+    backdrop.addEventListener('click', () => {
+      backdrop.classList.remove('active');
+      menuToggle.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
+    });
+    
+    // Close menu on escape key
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && backdrop.classList.contains('active')) {
+        backdrop.classList.remove('active');
+        menuToggle.setAttribute('aria-expanded', 'false');
         document.body.style.overflow = '';
       }
     });

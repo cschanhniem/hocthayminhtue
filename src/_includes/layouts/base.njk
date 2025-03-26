@@ -1,63 +1,151 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="{% if description %}{{ description }}{% else %}Tìm hiểu lý thuyết Phật giáo từ kinh Nikaya với hướng dẫn chi tiết và dễ hiểu{% endif %}">
-    <title>{% if title %}{{ title }} - {% endif %}Lý Thuyết Phật Giáo từ Kinh Nikaya</title>
-    <link rel="icon" href="/images/logo.svg" type="image/svg+xml">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
-    <link href="/css/style.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Inter:wght@400;500&family=EB+Garamond:ital@0;1&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} | Phật Pháp - Kinh Nikaya</title>
+  <meta name="description" content="{{ description }}">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Inter:wght@400;500;600&family=EB+Garamond:ital@0;1&display=swap" rel="stylesheet">
+  
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: {
+              DEFAULT: '#7d5a4f',
+              light: '#9b735c',
+              dark: '#5a3f36'
+            },
+            aurora: {
+              blue: '#58B2DC',
+              purple: '#A59ACA',
+              pink: '#F5B2AC',
+              green: '#A8D8B9'
+            }
+          },
+          fontFamily: {
+            montserrat: ['Montserrat', 'sans-serif'],
+            inter: ['Inter', 'sans-serif'],
+            garamond: ['EB Garamond', 'serif']
+          }
+        }
+      }
+    }
+  </script>
+
+  <style>
+    :root {
+      color-scheme: light;
+    }
+
+    body {
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      background: #f3e9dc;
+      color: #7d5a4f;
+    }
+
+    /* Responsive Typography */
+    html {
+      font-size: 16px;
+    }
+    @media (min-width: 768px) {
+      html {
+        font-size: 18px;
+      }
+    }
+
+    /* Link Styling */
+    a {
+      color: #7d5a4f;
+      text-decoration: none;
+      transition: all 0.2s;
+    }
+    a:hover {
+      color: #9b735c;
+    }
+
+    /* Content Container */
+    .container {
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+    @media (min-width: 640px) {
+      .container {
+        padding-left: 2rem;
+        padding-right: 2rem;
+      }
+    }
+
+    /* Smooth Scrolling */
+    html {
+      scroll-behavior: smooth;
+    }
+
+    /* Focus Styles */
+    *:focus {
+      outline: 2px solid #58B2DC;
+      outline-offset: 2px;
+    }
+
+    /* Print Styles */
+    @media print {
+      body {
+        background: white;
+      }
+      .no-print {
+        display: none;
+      }
+    }
+
+    /* Glassmorphism Base Styles */
+    .glass {
+      background: rgba(255, 255, 255, 0.7);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.5);
+    }
+
+    /* Aurora Base Styles */
+    .aurora {
+      background: linear-gradient(135deg, 
+        rgba(243, 233, 220, 0.8) 0%, 
+        rgba(168, 216, 185, 0.2) 25%, 
+        rgba(165, 154, 202, 0.2) 50%, 
+        rgba(245, 178, 172, 0.2) 75%, 
+        rgba(243, 233, 220, 0.8) 100%
+      );
+      background-size: 400% 400%;
+      animation: aurora 15s ease infinite;
+    }
+
+    @keyframes aurora {
+      0% { background-position: 0% 50% }
+      50% { background-position: 100% 50% }
+      100% { background-position: 0% 50% }
+    }
+  </style>
+
+  {% if extra_css %}
+    {{ extra_css | safe }}
+  {% endif %}
 </head>
-<body>
-    <nav class="container-fluid">
-        <ul>
-            <li>
-                <a href="/" class="logo">
-                    <img src="/images/logo.svg" alt="Logo" width="32" height="32">
-                    <strong>Lý Thuyết Phật Giáo từ Kinh Nikaya</strong>
-                </a>
-            </li>
-        </ul>
-        <ul>
-            <li><button id="menu-toggle" class="outline menu-button" aria-label="Menu">☰</button></li>
-        </ul>
-    </nav>
+<body class="min-h-screen">
+  <main>
+    {{ content | safe }}
+  </main>
 
-    <main class="container">
-        <div class="grid">
-            <aside id="sidebar" class="sidebar">
-                <div class="tree">
-                    {% include "partials/tree.njk" %}
-                </div>
-            </aside>
-            
-            <div class="content">
-                <article>
-                    {{ content | safe }}
-                </article>
+  <footer class="glass text-center py-4 mt-8 text-sm text-[#9b735c] no-print">
+    <p>&copy; {{ "" | currentYear }} Phật Pháp - Kinh Nikaya</p>
+  </footer>
 
-                {% if concept and concept.children and concept.children.length > 0 %}
-                <section class="related-concepts">
-                    <h3>Các khái niệm liên quan</h3>
-                    <ul>
-                        {% for child in concept.children %}
-                        <li>
-                            <a href="/concepts/{{ child.id }}/">{{ child.label }}</a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </section>
-                {% endif %}
-            </div>
-        </div>
-    </main>
-
-    <footer class="container">
-        <p>Dự án cộng đồng chia sẻ lý thuyết Phật giáo từ kinh Nikaya</p>
-    </footer>
-
-    <script src="/js/main.js"></script>
+  {% if extra_js %}
+    {{ extra_js | safe }}
+  {% endif %}
 </body>
 </html>

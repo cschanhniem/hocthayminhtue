@@ -1,0 +1,136 @@
+---
+layout: layouts/base.njk
+---
+
+<div class="aurora-bg min-h-screen">
+  <div class="container max-w-4xl mx-auto px-4 py-8">
+    <article class="prose prose-lg mx-auto">
+      <header class="mb-8 text-center">
+        <h1 class="text-4xl font-montserrat font-bold mb-4 text-[#7d5a4f]">{{ title }}</h1>
+        {% if description %}
+        <p class="text-xl text-[#9b735c] font-inter">{{ description }}</p>
+        {% endif %}
+      </header>
+
+      <div class="glass-card">
+        <div class="content font-inter">
+          {{ content | safe }}
+        </div>
+      </div>
+
+      <footer class="mt-8 pt-4 border-t border-[#c29e80]">
+        <nav class="flex justify-between items-center">
+          <a href="/mindmap/" class="btn-secondary flex items-center">
+            <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/>
+            </svg>
+            Trở về Sơ Đồ
+          </a>
+          <div class="text-sm text-[#9b735c]">
+            Phật Pháp | Kinh Nikaya
+          </div>
+        </nav>
+      </footer>
+    </article>
+  </div>
+</div>
+
+<style>
+.prose {
+  max-width: 80ch;
+}
+
+.prose h2 {
+  color: #7d5a4f;
+  margin-top: 2em;
+  border-bottom: 2px solid #c29e80;
+  padding-bottom: 0.5em;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.prose h3 {
+  color: #9b735c;
+  margin-top: 1.5em;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.prose blockquote {
+  font-family: 'EB Garamond', serif;
+  font-style: italic;
+  color: #7d5a4f;
+  border-left-color: #58B2DC;
+  background: rgba(255, 255, 255, 0.7);
+  padding: 1em;
+  margin: 1.5em 0;
+  border-radius: 0.5em;
+  backdrop-filter: blur(10px);
+}
+
+.prose ul {
+  list-style-type: none;
+  padding-left: 1.5em;
+}
+
+.prose ul li:before {
+  content: "•";
+  color: #58B2DC;
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+
+.content {
+  line-height: 1.8;
+  color: #7d5a4f;
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(125, 90, 79, 0.1);
+  padding: 24px;
+  transition: all 0.3s ease;
+}
+
+.glass-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px rgba(125, 90, 79, 0.15);
+}
+
+.btn-secondary {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(125, 90, 79, 0.3);
+  color: #7d5a4f;
+  border-radius: 8px;
+  padding: 12px 24px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.btn-secondary:hover {
+  background: rgba(194, 158, 128, 0.2);
+  transform: translateY(-2px);
+}
+
+.aurora-bg {
+  background: linear-gradient(135deg, 
+    rgba(243, 233, 220, 0.8) 0%, 
+    rgba(168, 216, 185, 0.2) 25%, 
+    rgba(165, 154, 202, 0.2) 50%, 
+    rgba(245, 178, 172, 0.2) 75%, 
+    rgba(243, 233, 220, 0.8) 100%
+  );
+  background-size: 400% 400%;
+  animation: aurora 15s ease infinite;
+}
+
+@keyframes aurora {
+  0% { background-position: 0% 50% }
+  50% { background-position: 100% 50% }
+  100% { background-position: 0% 50% }
+}
+</style>

@@ -1,110 +1,59 @@
+---
+title: Năm Triền Cái (Nīvaraṇa)
+description: Giới thiệu về năm triền cái - năm chướng ngại che lấp tâm trên con đường tu tập
+---
+
 # Năm Triền Cái
 
-Năm Triền Cái (Pañca Nīvaraṇa) là năm chướng ngại tâm chính, ngăn che tâm trí, cản trở việc tu tập và phát triển trí tuệ. Trong kinh điển, Đức Phật ví năm triền cái như những chất làm ô nhiễm làm mất đi sự trong sáng của tâm.
+Năm triền cái (Nīvaraṇa) là năm chướng ngại che lấp tâm, ngăn cản sự phát triển tâm linh và thiền định. Chúng được gọi là "triền cái" vì chúng trói buộc và che lấp tâm, ngăn không cho ta thấy được chân lý.
 
 ## 1. Tham Dục (Kāmacchanda)
-
-### Định nghĩa
-- Ham muốn dục lạc
-- Tham đắm ngũ trần
-- Khao khát cảm giác dễ chịu
-
-### Biểu hiện
-- Thường xuyên nghĩ về đối tượng ưa thích
-- Khó tập trung vào đề mục thiền
-- Tâm bị lôi kéo bởi những cảm giác dễ chịu
-
-### Đối trị
-- Quán chiếu về bất tịnh
-- Phát triển tri túc (biết đủ)
-- Gìn giữ các căn môn
+- Tham luyến ngũ dục (sắc, thanh, hương, vị, xúc)
+- Ham muốn vật chất và khoái lạc
+- Khao khát và dính mắc với đối tượng ưa thích
+- **Đối trị**: Quán bất tịnh, vô thường
 
 ## 2. Sân Hận (Byāpāda)
-
-### Định nghĩa
-- Tâm giận dữ, bất mãn
-- Ác ý với người khác
-- Chống đối, bất bình
-
-### Biểu hiện
-- Dễ nổi nóng, bực tức
-- Tâm không an ổn
-- Có ý muốn làm hại người khác
-
-### Đối trị
-- Phát triển tâm từ
-- Quán chiếu về nghiệp quả
-- Thực hành nhẫn nhục
+- Giận dữ, bực tức
+- Oán ghét, thù hận
+- Không hài lòng, chống đối
+- **Đối trị**: Tu tập tâm từ bi
 
 ## 3. Hôn Trầm Thụy Miên (Thīna-middha)
-
-### Định nghĩa
-- Tâm mờ mịt, uể oải
-- Buồn ngủ, lười biếng
-- Thiếu năng lượng tu tập
-
-### Biểu hiện
-- Tâm trí mệt mỏi
-- Thường muốn ngủ
-- Thiếu sự tỉnh táo
-
-### Đối trị
-- Điều chỉnh ăn uống hợp lý
-- Thay đổi tư thế tu tập
-- Quán tưởng ánh sáng
+- Tâm mê muội, buồn ngủ
+- Thân tâm nặng nề, uể oải
+- Thiếu năng lượng, không tỉnh táo
+- **Đối trị**: Phát triển tinh tấn, tỉnh thức
 
 ## 4. Trạo Cử Hối Quá (Uddhacca-kukkucca)
-
-### Định nghĩa
-- Trạo cử: Tâm bất an, xao động
-- Hối quá: Lo lắng, ăn năn về việc đã qua
-
-### Biểu hiện
-- Tâm không yên tĩnh
-- Thường lo lắng về quá khứ
-- Khó tập trung thiền định
-
-### Đối trị
-- Phát triển định tâm
-- Quán chiếu về vô thường
-- Tu tập chánh niệm
+- Tâm bất an, xao động
+- Lo lắng, hối hận về quá khứ
+- Không thể an trú trong hiện tại
+- **Đối trị**: Tu tập định tĩnh, buông xả
 
 ## 5. Hoài Nghi (Vicikicchā)
+- Nghi ngờ về Phật, Pháp, Tăng
+- Do dự không quyết định
+- Thiếu niềm tin vào khả năng tu tập
+- **Đối trị**: Học hỏi chánh pháp, thực hành minh sát
 
-### Định nghĩa
-- Nghi ngờ về Phật pháp
-- Thiếu niềm tin vào sự tu tập
-- Không quyết định được phương pháp tu tập
+## Phương Pháp Đối Trị
 
-### Biểu hiện
-- Luôn do dự, thiếu quyết đoán
-- Không tin tưởng vào khả năng của mình
-- Thường xuyên thay đổi pháp môn
+1. **Nhận Diện**: 
+   - Biết rõ khi triền cái sinh khởi
+   - Hiểu rõ tính chất và tác hại của chúng
 
-### Đối trị
-- Học hỏi giáo pháp
-- Thân cận thiện tri thức
-- Thực hành để có kinh nghiệm trực tiếp
+2. **Đối Trị Thích Hợp**:
+   - Mỗi triền cái có phương pháp đối trị riêng
+   - Áp dụng phương pháp phù hợp với từng trường hợp
 
-## Lời Phật dạy
+3. **Tu Tập Liên Tục**:
+   - Kiên trì thực hành
+   - Không nản lòng khi gặp chướng ngại
 
-Trong Kinh Tăng Chi, Đức Phật dạy:
+4. **Phát Triển Yếu Tố Đối Trị**:
+   - Chánh niệm
+   - Trí tuệ
+   - Tinh tấn
 
-> "Này các Tỳ kheo, có năm triền cái này làm cho tâm ô nhiễm, làm cho trí tuệ yếu ớt. Thế nào là năm? Tham dục triền cái, sân hận triền cái, hôn trầm thụy miên triền cái, trạo cử hối quá triền cái, và hoài nghi triền cái."
-
-## Ý nghĩa thực tiễn
-
-### Trong thiền tập
-- Nhận diện các triền cái khi chúng xuất hiện
-- Áp dụng phương pháp đối trị thích hợp
-- Không đồng hóa với các triền cái
-
-### Trong đời sống
-- Giữ tâm chánh niệm
-- Tránh các duyên gây khởi triền cái
-- Phát triển các thiện pháp đối trị
-
-### Kết quả tu tập
-- Tâm trở nên trong sáng
-- Định lực tăng trưởng
-- Trí tuệ phát triển
+Khi năm triền cái được đoạn trừ, tâm trở nên trong sáng, an tịnh và có khả năng thâm nhập vào chân lý, tiến tới giải thoát.

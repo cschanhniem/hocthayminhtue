@@ -1,101 +1,75 @@
-# Chánh Định
+---
+layout: layouts/content.njk
+title: Chánh Định (Sammā Samādhi)
+description: Chi phần thứ tám của Bát Chánh Đạo - thiền định chân chánh dẫn đến giải thoát
+---
 
-Chánh Định (Sammā-samādhi) là chi phần thứ tám trong Bát Chánh Đạo, thuộc nhóm Định. Đây là sự tập trung tâm ý một cách đúng đắn, là nền tảng để phát triển trí tuệ và đạt đến giải thoát.
+## Định Nghĩa từ Kinh Điển
 
-## Bốn Tầng Thiền Định
+Trong Kinh Đại Tứ Thập (Mahācattārīsaka Sutta, MN 117), đức Phật dạy:
 
-### 1. Sơ Thiền (Paṭhama-jhāna)
+> "Và này các Tỳ kheo, thế nào là Chánh định? Này các Tỳ kheo, ở đây vị Tỳ kheo ly dục, ly bất thiện pháp, chứng và trú Thiền thứ nhất, một trạng thái hỷ lạc do ly dục sinh, có tầm có tứ... Thiền thứ hai... Thiền thứ ba... chứng và trú Thiền thứ tư. Này các Tỳ kheo, đây gọi là Chánh định."
 
-#### Đặc điểm
+## Bốn Tầng Thiền (Jhāna)
+
+### 1. Sơ Thiền
+> "Ly dục, ly bất thiện pháp, chứng và trú Thiền thứ nhất, một trạng thái hỷ lạc do ly dục sinh, có tầm có tứ."
+
 - Ly dục (Viveka)
-- Ly bất thiện pháp
-- Còn tầm tứ (Vitakka-vicāra)
-- Có hỷ lạc (Pīti-sukha)
+- Có tầm (Vitakka)
+- Có tứ (Vicāra)
+- Hỷ (Pīti)
+- Lạc (Sukha)
+- Nhất tâm (Ekaggatā)
 
-#### Trạng thái
-- Tâm định một cảnh
-- Vắng lặng các triền cái
-- Thân tâm nhẹ nhàng
+### 2. Nhị Thiền
+> "Diệt tầm và tứ, chứng và trú Thiền thứ hai, một trạng thái hỷ lạc do định sinh, không tầm không tứ, nội tĩnh nhất tâm."
 
-### 2. Nhị Thiền (Dutiya-jhāna)
+- Không tầm tứ
+- Định sinh hỷ lạc
+- Nội tĩnh
+- Nhất tâm
 
-#### Đặc điểm
-- Không còn tầm tứ
-- Nội tĩnh nhất tâm
-- Hỷ lạc tăng trưởng
+### 3. Tam Thiền
+> "Ly hỷ trú xả, chánh niệm tỉnh giác, thân cảm sự lạc thọ... chứng và trú Thiền thứ ba."
 
-#### Trạng thái
-- Định sâu hơn
-- An lạc tăng trưởng
-- Tâm càng thanh tịnh
-
-### 3. Tam Thiền (Tatiya-jhāna)
-
-#### Đặc điểm
 - Ly hỷ
 - Trú xả
-- Chánh niệm tỉnh giác
+- Chánh niệm
+- Tỉnh giác
 - Thân lạc
 
-#### Trạng thái
-- Xả niệm lạc trú
-- Định lực thâm sâu
-- Tâm rất thanh tịnh
+### 4. Tứ Thiền
+> "Xả lạc xả khổ, diệt hỷ ưu đã cảm thọ trước, chứng và trú Thiền thứ tư, không khổ không lạc, xả niệm thanh tịnh."
 
-### 4. Tứ Thiền (Catuttha-jhāna)
-
-#### Đặc điểm
-- Xả lạc
-- Xả khổ
-- Diệt hỷ ưu
-- Không khổ không lạc
-
-#### Trạng thái
+- Xả lạc xả khổ
+- Không hỷ ưu
 - Xả niệm thanh tịnh
-- Định kiên cố
-- Tâm hoàn toàn thanh tịnh
+- Định tâm thuần tịnh
 
-## Lời Phật Dạy
+## Điều Kiện Phát Triển Định
 
-Trong Kinh Tăng Chi Bộ, Đức Phật dạy:
+### 1. Chuẩn Bị Ban Đầu
+- Giới hạnh thanh tịnh
+- Hoàn cảnh thích hợp
+- Tư thế thoải mái
+- Hướng dẫn đúng đắn
 
-> "Này các Tỳ kheo, thế nào là Chánh Định? Ở đây, Tỳ kheo ly dục, ly bất thiện pháp, chứng và trú Sơ thiền... Nhị thiền... Tam thiền... Tứ thiền. Này các Tỳ kheo, đây gọi là Chánh Định."
+### 2. Năm Thiền Chi
+- Tầm (Vitakka)
+- Tứ (Vicāra)
+- Hỷ (Pīti)
+- Lạc (Sukha)
+- Nhất tâm (Ekaggatā)
 
-## Điều Kiện Phát Triển Chánh Định
+### 3. Năm Thiền Duyên
+- Giới thanh tịnh
+- Kiến thanh tịnh
+- Chánh kiến thanh tịnh
+- Nghi thanh tịnh
+- Đạo phi đạo tri kiến thanh tịnh
 
-### 1. Giới Thanh Tịnh
-- Trì giới nghiêm túc
-- Không hối hận
-- Tâm an ổn
-
-### 2. Môi Trường Thích Hợp
-- Nơi thanh vắng
-- Ít tiếng động
-- Thuận lợi cho thiền tập
-
-### 3. Thầy Hướng Dẫn
-- Có kinh nghiệm
-- Hiểu biết đúng đắn
-- Hướng dẫn cụ thể
-
-## Phương Pháp Tu Tập
-
-### 1. Chuẩn Bị
-- Chọn tư thế thích hợp
-- Điều hòa hơi thở
-- Buông xả tạp niệm
-
-### 2. Thực Hành
-- Tập trung vào đề mục
-- Duy trì chánh niệm
-- Phát triển định lực
-
-### 3. Tiến Triển
-- Từng bước vững chắc
-- Không nôn nóng
-- Kiên trì thực tập
-
-## Chướng Ngại và Đối Trị
+## Chướng Ngại của Định
 
 ### 1. Năm Triền Cái
 - Tham dục
@@ -104,48 +78,86 @@ Trong Kinh Tăng Chi Bộ, Đức Phật dạy:
 - Trạo cử hối quá
 - Nghi
 
-### 2. Phương Pháp Đối Trị
-- Quán bất tịnh
-- Tu tâm từ
-- Quán hơi thở
-- An trú chánh niệm
-- Học hỏi giáo pháp
+### 2. Mười Tùy Phiền Não của Định
+- Ánh sáng
+- Tri kiến
+- Hỷ
+- An tịnh
+- Lạc
+- Thắng giải
+- Tinh tấn
+- Niệm
+- Xả
+- Dục
 
-### 3. Duy Trì Định Lực
-- Giữ gìn các căn
-- Tiết độ ăn uống
-- Chú trọng thời khóa
+### 3. Các Chướng Ngại Khác
+- Thân không điều hòa
+- Tâm không tịnh lạc
+- Phóng dật
+- Thất niệm
+
+## Phương Pháp Tu Tập
+
+### 1. Chuẩn Bị
+- Chọn nơi yên tĩnh
+- Tư thế thích hợp
+- Điều hòa hơi thở
+- Buông xả vọng tưởng
+
+### 2. Tiến Hành
+- Chú tâm vào đề mục
+- Duy trì chánh niệm
+- Phát triển định lực
+- Vượt qua chướng ngại
+
+### 3. An Trú
+- Ổn định tâm
+- Phát triển các thiền chi
+- Chứng đắc các tầng thiền
+- Duy trì trạng thái định
 
 ## Lợi Ích của Chánh Định
 
-### 1. Hiện Tại
+### 1. Đối Với Thân
+- Sức khỏe tốt
+- Thân khinh an
+- Năng lượng dồi dào
+
+### 2. Đối Với Tâm
 - Tâm an lạc
-- Thân khỏe mạnh
-- Trí tuệ phát sinh
+- Trí tuệ phát triển
+- Phiền não giảm thiểu
 
-### 2. Tương Lai
-- Tái sinh thiện thú
-- Điều kiện tu tập tốt
-- Tiến bộ trên đạo lộ
+### 3. Đối Với Tu Tập
+- Nền tảng tuệ quán
+- Thần thông phát triển
+- Giải thoát viên mãn
 
-### 3. Giải Thoát
-- Thấy rõ thực tại
-- Đoạn trừ phiền não
-- Chứng ngộ Niết-bàn
+## Mối Liên Hệ với Các Chi Phần Khác
 
-## Kết Quả Viên Mãn
+### 1. Với Chánh Kiến
+- Định hỗ trợ tuệ
+- Tuệ hướng dẫn định
+- Định tuệ tương ứng
 
-### 1. Thiền Định Thâm Sâu
-- Tâm hoàn toàn thanh tịnh
-- Định lực kiên cố
-- Giải thoát các triền cái
+### 2. Với Chánh Niệm
+- Định dựa trên niệm
+- Niệm hỗ trợ định
+- Định niệm song hành
 
-### 2. Trí Tuệ Phát Sinh
-- Thấy rõ Tứ Đế
-- Hiểu sâu nhân duyên
-- Chứng ngộ vô ngã
+### 3. Với Các Chi Phần Khác
+- Giới làm nền tảng
+- Tinh tấn trợ duyên
+- Tất cả hỗ trợ lẫn nhau
 
-### 3. Giải Thoát Rốt Ráo
-- Đoạn trừ lậu hoặc
-- Thoát khỏi sinh tử
-- Chứng đắc Niết-bàn
+## Kết Luận
+
+Chánh Định là:
+- Đỉnh cao của thiền định
+- Nền tảng của tuệ giác
+- Cửa ngõ giải thoát
+
+Để phát triển Chánh Định cần:
+- Tu tập toàn diện
+- Kiên trì tinh tấn
+- Hướng đến giải thoát

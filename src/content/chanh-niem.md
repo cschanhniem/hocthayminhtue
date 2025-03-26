@@ -1,148 +1,128 @@
-# Chánh Niệm
+---
+layout: layouts/content.njk
+title: Chánh Niệm (Sammā Sati)
+description: Chi phần thứ bảy của Bát Chánh Đạo - tỉnh giác và chánh niệm trong tu tập
+---
 
-Chánh Niệm (Sammā-sati) là chi phần thứ bảy trong Bát Chánh Đạo, thuộc nhóm Định. Đây là sự tỉnh giác, nhận biết rõ ràng về thân, thọ, tâm, pháp trong giây phút hiện tại.
+## Định Nghĩa từ Kinh Điển
 
-## Bốn Lãnh Vực Quán Niệm
+Trong Kinh Đại Tứ Thập (Mahācattārīsaka Sutta, MN 117), đức Phật dạy:
 
-### 1. Thân Niệm Xứ (Kāyānupassanā)
+> "Và này các Tỳ kheo, thế nào là Chánh niệm? Này các Tỳ kheo, ở đây vị Tỳ kheo sống quán thân trên thân, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời; sống quán thọ trên các thọ... sống quán tâm trên tâm... sống quán pháp trên các pháp, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời. Này các Tỳ kheo, đây gọi là Chánh niệm."
 
-#### Các đối tượng quán niệm
-- **Hơi thở** (Ānāpānasati)
-  - Hơi thở vào dài/ngắn
-  - Hơi thở ra dài/ngắn
-  - Toàn thân hơi thở
+## Bốn Lãnh Vực Chánh Niệm
 
-- **Tư thế thân** (Iriyāpatha)
-  - Đi, đứng
-  - Nằm, ngồi
-  - Các động tác
+### 1. Niệm Thân (Kāyānupassanā)
+> "Và này các Tỳ kheo, thế nào là quán thân trên thân? Ở đây, này các Tỳ kheo, Tỳ kheo đi đến khu rừng, đi đến gốc cây, hay đi đến ngôi nhà trống..."
 
-- **Các bộ phận cơ thể**
-  - 32 thể trược
-  - Tứ đại
-  - Bản chất vật lý
+- Quán niệm hơi thở
+- Quán tứ oai nghi
+- Quán các động tác
+- Quán 32 thể trược
+- Quán tứ đại
+- Quán 9 giai đoạn tử thi
 
-### 2. Thọ Niệm Xứ (Vedanānupassanā)
+### 2. Niệm Thọ (Vedanānupassanā)
+> "Và này các Tỳ kheo, thế nào là quán thọ trên các thọ? Ở đây, này các Tỳ kheo, Tỳ kheo khi cảm giác lạc thọ, vị ấy biết: 'Tôi cảm giác lạc thọ'..."
 
-#### Các loại cảm thọ
-- Lạc thọ (dễ chịu)
-- Khổ thọ (khó chịu)
-- Xả thọ (trung tính)
+- Nhận biết các cảm thọ
+- Phân biệt các loại thọ
+- Thấy rõ bản chất của thọ
 
-#### Cách quán sát
-- Nhận biết rõ ràng
-- Không đồng hóa
-- Thấy bản chất vô thường
+### 3. Niệm Tâm (Cittānupassanā)
+> "Và này các Tỳ kheo, thế nào là quán tâm trên tâm? Ở đây, này các Tỳ kheo, Tỳ kheo với tâm có tham, biết: 'Tâm có tham'..."
 
-### 3. Tâm Niệm Xứ (Cittānupassanā)
+- Nhận biết trạng thái tâm
+- Thấy rõ tâm sinh diệt
+- Hiểu được bản chất tâm
 
-#### Các trạng thái tâm
-- Tham/không tham
-- Sân/không sân
-- Si/không si
-- Định/tán loạn
+### 4. Niệm Pháp (Dhammānupassanā)
+> "Và này các Tỳ kheo, thế nào là quán pháp trên các pháp? Ở đây, này các Tỳ kheo, Tỳ kheo sống quán pháp trên các pháp đối với năm triền cái..."
 
-#### Phương pháp
-- Ghi nhận đơn thuần
-- Không phán xét
-- Thấy bản chất sinh diệt
+- Quán năm triền cái
+- Quán năm thủ uẩn
+- Quán sáu xứ
+- Quán bảy giác chi
+- Quán tứ diệu đế
 
-### 4. Pháp Niệm Xứ (Dhammānupassanā)
-
-#### Các đối tượng
-- Năm triền cái
-- Năm uẩn
-- Sáu xứ
-- Thất giác chi
-- Tứ đế
-
-## Lời Phật Dạy
-
-Trong Kinh Niệm Xứ (Satipaṭṭhāna Sutta), Đức Phật dạy:
-
-> "Này các Tỳ kheo, đây là con đường độc nhất đưa đến thanh tịnh cho chúng sinh, vượt khỏi sầu bi, diệt trừ khổ ưu, thành tựu chánh trí, chứng ngộ Niết-bàn. Đó là Bốn Niệm Xứ."
-
-## Đặc Điểm của Chánh Niệm
+## Đặc Tính của Chánh Niệm
 
 ### 1. Tỉnh Giác
 - Luôn tỉnh thức
+- Biết rõ ràng
 - Không mê mờ
-- Sáng suốt rõ ràng
 
-### 2. Không Phán Xét
-- Chấp nhận thực tại
-- Không thêm bớt
-- Như thật quán sát
+### 2. Hiện Tại
+- Sống trong giây phút hiện tại
+- Không chạy theo quá khứ
+- Không mơ tưởng tương lai
 
-### 3. Liên Tục
-- Duy trì không gián đoạn
-- Từ sát-na này sang sát-na khác
-- Trong mọi hoạt động
+### 3. Khách Quan
+- Không phán xét
+- Không can thiệp
+- Chỉ quan sát thuần túy
 
-## Phương Pháp Tu Tập
+## Phương Pháp Thực Hành
 
-### 1. Trong Đời Sống Hằng Ngày
-- Ý thức các động tác
-- Nhận biết cảm xúc
-- Theo dõi tâm ý
+### 1. Trong Đời Sống
+- Chánh niệm khi đi
+- Chánh niệm khi đứng
+- Chánh niệm khi nói
+- Chánh niệm khi làm
 
 ### 2. Trong Thiền Tập
-- Chọn đề mục thích hợp
-- Duy trì sự chú ý
-- Phát triển định lực
+- Theo dõi hơi thở
+- Quán sát thân tâm
+- Nhận biết cảm thọ
+- Quán chiếu các pháp
 
-### 3. Kết Hợp Giáo Pháp
-- Áp dụng giáo lý
-- Quán chiếu sâu sắc
-- Phát triển trí tuệ
+### 3. Trong Mọi Hoàn Cảnh
+- Tỉnh thức liên tục
+- Biết rõ mọi việc
+- Không để tâm xao lãng
 
 ## Lợi Ích của Chánh Niệm
 
 ### 1. Đối Với Thân
-- Sức khỏe cải thiện
-- Giảm stress
-- Tăng sự tỉnh táo
+- Giảm căng thẳng
+- Tăng sức khỏe
+- Phòng bệnh hiệu quả
 
 ### 2. Đối Với Tâm
-- An lạc nội tâm
+- An lạc trong hiện tại
 - Giảm phiền não
 - Tăng trí tuệ
 
-### 3. Đối Với Đời Sống
-- Quan hệ tốt đẹp
-- Hiệu quả công việc
-- Sống có ý nghĩa
+### 3. Đối Với Tu Tập
+- Phát triển định lực
+- Tăng trưởng tuệ giác
+- Tiến bộ trên đường đạo
 
-## Chướng Ngại và Cách Vượt Qua
+## Chướng Ngại và Cách Khắc Phục
 
-### 1. Tâm Tán Loạn
-- Nhận biết sự tán loạn
-- Quay về hơi thở
-- Kiên trì thực tập
+### 1. Chướng Ngại
+- Hôn trầm thụy miên
+- Trạo cử hối quá
+- Tâm tán loạn
 
-### 2. Buồn Ngủ
-- Thay đổi tư thế
-- Tăng cường tỉnh giác
-- Điều chỉnh sinh hoạt
+### 2. Nguyên Nhân
+- Thiếu tinh tấn
+- Không có phương pháp
+- Hoàn cảnh không thuận
 
-### 3. Phóng Tâm
-- Ghi nhận sự phóng tâm
-- Không theo nội dung
-- Trở về đề mục
+### 3. Cách Khắc Phục
+- Phát triển tinh tấn
+- Học hỏi phương pháp
+- Tạo môi trường thuận lợi
 
-## Kết Quả Viên Mãn
+## Kết Luận
 
-### 1. Định Phát Triển
-- Tâm an trú
-- Định lực tăng trưởng
-- Thiền định sâu sắc
+Chánh Niệm là:
+- Nền tảng thiết yếu
+- Công cụ chuyển hóa
+- Chìa khóa giải thoát
 
-### 2. Tuệ Phát Sinh
-- Thấy rõ thực tại
-- Hiểu sâu giáo pháp
-- Trí tuệ phát triển
-
-### 3. Giải Thoát
-- Đoạn trừ phiền não
-- Tâm được tự tại
-- Hướng đến Niết-bàn
+Để phát triển Chánh Niệm cần:
+- Thực hành liên tục
+- Kiên trì không ngừng
+- Áp dụng trong mọi lúc

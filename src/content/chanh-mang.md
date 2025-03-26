@@ -1,69 +1,62 @@
-# Chánh Mạng
+---
+layout: layouts/content.njk
+title: Chánh Mạng (Sammā Ājīva)
+description: Chi phần thứ năm của Bát Chánh Đạo - sinh kế chân chánh và đạo đức
+---
 
-Chánh Mạng (Sammā-ājīva) là chi phần thứ năm trong Bát Chánh Đạo, thuộc nhóm Giới. Đây là cách sinh sống chân chánh, nuôi mạng trong sạch theo lời Phật dạy.
+## Định Nghĩa từ Kinh Điển
 
-## Định Nghĩa Chánh Mạng
+Trong Kinh Đại Tứ Thập (Mahācattārīsaka Sutta, MN 117), đức Phật dạy:
 
-### Theo Lời Phật Dạy
-> "Này các Tỳ kheo, thế nào là Chánh Mạng? Ở đây, vị Thánh đệ tử từ bỏ tà mạng, sinh sống bằng Chánh Mạng. Này các Tỳ kheo, đây gọi là Chánh Mạng."
+> "Và này các Tỳ kheo, thế nào là Chánh mạng? Ở đây, này các Tỳ kheo, vị Thánh đệ tử từ bỏ tà mạng, sinh sống bằng chánh mạng. Này các Tỳ kheo, đây gọi là Chánh mạng."
 
-### Năm Nghề Nghiệp Cần Tránh
+## Các Nghề Nghiệp Cần Tránh
 
-1. **Buôn Bán Vũ Khí**
-   - Sản xuất vũ khí
-   - Mua bán vũ khí
-   - Môi giới vũ khí
+### 1. Năm Nghề Bất Chánh
+> "Này các Tỳ kheo, có năm nghề mà người Phật tử tại gia không nên làm..."
 
-2. **Buôn Bán Người**
-   - Buôn người
-   - Nô lệ
-   - Môi giới người
+- Buôn bán vũ khí
+- Buôn bán người
+- Buôn bán thịt và giết mổ
+- Buôn bán độc dược
+- Buôn bán chất say
 
-3. **Buôn Bán Thịt**
-   - Giết mổ sinh vật
-   - Săn bắn
-   - Đánh bắt để giết
+### 2. Các Hình Thức Sinh Sống Bất Chánh
+- Lừa đảo
+- Bất công
+- Bất lương
+- Gây hại cho người khác
 
-4. **Buôn Bán Độc Dược**
-   - Chất gây nghiện
-   - Thuốc độc
-   - Chất gây hại
+## Đặc Điểm của Chánh Mạng
 
-5. **Buôn Bán Chất Say**
-   - Rượu
-   - Ma túy
-   - Các chất gây nghiện
+### 1. Tính Chất Lương Thiện
+- Không gây hại cho chúng sinh
+- Không vi phạm đạo đức
+- Không trái với chánh pháp
 
-## Tiêu Chuẩn của Chánh Mạng
-
-### 1. Hợp Pháp
+### 2. Tính Chất Hợp Pháp
 - Tuân thủ luật pháp
-- Không gian lận
-- Không lừa đảo
+- Tôn trọng quy định xã hội
+- Không gian lận, trốn thuế
 
-### 2. Đạo Đức
-- Không hại người
-- Không hại vật
-- Không hại môi trường
-
-### 3. Lợi Ích
-- Có ích cho xã hội
-- Giúp đỡ người khác
-- Tạo giá trị tích cực
+### 3. Tính Chất Có Ích
+- Đóng góp cho xã hội
+- Mang lại lợi ích cho người
+- Phát triển bền vững
 
 ## Phương Pháp Thực Hành
 
 ### 1. Chọn Nghề Nghiệp
-- Xem xét tính chất công việc
-- Đánh giá tác động đến người khác
-- Cân nhắc khả năng phát triển tâm linh
+- Xét về tính chất đạo đức
+- Đánh giá tác động xã hội
+- Cân nhắc khả năng và sở thích
 
 ### 2. Thực Hiện Công Việc
-- Làm việc trung thực
+- Làm việc chăm chỉ
+- Trung thực, công bằng
 - Có trách nhiệm
-- Giữ đạo đức nghề nghiệp
 
-### 3. Sử Dụng Thu Nhập
+### 3. Quản Lý Thu Nhập
 - Chi tiêu hợp lý
 - Tiết kiệm
 - Chia sẻ, bố thí
@@ -77,8 +70,8 @@ Chánh Mạng (Sammā-ājīva) là chi phần thứ năm trong Bát Chánh Đạ
 
 ### 2. Đối Với Gia Đình
 - Cuộc sống ổn định
-- Tạo gương tốt
-- Hạnh phúc bền vững
+- Hạnh phúc gia đình
+- Tương lai con cái
 
 ### 3. Đối Với Xã Hội
 - Góp phần phát triển
@@ -88,67 +81,62 @@ Chánh Mạng (Sammā-ājīva) là chi phần thứ năm trong Bát Chánh Đạ
 ## Những Thách Thức
 
 ### 1. Áp Lực Kinh Tế
-- Cạnh tranh khốc liệt
-- Khó khăn tài chính
-- Nhu cầu cuộc sống
+- Cạnh tranh gay gắt
+- Chi phí sinh hoạt cao
+- Nhu cầu tài chính
 
 ### 2. Môi Trường Làm Việc
-- Văn hóa công ty không lành mạnh
-- Áp lực từ đồng nghiệp
-- Yêu cầu trái đạo đức
+- Cám dỗ lợi nhuận
+- Thói quen tiêu cực
+- Áp lực đồng nghiệp
 
-### 3. Thói Quen và Định Kiến
-- Thói quen cũ
-- Quan niệm xã hội
-- Áp lực văn hóa
+### 3. Khó Khăn Cá Nhân
+- Trình độ, kỹ năng
+- Hoàn cảnh gia đình
+- Sức khỏe
 
-## Cách Vượt Qua Thách Thức
+## Phương Pháp Khắc Phục
 
-### 1. Phát Triển Kỹ Năng
-- Học hỏi không ngừng
-- Nâng cao chuyên môn
-- Thích ứng với thay đổi
+### 1. Phát Triển Bản Thân
+- Học hỏi nâng cao
+- Rèn luyện kỹ năng
+- Tích lũy kinh nghiệm
 
-### 2. Xây Dựng Mạng Lưới
-- Kết nối với người thiện
-- Học hỏi kinh nghiệm
-- Hỗ trợ lẫn nhau
+### 2. Quản Lý Tài Chính
+- Lập kế hoạch chi tiêu
+- Đầu tư hợp lý
+- Dự phòng rủi ro
 
-### 3. Duy Trì Chánh Niệm
-- Quán chiếu thường xuyên
+### 3. Duy Trì Đạo Đức
 - Giữ vững nguyên tắc
-- Phát triển trí tuệ
+- Không thỏa hiệp với cái ác
+- Kiên định với chánh pháp
 
-## Hướng Dẫn Thực Tiễn
+## Tu Tập Song Song
 
-### 1. Đánh Giá Nghề Nghiệp
-- Kiểm tra tính chất công việc
-- Xem xét tác động
-- Cân nhắc sự phù hợp
+### 1. Phát Triển Trí Tuệ
+- Học hỏi giáo pháp
+- Quán chiếu thực tại
+- Thấu hiểu nhân quả
 
-### 2. Lập Kế Hoạch Chuyển Đổi
-- Xác định mục tiêu
-- Tìm hiểu lộ trình
-- Chuẩn bị nguồn lực
+### 2. Rèn Luyện Tâm
+- Thiền định hàng ngày
+- Phát triển chánh niệm
+- Nuôi dưỡng thiện tâm
 
-### 3. Thực Hiện Từng Bước
-- Bắt đầu với việc nhỏ
-- Kiên trì theo đuổi
-- Điều chỉnh khi cần
+### 3. Thực Hành Đạo Đức
+- Giữ gìn giới hạnh
+- Phát triển từ bi
+- Thực hành bố thí
 
-## Kết Quả Viên Mãn
+## Kết Luận
 
-### 1. Nghề Nghiệp Thanh Tịnh
-- Không hại mình
-- Không hại người
-- Lợi ích xã hội
+Chánh Mạng là:
+- Nền tảng của đời sống đạo đức
+- Điều kiện cho sự tu tập
+- Con đường hạnh phúc
 
-### 2. Tâm An Lạc
-- Không ray rứt
-- Tự tín
-- Hướng thiện
-
-### 3. Tiến Bộ Tâm Linh
-- Phát triển giới đức
-- Tăng trưởng định lực
-- Phát sinh trí tuệ
+Để duy trì Chánh Mạng cần:
+- Kiên định với đạo đức
+- Cân bằng cuộc sống
+- Tinh tấn tu tập
