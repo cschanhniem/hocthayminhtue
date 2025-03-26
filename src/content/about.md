@@ -1,51 +1,58 @@
-# Về Web Học Thầy Minh Tuệ
+---
+layout: layouts/content.njk
+title: Về Chúng Tôi
+description: Giới thiệu về dự án và đội ngũ phát triển
+---
 
-Web Học Thầy Minh Tuệ là một nền tảng trực tuyến được tạo ra với mục đích chia sẻ và học hỏi giáo lý Phật giáo thông qua lời dạy của Thầy Minh Tuệ, cùng với việc tìm hiểu về kinh điển Nikaya.
+## Giới Thiệu
 
-## Mục đích của trang web
+Nikaya là một dự án phi lợi nhuận nhằm mục đích phổ biến và bảo tồn giáo lý Phật giáo thông qua công nghệ hiện đại. Chúng tôi tin rằng việc kết hợp giữa truyền thống và công nghệ sẽ giúp việc học Phật trở nên dễ dàng và hiệu quả hơn.
 
-1. **Học Phật Pháp**
-   - Tiếp cận giáo lý Phật giáo một cách có hệ thống
-   - Tìm hiểu kinh điển Nikaya từ cơ bản đến chuyên sâu
-   - Học hỏi từ lời dạy và hướng dẫn của Thầy Minh Tuệ
+## Sứ Mệnh
 
-2. **Thực hành Tu tập**
-   - Hướng dẫn phương pháp thiền định
-   - Áp dụng giáo lý vào đời sống hàng ngày
-   - Trao đổi kinh nghiệm tu tập
+- Phổ biến giáo lý Phật giáo một cách rộng rãi và dễ tiếp cận
+- Bảo tồn và phát huy các giá trị truyền thống của Phật giáo
+- Tạo ra một nền tảng học tập Phật pháp hiện đại và hiệu quả
+- Kết nối cộng đồng Phật tử và những người quan tâm đến Phật giáo
 
-3. **Kết nối cộng đồng**
-   - Tạo môi trường học tập và thực hành online
-   - Chia sẻ tài liệu và kinh nghiệm
-   - Hỗ trợ lẫn nhau trên con đường tu học
+## Tầm Nhìn
 
-## Cách sử dụng trang web
+Trở thành nền tảng hàng đầu trong việc học tập và nghiên cứu Phật giáo, góp phần vào việc phát triển trí tuệ và đạo đức cho cộng đồng.
 
-1. **Tìm hiểu nội dung**
-   - Sử dụng cây khái niệm bên trái để điều hướng
-   - Đọc từ những khái niệm cơ bản trước
-   - Theo dõi các liên kết để tìm hiểu sâu hơn
+## Đội Ngũ
 
-2. **Tham gia học tập**
-   - Xem các bài giảng của Thầy
-   - Đọc các bài viết hướng dẫn
-   - Thực hành theo hướng dẫn
+Chúng tôi là một nhóm các tình nguyện viên đến từ nhiều lĩnh vực khác nhau, cùng chung tay xây dựng dự án này:
 
-3. **Đóng góp cho trang web**
-   - Chia sẻ kinh nghiệm tu tập
-   - Góp ý cải thiện nội dung
-   - Tham gia xây dựng cộng đồng
+- **Ban Cố Vấn**: Các vị thầy và chuyên gia Phật học
+- **Ban Kỹ Thuật**: Các lập trình viên và chuyên gia công nghệ
+- **Ban Nội Dung**: Các biên tập viên và người viết nội dung
+- **Ban Truyền Thông**: Các chuyên gia marketing và truyền thông
 
-## Liên hệ và Hỗ trợ
+## Cách Tham Gia
 
-Nếu bạn cần hỗ trợ hoặc muốn đóng góp:
-- Email: contact@webhocthayminhue.org
-- Facebook: fb.com/webhocthayminhue
-- Zalo Group: Cộng đồng học Phật với Thầy Minh Tuệ
+Bạn có thể đóng góp vào dự án theo nhiều cách:
 
-## Lời cảm ơn
+1. **Đóng góp nội dung**
+   - Viết bài
+   - Dịch tài liệu
+   - Review và hiệu đính
 
-Chúng tôi xin chân thành cảm ơn:
-- Thầy Minh Tuệ đã cho phép chúng tôi chia sẻ lời dạy của Thầy
-- Quý Phật tử đã đóng góp xây dựng website
-- Cộng đồng học Phật đã luôn ủng hộ và góp ý
+2. **Đóng góp kỹ thuật**
+   - Phát triển tính năng mới
+   - Sửa lỗi
+   - Tối ưu hóa hiệu suất
+
+3. **Đóng góp tài chính**
+   - Quyên góp
+   - Tài trợ
+   - Đầu tư
+
+## Liên Hệ
+
+- Email: contact@nikaya.org
+- Website: https://nikaya.org
+- GitHub: https://github.com/nikaya
+
+## Cảm Ơn
+
+Chúng tôi xin chân thành cảm ơn tất cả những người đã đóng góp vào dự án này. Mọi đóng góp của bạn đều rất quý giá và giúp chúng tôi hoàn thiện hơn mỗi ngày.

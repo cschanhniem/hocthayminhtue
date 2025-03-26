@@ -1,133 +1,163 @@
 ---
-title: Tam Học (Tisikkhā)
-description: Giới thiệu về ba học phần - giới, định, tuệ trong con đường tu tập Phật giáo
+layout: layouts/content.njk
+title: Tam Học (Tisso Sikkhā)
+description: Ba pháp học căn bản trong đạo Phật - Giới, Định, Tuệ - con đường tu tập toàn diện
 ---
 
-# Tam Học
+## Định Nghĩa từ Kinh Điển
 
-Tam học (Tisikkhā) là ba phần học tập căn bản trong đạo Phật, bao gồm Giới, Định và Tuệ. Đây là con đường tu tập tuần tự, trong đó mỗi phần học là nền tảng cho phần học tiếp theo.
+Trong Tương Ưng Bộ Kinh (Saṃyutta Nikāya), đức Phật dạy:
 
-## 1. Giới (Sīla)
-### Bản Chất
-- Nền tảng đạo đức căn bản
-- Khuôn mẫu hành vi đúng đắn
-- Điều phục thân và khẩu
+> "Này các Tỳ kheo, có ba học phần này. Thế nào là ba? Tăng thượng giới học, tăng thượng tâm học, tăng thượng tuệ học. Đây là ba học phần."
 
-### Năm Giới Căn Bản
-1. **Không sát sinh**
-   - Tôn trọng sự sống
-   - Phát triển lòng từ bi
-   - Bảo vệ sinh mạng
+## Ba Học Phần
 
-2. **Không trộm cắp**
-   - Tôn trọng tài sản người khác
-   - Sống chân chính
-   - Không tham lam
+### 1. Giới Học (Adhisīla-sikkhā)
+> "Và này các Tỳ kheo, thế nào là tăng thượng giới học? Ở đây, vị Tỳ kheo sống có giới hạnh..."
 
-3. **Không tà dâm**
-   - Chung thủy trong hôn nhân
-   - Tôn trọng hạnh phúc gia đình
-   - Kiềm chế dục vọng
+#### Ý Nghĩa
+- Đạo đức nền tảng
+- Kỷ luật tự giác
+- Nền tảng tu tập
 
-4. **Không nói dối**
-   - Nói lời chân thật
-   - Giữ uy tín
-   - Xây dựng niềm tin
+#### Nội Dung
+- Ngũ giới
+- Bát quan trai giới
+- Thập thiện
+- Giới luật xuất gia
 
-5. **Không uống rượu**
-   - Giữ tâm tỉnh táo
-   - Tránh xa chất gây nghiện
-   - Bảo vệ trí tuệ
+#### Lợi Ích
+- Không hối hận
+- Tâm được an lạc
+- Nền tảng cho định tuệ
 
-### Lợi Ích
-- Tạo nền tảng đạo đức vững chắc
-- Tránh được hối hận
-- Sống an lạc, hòa hợp
+### 2. Định Học (Adhicitta-sikkhā)
+> "Và này các Tỳ kheo, thế nào là tăng thượng tâm học? Ở đây, vị Tỳ kheo ly dục..."
 
-## 2. Định (Samādhi)
-### Bản Chất
+#### Ý Nghĩa
 - Tập trung tâm ý
-- An trụ trong chánh niệm
+- An định nội tâm
+- Phát triển thiền định
+
+#### Nội Dung
+- Cận định
+- Tứ thiền
+- Tứ vô sắc định
+
+#### Lợi Ích
+- Tâm được thanh tịnh
+- Phiền não lắng dịu
+- Cơ sở cho trí tuệ
+
+### 3. Tuệ Học (Adhipaññā-sikkhā)
+> "Và này các Tỳ kheo, thế nào là tăng thượng tuệ học? Ở đây, vị Tỳ kheo như thật tuệ tri..."
+
+#### Ý Nghĩa
+- Trí tuệ thấu suốt
+- Hiểu biết như thật
+- Giác ngộ giải thoát
+
+#### Nội Dung
+- Văn tuệ
+- Tư tuệ
+- Tu tuệ
+
+#### Lợi Ích
+- Đoạn trừ vô minh
+- Giải thoát phiền não
+- Chứng ngộ Niết-bàn
+
+## Mối Quan Hệ Giữa Ba Học
+
+### 1. Thứ Tự Tu Tập
+- Từ giới đến định
+- Từ định đến tuệ
+- Tuệ củng cố giới định
+
+### 2. Tương Hỗ
+- Giới là nền tảng của định
+- Định là cơ sở của tuệ
+- Tuệ làm trong sạch giới
+
+### 3. Viên Mãn
+- Cả ba phần đầy đủ
+- Hỗ trợ lẫn nhau
+- Đưa đến giải thoát
+
+## Phương Pháp Tu Tập
+
+### 1. Tu Tập Giới
+- Thọ trì giới luật
+- Sống chánh hạnh
+- Phòng hộ các căn
+
+### 2. Tu Tập Định
+- Thiền chỉ
+- Niệm hơi thở
 - Phát triển định lực
 
-### Các Bậc Thiền Định
-1. **Sơ thiền**
-   - Ly dục
-   - Có tầm có tứ
-   - Hỷ lạc sinh từ ly dục
+### 3. Tu Tập Tuệ
+- Văn - Tư - Tu
+- Quán chiếu thực tại
+- Phát triển minh sát
 
-2. **Nhị thiền**
-   - Không tầm không tứ
-   - Hỷ lạc sinh từ định
+## Lợi Ích của Tam Học
 
-3. **Tam thiền**
-   - Ly hỷ
-   - Trú xả
-   - Chánh niệm tỉnh giác
+### 1. Đối Với Đời Sống
+- Sống có đạo đức
+- Tâm được an lạc
+- Trí tuệ sáng suốt
 
-4. **Tứ thiền**
-   - Xả niệm thanh tịnh
-   - Không khổ không lạc
-   - Tâm hoàn toàn thuần tịnh
+### 2. Đối Với Tu Tập
+- Tiến bộ vững chắc
+- Không thối chuyển
+- Đạt được mục tiêu
 
-### Lợi Ích
-- Tâm trở nên trong sáng
-- Phát triển năng lực tập trung
-- Chuẩn bị cho tuệ giác
+### 3. Đối Với Giải Thoát
+- Đoạn trừ phiền não
+- Thoát khỏi luân hồi
+- Chứng đắc Niết-bàn
 
-## 3. Tuệ (Paññā)
-### Bản Chất
-- Trí tuệ thấu suốt
-- Hiểu biết chân chánh
-- Thấy được thực tướng các pháp
+## Chướng Ngại và Cách Vượt Qua
 
-### Các Khía Cạnh
-1. **Văn tuệ**
-   - Học hỏi giáo pháp
-   - Tích lũy kiến thức
-   - Hiểu biết lý thuyết
+### 1. Đối Với Giới
+- Phiền não thô
+- Thói quen xấu
+- Hoàn cảnh khó khăn
 
-2. **Tư tuệ**
-   - Suy nghĩ, quán chiếu
-   - Phân tích, đào sâu
-   - Thẩm xét kỹ lưỡng
+#### Khắc Phục
+- Tàm quý
+- Tinh tấn
+- Thân cận thiện tri thức
 
-3. **Tu tuệ**
-   - Thực hành, trải nghiệm
-   - Chứng ngộ trực tiếp
-   - Thấy được chân lý
+### 2. Đối Với Định
+- Năm triền cái
+- Tán loạn
+- Hôn trầm thụy miên
 
-### Lợi Ích
-- Phá tan vô minh
-- Giải thoát khỏi phiền não
-- Đạt được giác ngộ
+#### Khắc Phục
+- Chánh niệm
+- Tinh tấn đúng mức
+- Điều phục tâm
 
-## Mối Quan Hệ Giữa Ba Học Phần
+### 3. Đối Với Tuệ
+- Vô minh
+- Tà kiến
+- Ngã chấp
 
-### 1. Tương Hỗ
-- Giới là nền tảng của Định
-- Định là nền tảng của Tuệ
-- Tuệ củng cố Giới và Định
-
-### 2. Tiến Trình Tu Tập
-- Từ thô đến tế
-- Từ bên ngoài vào bên trong
-- Từ hình thức đến bản chất
-
-### 3. Thành Tựu
-- Hoàn thiện nhân cách
-- Phát triển tâm linh
-- Đạt đến giải thoát
+#### Khắc Phục
+- Học hỏi chánh pháp
+- Như lý tác ý
+- Thực hành minh sát
 
 ## Kết Luận
 
-Tam học là con đường tu tập toàn diện:
-- Giới đem lại nền tảng đạo đức
-- Định phát triển sức mạnh nội tâm
-- Tuệ dẫn đến giải thoát rốt ráo
+Tam Học là:
+- Con đường toàn diện
+- Phương pháp tu tập căn bản
+- Nền tảng giải thoát
 
-Tu tập Tam học giúp hành giả:
-- Sống đời trong sạch
-- Tâm được an lạc
-- Trí tuệ sáng suốt
-- Tiến đến giải thoát
+Để thành tựu cần:
+- Tu tập đầy đủ ba học
+- Thực hành tinh tấn
+- Hướng đến giải thoát

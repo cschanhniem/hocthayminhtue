@@ -6,6 +6,9 @@
   <title>{{ title }} | Phật Pháp - Kinh Nikaya</title>
   <meta name="description" content="{{ description }}">
   
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="/images/logo.svg">
+  
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -129,6 +132,34 @@
       50% { background-position: 100% 50% }
       100% { background-position: 0% 50% }
     }
+
+    /* Navigation Styles */
+    .nav-link {
+      position: relative;
+      padding: 0.5rem 1rem;
+      transition: all 0.2s;
+    }
+    .nav-link::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      width: 0;
+      height: 2px;
+      background: #7d5a4f;
+      transition: all 0.2s;
+      transform: translateX(-50%);
+    }
+    .nav-link:hover::after {
+      width: 100%;
+    }
+    .nav-link.active {
+      color: #9b735c;
+      font-weight: 500;
+    }
+    .nav-link.active::after {
+      width: 100%;
+    }
   </style>
 
   {% if extra_css %}
@@ -136,6 +167,37 @@
   {% endif %}
 </head>
 <body class="min-h-screen">
+  <!-- Navigation -->
+  <nav class="glass sticky top-0 z-50">
+    <div class="container mx-auto px-4 py-4">
+      <div class="flex items-center justify-between">
+        <a href="/" class="flex items-center space-x-2">
+          <img src="/images/logo.svg" alt="Logo" class="w-8 h-8">
+          <span class="font-montserrat font-semibold text-lg">Nikaya</span>
+        </a>
+        <div class="hidden md:flex items-center space-x-6">
+          <a href="/" class="nav-link {% if page.url === '/' %}active{% endif %}">Trang Chủ</a>
+          <a href="/thay-minh-tue" class="nav-link {% if page.url === '/thay-minh-tue/' %}active{% endif %}">Thầy Minh Tuệ</a>
+          <a href="/about" class="nav-link {% if page.url === '/about/' %}active{% endif %}">Về Chúng Tôi</a>
+        </div>
+        <!-- Mobile Menu Button -->
+        <button class="md:hidden" id="mobile-menu-button">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+          </svg>
+        </button>
+      </div>
+      <!-- Mobile Menu -->
+      <div class="md:hidden hidden" id="mobile-menu">
+        <div class="px-2 pt-2 pb-3 space-y-1">
+          <a href="/" class="block nav-link {% if page.url === '/' %}active{% endif %}">Trang Chủ</a>
+          <a href="/thay-minh-tue" class="block nav-link {% if page.url === '/thay-minh-tue/' %}active{% endif %}">Thầy Minh Tuệ</a>
+          <a href="/about" class="block nav-link {% if page.url === '/about/' %}active{% endif %}">Về Chúng Tôi</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
   <main>
     {{ content | safe }}
   </main>
@@ -143,6 +205,16 @@
   <footer class="glass text-center py-4 mt-8 text-sm text-[#9b735c] no-print">
     <p>Phật Pháp - Kinh Nikaya</p>
   </footer>
+
+  <script>
+    // Mobile menu toggle
+    const mobileMenuButton = document.getElementById('mobile-menu-button');
+    const mobileMenu = document.getElementById('mobile-menu');
+    
+    mobileMenuButton.addEventListener('click', () => {
+      mobileMenu.classList.toggle('hidden');
+    });
+  </script>
 
   {% if extra_js %}
     {{ extra_js | safe }}
