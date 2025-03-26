@@ -1,7 +1,3 @@
----
-layout: layouts/base.njk
-title: Tứ Diệu Đế
----
 # Tứ Diệu Đế
 
 Tứ Diệu Đế (Cattāri Ariyasaccāni) là bốn Thánh đế, được Đức Phật thuyết giảng lần đầu tiên trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta) tại vườn Lộc Uyển (Isipatana) cho năm anh em Kiều-trần-như (Koṇḍañña).
