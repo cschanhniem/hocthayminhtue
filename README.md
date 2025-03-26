@@ -1,6 +1,7 @@
 # Buddhist Concepts from Nikaya
 
-A comprehensive tree-based visualization of Buddhist concepts from the Nikaya suttas, built with 11ty and Tailwind CSS.
+View live at: https://hocthayminhtue.pages.dev/
+
 
 ## Project Overview
 
