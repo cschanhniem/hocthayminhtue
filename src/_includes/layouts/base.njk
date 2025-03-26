@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if title %}{{ title }} - {% endif %}Lý Thuyết Phật Giáo từ Kinh Nikaya</title>
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="icon" href="/images/favicon.ico" />
+</head>
+<body class="min-h-screen bg-bg-base text-text-base">
+  <header class="bg-primary text-white shadow-md">
+    <div class="container py-4 flex justify-between items-center">
+      <h1 class="text-xl m-0">
+        <a href="/" class="text-white hover:text-gray-100 no-underline">Lý Thuyết Phật Giáo từ Kinh Nikaya</a>
+      </h1>
+      <button id="menu-toggle" class="md:hidden bg-transparent border-0 text-white text-2xl cursor-pointer" aria-label="Toggle menu">☰</button>
+    </div>
+  </header>
+
+  <div class="container py-8">
+    <div class="flex flex-col md:flex-row gap-6">
+      <nav class="sidebar w-full md:w-72 bg-sidebar-bg border-b md:border-b-0 md:border-r border-border-base p-4" id="sidebar">
+        <div class="tree-container">
+          {% include "partials/tree.njk" %}
+        </div>
+      </nav>
+      
+      <main class="flex-1">
+        {{ content | safe }}
+      </main>
+    </div>
+  </div>
+
+  <footer class="bg-sidebar-bg border-t border-border-base py-4 text-center text-gray-600 text-sm mt-8">
+    <div class="container">
+      <p>Dự án cộng đồng chia sẻ lý thuyết Phật giáo từ kinh Nikaya</p>
+    </div>
+  </footer>
+
+  <script src="/js/main.js"></script>
+</body>
+</html>

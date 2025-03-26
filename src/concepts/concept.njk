@@ -1,0 +1,36 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: concepts.root.children
+  size: 1
+  alias: concept
+permalink: /concepts/{{ concept.id }}/
+---
+
+{% set activeId = concept.id %}
+
+<article class="concept">
+  <nav class="mb-6 text-sm text-gray-600">
+    <a href="/" class="text-secondary hover:text-hover">Trang chủ</a> &gt; 
+    <span>{{ concept.label }}</span>
+  </nav>
+
+  <h2 class="text-3xl font-bold text-primary mb-6 pb-2 border-b-2 border-secondary">{{ concept.label }}</h2>
+  
+  <div class="concept-content">
+    {% include "../content/" + concept.content + ".md" %}
+  </div>
+  
+  {% if concept.children and concept.children.length > 0 %}
+    <div class="bg-sidebar-bg rounded-lg p-6 mt-8">
+      <h3 class="text-xl font-semibold text-secondary mb-4">Các khái niệm liên quan:</h3>
+      <ul class="space-y-2">
+        {% for child in concept.children %}
+          <li>
+            <a href="/concepts/{{ child.id }}" class="text-secondary hover:text-hover">{{ child.label }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+</article>
