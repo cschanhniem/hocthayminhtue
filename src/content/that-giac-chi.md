@@ -1,141 +1,98 @@
-# Thất Giác Chi
+---
+layout: layouts/content.njk
+title: Thất Giác Chi (Seven Factors of Enlightenment)
+description: Bảy yếu tố dẫn đến giác ngộ - Niệm, Trạch pháp, Tinh tấn, Hỷ, Khinh an, Định, Xả
+---
 
-Thất Giác Chi (Satta Bojjhaṅga - Bảy Yếu Tố Giác Ngộ) là bảy pháp tu tập quan trọng giúp hành giả tiến đến giác ngộ. Đây là những yếu tố được Đức Phật thường xuyên nhắc đến trong nhiều bài kinh, đặc biệt là trong các kinh về thiền tập.
+## Định Nghĩa từ Kinh Điển
 
-## 1. Niệm Giác Chi (Sati-sambojjhaṅga)
+Trong Tương Ưng Bộ Kinh (Saṃyutta Nikāya), đức Phật dạy:
 
-### Định nghĩa
-- Tỉnh giác, nhận biết rõ ràng
-- Chánh niệm trong mọi hoạt động
-- Tâm luôn sáng suốt, tỉnh thức
+> "Này các Tỳ kheo, có bảy giác chi này. Thế nào là bảy? Niệm giác chi, trạch pháp giác chi, tinh tấn giác chi, hỷ giác chi, khinh an giác chi, định giác chi, xả giác chi."
 
-### Thực hành
-- Quán niệm thân
-- Quán niệm thọ
-- Quán niệm tâm
-- Quán niệm pháp
+## Ý Nghĩa
 
-## 2. Trạch Pháp Giác Chi (Dhammavicaya-sambojjhaṅga)
+Thất Giác Chi (Satta Bojjhaṅgā) là bảy yếu tố dẫn đến giác ngộ, là những phẩm chất tinh thần cần được phát triển để đạt được sự giác ngộ hoàn toàn.
 
-### Định nghĩa
-- Tìm hiểu, phân biệt các pháp
-- Phân tích thiện ác, đúng sai
-- Thấu hiểu bản chất các pháp
+## Bảy Giác Chi
 
-### Thực hành
-- Học hỏi giáo pháp
-- Thẩm sát các pháp
-- Phân biệt chánh tà
+### 1. Niệm Giác Chi (Sati-sambojjhaṅga)
+- Chánh niệm tỉnh giác
+- Quán sát thân, thọ, tâm, pháp
+- Duy trì sự tỉnh thức trong hiện tại
 
-## 3. Tinh Tấn Giác Chi (Viriya-sambojjhaṅga)
+### 2. Trạch Pháp Giác Chi (Dhammavicaya-sambojjhaṅga)
+- Tìm hiểu và phân tích Chánh pháp
+- Thẩm sát các pháp thiện và bất thiện
+- Phát triển trí tuệ phân biệt
 
-### Định nghĩa
-- Nỗ lực không ngừng
-- Kiên trì tu tập
-- Vượt qua chướng ngại
+### 3. Tinh Tấn Giác Chi (Viriya-sambojjhaṅga)
+- Nỗ lực không ngừng nghỉ
+- Tinh cần tu tập
+- Duy trì sự tinh tấn
 
-### Thực hành
-- Tinh tấn ngăn ác pháp
-- Tinh tấn phát triển thiện pháp
-- Tinh tấn duy trì thiện pháp
+### 4. Hỷ Giác Chi (Pīti-sambojjhaṅga)
+- Hoan hỷ trong pháp
+- Niềm vui thanh tịnh
+- Tâm hân hoan
 
-## 4. Hỷ Giác Chi (Pīti-sambojjhaṅga)
+### 5. Khinh An Giác Chi (Passaddhi-sambojjhaṅga)
+- Thân tâm nhẹ nhàng
+- An tịnh nội tâm
+- Thoát khỏi phiền não
 
-### Định nghĩa
-- Niềm vui trong tu tập
-- Hoan hỷ với thiện pháp
-- Phấn khởi trên đường đạo
+### 6. Định Giác Chi (Samādhi-sambojjhaṅga)
+- Tâm định tĩnh
+- Nhất tâm bất loạn
+- Tập trung tinh thần
 
-### Năm loại hỷ
-1. Tiểu hỷ (khuppaka pīti)
-2. Khanika hỷ (momentary joy)
-3. Okkantika hỷ (flooding joy)
-4. Ubbega hỷ (uplifting joy)
-5. Pharana hỷ (pervading joy)
+### 7. Xả Giác Chi (Upekkhā-sambojjhaṅga)
+- Tâm bình đẳng
+- Không chấp trước
+- Buông xả
 
-## 5. Khinh An Giác Chi (Passaddhi-sambojjhaṅga)
+## Phương Pháp Tu Tập
 
-### Định nghĩa
-- An tịnh thân tâm
-- Nhẹ nhàng, thanh thản
-- Vắng lặng các phiền não
+### 1. Điều Kiện Phát Triển
+- Sống trong môi trường thích hợp
+- Thân cận thiện tri thức
+- Thực hành chánh niệm
 
-### Biểu hiện
-- Thân thể nhẹ nhàng
-- Tâm trí yên tĩnh
-- Cảm giác an lạc
+### 2. Cách Thực Hành
+- Quán sát thân tâm
+- Phát triển các giác chi
+- Duy trì sự cân bằng
 
-## 6. Định Giác Chi (Samādhi-sambojjhaṅga)
+### 3. Dấu Hiệu Thành Tựu
+- Tâm an tịnh
+- Trí tuệ sáng suốt
+- Giải thoát phiền não
 
-### Định nghĩa
-- Tâm an trú một cảnh
-- Không tán loạn
-- Tập trung sâu lắng
+## Lợi Ích
 
-### Các tầng thiền định
-1. Sơ thiền
-2. Nhị thiền
-3. Tam thiền
-4. Tứ thiền
+### 1. Đối Với Bản Thân
+- Tăng trưởng trí tuệ
+- An lạc nội tâm
+- Giải thoát khổ đau
 
-## 7. Xả Giác Chi (Upekkhā-sambojjhaṅga)
+### 2. Đối Với Người Khác
+- Làm gương sáng
+- Hướng dẫn tu tập
+- Lợi lạc chúng sinh
 
-### Định nghĩa
-- Tâm quân bình
-- Không thiên vị
-- Buông xả chấp thủ
+### 3. Đối Với Đạo Pháp
+- Duy trì chánh pháp
+- Chứng minh đạo quả
+- Truyền bá giáo lý
 
-### Đặc tính
-- Không thương ghét
-- Không vui buồn
-- Tâm luôn trung đạo
+## Kết Luận
 
-## Lời Phật dạy
+Thất Giác Chi là:
+- Con đường dẫn đến giác ngộ
+- Phương pháp tu tập vi diệu
+- Nền tảng của sự giải thoát
 
-Trong Kinh Tương Ưng Bộ, Đức Phật dạy:
-
-> "Này các Tỳ kheo, bảy Giác Chi này được tu tập, được làm cho sung mãn, đưa đến thắng trí, giác ngộ và Niết-bàn. Thế nào là bảy? Niệm Giác Chi, Trạch Pháp Giác Chi, Tinh Tấn Giác Chi, Hỷ Giác Chi, Khinh An Giác Chi, Định Giác Chi, Xả Giác Chi."
-
-## Phương pháp tu tập
-
-### Thứ tự phát triển
-1. Bắt đầu với Niệm Giác Chi
-2. Dẫn đến Trạch Pháp
-3. Khởi Tinh Tấn
-4. Sanh Hỷ
-5. An tịnh (Khinh An)
-6. Đạt Định
-7. Thành tựu Xả
-
-### Điều kiện thuận lợi
-1. **Môi trường thích hợp**
-   - Nơi thanh tịnh
-   - Xa lánh ồn ào
-   - Gần thiện tri thức
-
-2. **Thân tâm chuẩn bị**
-   - Giữ giới trong sạch
-   - Điều độ ăn uống
-   - Tâm không phiền não
-
-3. **Phương pháp đúng đắn**
-   - Theo lời Phật dạy
-   - Có thầy hướng dẫn
-   - Tu tập đều đặn
-
-## Lợi ích của thực hành
-
-1. **Đối với tâm**
-   - Tâm được thanh tịnh
-   - Trí tuệ phát triển
-   - Phiền não giảm thiểu
-
-2. **Đối với tu tập**
-   - Tiến bộ vững chắc
-   - Không thối chuyển
-   - Đạt được định tuệ
-
-3. **Đối với giải thoát**
-   - Thấy rõ chân lý
-   - Đoạn trừ lậu hoặc
-   - Hướng đến Niết-bàn
+Để phát triển cần:
+- Tu tập miên mật
+- Duy trì sự cân bằng
+- Phát triển đồng đều

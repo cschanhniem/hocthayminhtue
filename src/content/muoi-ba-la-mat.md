@@ -1,189 +1,113 @@
 ---
 layout: layouts/content.njk
-title: Thập Ba La Mật (Dasa Pāramī)
-description: Mười pháp tu tập toàn hảo - con đường tu tập viên mãn của Bồ Tát đạo
+title: Mười Ba La Mật (Ten Perfections)
+description: Mười phẩm chất viên mãn dẫn đến giác ngộ - Bố thí, Trì giới, Xuất gia, Trí tuệ, Tinh tấn, Nhẫn nhục, Chân thật, Quyết định, Từ bi, Hành xả
 ---
 
 ## Định Nghĩa từ Kinh Điển
 
-Trong Kinh Tiền Thân Đức Phật (Jātaka), mười ba la mật được mô tả:
+Trong Kinh Bổn Sanh (Jātaka), đức Phật dạy:
 
-> "Đây là những pháp tu tập toàn hảo mà các vị Bồ Tát đã tu tập qua vô lượng kiếp để đạt được Phật quả: Bố thí, Trì giới, Xuất gia, Trí tuệ, Tinh tấn, Nhẫn nhục, Chân thật, Quyết định, Từ bi và Xả."
+> "Này các Tỳ kheo, có mười ba la mật này. Thế nào là mười? Bố thí ba la mật, trì giới ba la mật, xuất gia ba la mật, trí tuệ ba la mật, tinh tấn ba la mật, nhẫn nhục ba la mật, chân thật ba la mật, quyết định ba la mật, từ bi ba la mật, hành xả ba la mật."
+
+## Ý Nghĩa
+
+Ba La Mật (Pāramī) có nghĩa là "đến bờ bên kia" - những phẩm chất viên mãn giúp hành giả vượt qua bờ mê đến bờ giác ngộ.
 
 ## Mười Ba La Mật
 
-### 1. Bố Thí Ba La Mật (Dāna Pāramī)
-> "Bố thí là nền tảng của công đức..."
+### 1. Bố Thí Ba La Mật (Dāna-pāramī)
+- Cho tặng không mong cầu
+- Buông xả tài sản
+- Lợi lạc chúng sinh
 
-#### Ý Nghĩa
-- Cho đi không điều kiện
-- Xả bỏ chấp thủ
-- Phát triển tâm rộng lượng
+### 2. Trì Giới Ba La Mật (Sīla-pāramī)
+- Giữ giới thanh tịnh
+- Đạo đức viên mãn
+- Hành thiện tránh ác
 
-#### Thực Hành
-- Bố thí tài vật
-- Bố thí pháp
-- Bố thí vô úy
-
-### 2. Trì Giới Ba La Mật (Sīla Pāramī)
-> "Giới là nền tảng của mọi thiện pháp..."
-
-#### Ý Nghĩa
-- Sống đạo đức
-- Không hại mình người
-- Nền tảng tu tập
-
-#### Thực Hành
-- Giữ năm giới
-- Sống thanh tịnh
-- Phòng hộ các căn
-
-### 3. Xuất Gia Ba La Mật (Nekkhamma Pāramī)
-> "Xuất gia là từ bỏ thế tục..."
-
-#### Ý Nghĩa
-- Từ bỏ thế gian
+### 3. Xuất Gia Ba La Mật (Nekkhamma-pāramī)
+- Từ bỏ thế tục
 - Sống đời phạm hạnh
-- Hướng đến giải thoát
+- Ly dục thanh tịnh
 
-#### Thực Hành
-- Sống đơn giản
-- Thiểu dục tri túc
-- Không tham đắm dục lạc
+### 4. Trí Tuệ Ba La Mật (Paññā-pāramī)
+- Hiểu biết sâu sắc
+- Thấy rõ chân lý
+- Minh sát tuệ
 
-### 4. Trí Tuệ Ba La Mật (Paññā Pāramī)
-> "Trí tuệ là ánh sáng phá tan bóng tối vô minh..."
-
-#### Ý Nghĩa
-- Hiểu rõ chân lý
-- Thấy được thực tướng
-- Đoạn trừ vô minh
-
-#### Thực Hành
-- Học hỏi chánh pháp
-- Tư duy quán chiếu
-- Phát triển trí tuệ
-
-### 5. Tinh Tấn Ba La Mật (Vīriya Pāramī)
-> "Tinh tấn là động lực đưa đến thành tựu..."
-
-#### Ý Nghĩa
+### 5. Tinh Tấn Ba La Mật (Viriya-pāramī)
 - Nỗ lực không ngừng
 - Kiên trì tu tập
-- Không thối chuyển
-
-#### Thực Hành
-- Tinh tấn đúng pháp
 - Vượt qua chướng ngại
-- Tiến bộ không ngừng
 
-### 6. Nhẫn Nhục Ba La Mật (Khanti Pāramī)
-> "Nhẫn nhục là sức mạnh lớn nhất..."
+### 6. Nhẫn Nhục Ba La Mật (Khanti-pāramī)
+- Chịu đựng bền bỉ
+- Kham nhẫn khó khăn
+- Không oán hận
 
-#### Ý Nghĩa
-- Chịu đựng khó khăn
-- Không sân hận
-- Tâm bình thản
+### 7. Chân Thật Ba La Mật (Sacca-pāramī)
+- Ngay thẳng chính trực
+- Không dối trá
+- Thành thật với mình
 
-#### Thực Hành
-- Nhẫn nhục trước nghịch cảnh
-- Không phiền não
-- Giữ tâm thanh tịnh
-
-### 7. Chân Thật Ba La Mật (Sacca Pāramī)
-> "Chân thật là nền tảng của mọi đức hạnh..."
-
-#### Ý Nghĩa
-- Nói lời chân thật
-- Sống trung thực
-- Không giả dối
-
-#### Thực Hành
-- Giữ lời hứa
-- Sống chân thật
-- Không dối gạt
-
-### 8. Quyết Định Ba La Mật (Adhiṭṭhāna Pāramī)
-> "Quyết định là ý chí không lay chuyển..."
-
-#### Ý Nghĩa
+### 8. Quyết Định Ba La Mật (Adhiṭṭhāna-pāramī)
 - Ý chí kiên định
-- Không thối chuyển
 - Quyết tâm tu tập
+- Không thối chuyển
 
-#### Thực Hành
-- Lập nguyện vững chắc
-- Thực hiện đến cùng
-- Không bỏ dở
+### 9. Từ Bi Ba La Mật (Mettā-Karuṇā-pāramī)
+- Lòng thương chúng sinh
+- Cứu khổ ban vui
+- Lợi lạc quần sanh
 
-### 9. Từ Bi Ba La Mật (Mettā Pāramī)
-> "Từ bi là tình thương không biên giới..."
-
-#### Ý Nghĩa
-- Thương yêu vô điều kiện
-- Mong chúng sinh an lạc
-- Ban vui cứu khổ
-
-#### Thực Hành
-- Phát triển tâm từ
-- Thương yêu chúng sinh
-- Hành động lợi tha
-
-### 10. Xả Ba La Mật (Upekkhā Pāramī)
-> "Xả là tâm bình đẳng trước mọi cảnh..."
-
-#### Ý Nghĩa
+### 10. Hành Xả Ba La Mật (Upekkhā-pāramī)
 - Tâm bình đẳng
 - Không phân biệt
-- Không chấp thủ
-
-#### Thực Hành
-- Giữ tâm quân bình
-- Không thiên vị
 - Buông xả chấp trước
 
-## Ba Mức Độ Tu Tập
+## Phương Pháp Tu Tập
 
-### 1. Thông Thường (Pāramī)
-- Tu tập cơ bản
-- Trong khả năng
-- Mức độ thông thường
+### 1. Điều Kiện Phát Triển
+- Sống trong môi trường thích hợp
+- Thân cận thiện tri thức
+- Thực hành chánh niệm
 
-### 2. Trung Bình (Upapāramī)
-- Tu tập tiến bộ
-- Vượt khả năng thông thường
-- Mức độ cao hơn
+### 2. Cách Thực Hành
+- Tu tập từng ba la mật
+- Phát triển đồng đều
+- Duy trì sự cân bằng
 
-### 3. Tối Thượng (Paramattha Pāramī)
-- Tu tập viên mãn
-- Hy sinh tất cả
-- Mức độ tối thượng
+### 3. Dấu Hiệu Thành Tựu
+- Tâm thanh tịnh
+- Trí tuệ sáng suốt
+- Giải thoát phiền não
 
-## Lợi Ích của Tu Tập
+## Lợi Ích
 
 ### 1. Đối Với Bản Thân
-- Phát triển đức hạnh
-- Tăng trưởng thiện pháp
-- Tiến bộ tâm linh
+- Tăng trưởng phước đức
+- Phát triển trí tuệ
+- Giải thoát khổ đau
 
 ### 2. Đối Với Người Khác
-- Lợi ích chúng sinh
 - Làm gương sáng
-- Giáo hóa độ sinh
+- Hướng dẫn tu tập
+- Lợi lạc chúng sinh
 
 ### 3. Đối Với Đạo Pháp
 - Duy trì chánh pháp
-- Phát triển đạo pháp
-- Lợi lạc quần sinh
+- Chứng minh đạo quả
+- Truyền bá giáo lý
 
 ## Kết Luận
 
-Thập Ba La Mật là:
-- Con đường Bồ Tát
-- Pháp tu viên mãn
-- Đưa đến Phật quả
+Mười Ba La Mật là:
+- Con đường dẫn đến giác ngộ
+- Phương pháp tu tập vi diệu
+- Nền tảng của sự giải thoát
 
-Để thành tựu cần:
+Để phát triển cần:
 - Tu tập miên mật
-- Phát triển toàn diện
-- Hướng đến viên mãn
+- Duy trì sự cân bằng
+- Phát triển đồng đều

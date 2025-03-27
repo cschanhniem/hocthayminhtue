@@ -1,134 +1,87 @@
 ---
 layout: layouts/content.njk
-title: Tứ Niệm Xứ (Satipaṭṭhāna)
-description: Bốn lĩnh vực quán niệm - nền tảng của thiền tuệ trong đạo Phật
+title: Tứ Niệm Xứ (Four Foundations of Mindfulness)
+description: Bốn nền tảng chánh niệm - Thân, Thọ, Tâm, Pháp - con đường duy nhất dẫn đến thanh tịnh, vượt khỏi sầu bi, chấm dứt khổ đau
 ---
 
 ## Định Nghĩa từ Kinh Điển
 
-Trong Kinh Tứ Niệm Xứ (Satipaṭṭhāna Sutta), đức Phật dạy:
+Trong Kinh Niệm Xứ (Satipaṭṭhāna Sutta), đức Phật dạy:
 
-> "Này các Tỳ kheo, đây là con đường độc nhất đưa đến thanh tịnh cho chúng sinh, vượt khỏi sầu não, diệt trừ khổ ưu, thành tựu chánh trí, chứng ngộ Niết-bàn. Đó là Bốn Niệm Xứ."
+> "Này các Tỳ kheo, đây là con đường độc nhất đưa đến thanh tịnh cho chúng sinh, vượt khỏi sầu bi, chấm dứt khổ đau, thành tựu chánh lý, chứng ngộ Niết-bàn. Đó là bốn niệm xứ."
 
-## Bốn Lĩnh Vực Quán Niệm
+## Ý Nghĩa
 
-### 1. [Thân Niệm Xứ](/content/than-niem-xu/) (Kāyānupassanā)
-> "Và này các Tỳ kheo, thế nào là Tỳ kheo quán thân trên thân?"
+Tứ Niệm Xứ (Cattāri Satipaṭṭhānāni) là bốn nền tảng chánh niệm, là con đường duy nhất dẫn đến giác ngộ và giải thoát.
 
-#### Các Đề Mục
-- Quán niệm hơi thở
-- Quán bốn oai nghi
-- Quán các động tác
-- Quán 32 thể trược
-- Quán tứ đại
-- Quán 9 giai đoạn tử thi
+## Bốn Niệm Xứ
 
-#### Mục Đích
-- Thấy rõ thân bất tịnh
-- Hiểu bản chất vật chất
-- Không đồng nhất với thân
+### 1. Thân Niệm Xứ (Kāyānupassanā)
+- Quán sát thân thể
+- Thấy rõ hơi thở
+- Biết rõ các oai nghi
+- Quán tưởng bất tịnh
 
-### 2. [Thọ Niệm Xứ](/content/tho-niem-xu/) (Vedanānupassanā)
-> "Và này các Tỳ kheo, thế nào là Tỳ kheo quán thọ trên các thọ?"
+### 2. Thọ Niệm Xứ (Vedanānupassanā)
+- Quán sát cảm thọ
+- Thấy rõ lạc thọ
+- Thấy rõ khổ thọ
+- Thấy rõ bất khổ bất lạc thọ
 
-#### Các Loại Thọ
-- Lạc thọ
-- Khổ thọ
-- Bất khổ bất lạc thọ
+### 3. Tâm Niệm Xứ (Cittānupassanā)
+- Quán sát tâm
+- Thấy rõ tham
+- Thấy rõ sân
+- Thấy rõ si
 
-#### Mục Đích
-- Thấy rõ bản chất của thọ
-- Không đồng hóa với cảm thọ
-- Hiểu được vô thường của thọ
+### 4. Pháp Niệm Xứ (Dhammānupassanā)
+- Quán sát các pháp
+- Thấy rõ năm triền cái
+- Thấy rõ năm thủ uẩn
+- Thấy rõ sáu nội ngoại xứ
 
-### 3. [Tâm Niệm Xứ](/content/tam-niem-xu/) (Cittānupassanā)
-> "Và này các Tỳ kheo, thế nào là Tỳ kheo quán tâm trên tâm?"
+## Phương Pháp Tu Tập
 
-#### Các Trạng Thái Tâm
-- Tâm có tham/không tham
-- Tâm có sân/không sân
-- Tâm có si/không si
-- Tâm định/tán loạn
+### 1. Điều Kiện Phát Triển
+- Sống trong môi trường thích hợp
+- Thân cận thiện tri thức
+- Thực hành chánh niệm
 
-#### Mục Đích
-- Thấy rõ bản chất tâm
-- Không đồng hóa với tâm
-- Hiểu được vô thường của tâm
+### 2. Cách Thực Hành
+- Quán sát thân tâm
+- Phát triển chánh niệm
+- Duy trì sự tỉnh giác
 
-### 4. [Pháp Niệm Xứ](/content/phap-niem-xu/) (Dhammānupassanā)
-> "Và này các Tỳ kheo, thế nào là Tỳ kheo quán pháp trên các pháp?"
+### 3. Dấu Hiệu Thành Tựu
+- Tâm thanh tịnh
+- Trí tuệ sáng suốt
+- Giải thoát phiền não
 
-#### Các Đề Mục
-- Năm triền cái
-- Năm thủ uẩn
-- Sáu nội ngoại xứ
-- Bảy giác chi
-- Tứ diệu đế
+## Lợi Ích
 
-#### Mục Đích
-- Thấy rõ thực tướng các pháp
-- Hiểu được tính duyên sinh
+### 1. Đối Với Bản Thân
+- Tăng trưởng phước đức
 - Phát triển trí tuệ
+- Giải thoát khổ đau
 
-## Phương Pháp Thực Hành
+### 2. Đối Với Người Khác
+- Làm gương sáng
+- Hướng dẫn tu tập
+- Lợi lạc chúng sinh
 
-### 1. Chánh Niệm
-- Tỉnh giác liên tục
-- Không phán xét
-- Quan sát thuần túy
-
-### 2. Tỉnh Giác
-- Biết rõ ràng
-- Hiểu biết trọn vẹn
-- Thấy như thật
-
-### 3. Không Tham Ưu
-- Buông xả chấp thủ
-- Không dính mắc
-- Tự tại với đối tượng
-
-## Lợi Ích của Tu Tập
-
-### 1. Đối Với Tâm
-- Tâm được thanh tịnh
-- Định lực tăng trưởng
-- Trí tuệ phát sinh
-
-### 2. Đối Với Tuệ Giác
-- Thấy rõ vô thường
-- Hiểu được khổ não
-- Chứng ngộ vô ngã
-
-### 3. Đối Với Giải Thoát
-- Đoạn trừ phiền não
-- Thoát khỏi chấp thủ
-- Chứng đắc Niết-bàn
-
-## Phương Pháp Tu Tập Tổng Quát
-
-### 1. Chuẩn Bị
-- Chọn nơi yên tĩnh
-- Tư thế thích hợp
-- Điều hòa hơi thở
-
-### 2. Thực Hành
-- Duy trì chánh niệm
-- Quán sát đối tượng
-- Phát triển tỉnh giác
-
-### 3. Phát Triển
-- Từ thô đến tế
-- Từ dễ đến khó
-- Tiệm tiến không ngừng
+### 3. Đối Với Đạo Pháp
+- Duy trì chánh pháp
+- Chứng minh đạo quả
+- Truyền bá giáo lý
 
 ## Kết Luận
 
 Tứ Niệm Xứ là:
-- Con đường trực tiếp
-- Phương pháp toàn diện
-- Cửa ngõ giải thoát
+- Con đường duy nhất
+- Phương pháp tu tập vi diệu
+- Nền tảng của sự giải thoát
 
-Để thành tựu cần:
-- Thực hành đúng pháp
-- Tinh tấn liên tục
-- Hướng đến giải thoát
+Để phát triển cần:
+- Tu tập miên mật
+- Duy trì sự tỉnh giác
+- Phát triển đồng đều
