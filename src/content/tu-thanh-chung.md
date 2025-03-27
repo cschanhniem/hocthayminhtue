@@ -1,128 +1,139 @@
 ---
 layout: layouts/content.njk
 title: Tứ Thánh Chủng (Cattāri Ariyavaṃsā)
-description: Bốn dòng dõi thánh - bốn pháp tu tập căn bản của bậc thánh
+description: Bốn truyền thống thánh thiện - bốn nếp sống cao thượng của bậc xuất gia
 ---
 
 ## Định Nghĩa từ Kinh Điển
 
 Trong Tăng Chi Bộ Kinh (Aṅguttara Nikāya), đức Phật dạy:
 
-> "Này các Tỳ kheo, có bốn Thánh chủng này, được biết là tối thượng, có từ lâu đời, thuộc về truyền thống, cổ xưa, không tạp nhiễm, trước không tạp nhiễm, nay không tạp nhiễm, sẽ không tạp nhiễm, không bị các Sa-môn, Bà-la-môn có trí khinh thường."
+> "Này các Tỳ kheo, có bốn Thánh chủng này được biết đến là tối thượng, được biết đến từ lâu đời, thuộc về truyền thống, cổ xưa, không bị đoạn tuyệt, trước kia không bị đoạn tuyệt, hiện tại không bị đoạn tuyệt, tương lai không bị đoạn tuyệt, không bị các Sa-môn, Bà-la-môn có trí quở trách."
 
 ## Bốn Thánh Chủng
 
-### 1. Y Phục Tri Túc
-> "Tỳ kheo biết đủ với bất cứ y phục nào..."
+### 1. Y Phục Tri Túc (Cīvara-santuṭṭhi)
+> "Này các Tỳ kheo, vị Tỳ kheo tự bằng lòng với y áo thô xấu hay tốt đẹp, tán thán sự bằng lòng với bất cứ y áo nào..."
 
 #### Ý Nghĩa
-- Biết đủ trong y phục
-- Không tham đắm
-- Sống đơn giản
-
-#### Thực Hành
-- Dùng y phục vừa đủ
+- Biết đủ với y phục
 - Không đòi hỏi xa xỉ
-- Giữ tâm thanh thản
+- Tùy hỷ với những gì có được
 
-### 2. Ẩm Thực Tri Túc
-> "Tỳ kheo biết đủ với bất cứ món ăn khất thực nào..."
+#### Tu Tập
+- Sử dụng y phục đơn giản
+- Không tham đắm y đẹp
+- Hoan hỷ với y hiện có
 
-#### Ý Nghĩa
-- Biết đủ trong ăn uống
-- Không tham vị ngon
-- Duy trì mạng sống
-
-#### Thực Hành
-- Ăn để sống
-- Không sống để ăn
-- Giữ tâm thanh tịnh
-
-### 3. Trú Xứ Tri Túc
-> "Tỳ kheo biết đủ với bất cứ sàng tọa nào..."
+### 2. Thực Phẩm Tri Túc (Piṇḍapāta-santuṭṭhi)
+> "Này các Tỳ kheo, vị Tỳ kheo tự bằng lòng với đồ ăn khất thực thô xấu hay tốt đẹp..."
 
 #### Ý Nghĩa
-- Biết đủ nơi ở
+- Biết đủ với thức ăn
+- Không kén chọn món ngon
+- Tùy duyên với vật thực
+
+#### Tu Tập
+- Thọ nhận vật thực đơn giản
+- Không tham đắm mùi vị
+- Ăn uống điều độ
+
+### 3. Trú Xứ Tri Túc (Senāsana-santuṭṭhi)
+> "Này các Tỳ kheo, vị Tỳ kheo tự bằng lòng với trú xứ thô xấu hay tốt đẹp..."
+
+#### Ý Nghĩa
+- Biết đủ với chỗ ở
 - Không đòi hỏi sang trọng
-- An trú tự tại
+- Tùy duyên với trú xứ
 
-#### Thực Hành
-- Sống nơi thích hợp
-- Không chấp trước
-- Tu tập tinh tấn
+#### Tu Tập
+- Sống nơi đơn giản
+- Không tham đắm chỗ tốt
+- Thích ứng mọi hoàn cảnh
 
-### 4. Hỷ Lạc Tu Đoạn
-> "Tỳ kheo ưa thích đoạn trừ, ưa thích tu tập..."
+### 4. Tu Tập Hoan Hỷ (Bhāvanārāmatā)
+> "Này các Tỳ kheo, vị Tỳ kheo hoan hỷ trong tu tập, thích thú trong tu tập..."
 
 #### Ý Nghĩa
-- Vui trong tu tập
-- Thích đoạn phiền não
-- Hướng đến giải thoát
-
-#### Thực Hành
-- Tu tập tinh tấn
-- Đoạn trừ phiền não
+- Vui thích trong tu tập
+- Tinh tấn đoạn trừ phiền não
 - Phát triển thiện pháp
 
-## Lợi Ích của Tứ Thánh Chủng
+#### Tu Tập
+- Siêng năng thực hành
+- Không biếng nhác
+- Tinh tấn không ngừng
+
+## Đặc Điểm của Tứ Thánh Chủng
+
+### 1. Tính Chất
+> "Này các Tỳ kheo, các Thánh chủng này đem lại:
+> - Không tham đắm
+> - Dễ nuôi dưỡng
+> - Ít phiền não
+> - Sống thanh tịnh"
+
+#### Lợi Ích
+- Giảm thiểu tham ái
+- Dễ dàng sinh sống
+- Ít gây phiền phức
+- Tăng trưởng đạo tâm
+
+### 2. Truyền Thống
+- Được chư Phật tán thán
+- Được Thánh chúng hành trì
+- Được truyền thừa không đứt đoạn
+
+### 3. Tính Thời Gian
+- Cổ xưa (Porāṇa)
+- Truyền thống lâu đời (Aggañña)
+- Không bị đoạn tuyệt (Asamkiṇṇa)
+
+## Lợi Ích Tu Tập
 
 ### 1. Đối Với Cá Nhân
-- Giảm thiểu tham ái
+- Giảm thiểu phiền não
 - Phát triển tri túc
-- Tăng trưởng đạo lực
+- Tăng trưởng đạo tâm
 
-### 2. Đối Với Tập Thể
-- Tạo sự hòa hợp
-- Giảm tranh chấp
-- Xây dựng tăng đoàn
+### 2. Đối Với Tăng Đoàn
+> "Này các Tỳ kheo, đây là điều kiện để Tăng đoàn được tồn tại lâu dài..."
 
-### 3. Đối Với Tu Tập
-- Thuận lợi tiến tu
-- Tâm không vướng bận
-- Hướng đến giải thoát
+#### Lợi Ích
+- Tăng đoàn hòa hợp
+- Dễ dàng sinh hoạt
+- Tồn tại lâu dài
 
-## Thực Hành Tứ Thánh Chủng
+### 3. Đối Với Chánh Pháp
+- Duy trì Phật pháp
+- Làm gương cho đời
+- Lợi lạc nhân thiên
 
-### 1. Phát Triển Tri Túc
-- Biết đủ vật chất
-- Sống đơn giản
-- Tâm không tham đắm
+## Thực Hành
 
-### 2. Tu Tập Tinh Tấn
-- Nỗ lực không ngừng
-- Tinh tấn đoạn ác
-- Phát triển thiện pháp
+### 1. Quán Chiếu
+- Xét về lợi ích
+- Thấy rõ nguy hại của tham đắm
+- Hiểu giá trị của tri túc
 
-### 3. Buông Xả Chấp Thủ
-- Không đắm nhiễm
-- Tâm được tự tại
-- Hướng đến giải thoát
+### 2. Tu Tập
+- Thực hành từng bước
+- Kiên trì giữ gìn
+- Phát triển hoan hỷ
 
-## Mối Liên Hệ với Giáo Pháp
-
-### 1. Với [Tam Học](/content/tamhoc/)
-- Giới: Tri túc vật chất
-- Định: An trú tự tại
-- Tuệ: Tu tập đoạn trừ
-
-### 2. Với [Bát Chánh Đạo](/content/bat-chanh-dao/)
-- Chánh mạng: Tri túc
-- Chánh tinh tấn: Tu đoạn
-- Chánh niệm: An trú
-
-### 3. Với [Tứ Diệu Đế](/content/tu-dieu-de/)
-- Thấy rõ khổ: Tri túc
-- Đoạn trừ tập: Tu đoạn
-- Chứng diệt: Giải thoát
+### 3. Thành Tựu
+- Đoạn trừ tham ái
+- Phát triển thiểu dục tri túc
+- Tâm được giải thoát
 
 ## Kết Luận
 
 Tứ Thánh Chủng là:
+- Truyền thống cao quý
 - Nền tảng tu tập
-- Truyền thống thánh hiền
 - Con đường giải thoát
 
-Để thực hành cần:
+Để thành tựu cần:
+- Hiểu rõ ý nghĩa
+- Thực hành miên mật
 - Phát triển tri túc
-- Tu tập tinh tấn
-- Hướng đến giải thoát
