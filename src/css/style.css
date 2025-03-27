@@ -1,18 +1,75 @@
-/* Variables */
+/* Import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Inter:wght@400;500;600&family=EB+Garamond:ital@0;1&display=swap');
+
+/* Base Styles */
 :root {
-  --primary: #7d5a4f;
-  --secondary: #9b735c;
-  --earth: #c29e80;
-  --cream: #f3e9dc;
+  /* Primary Colors */
+  --primary-dark: #7d5a4f;
+  --primary-medium: #9b735c;
+  --primary-light: #c29e80;
+  --primary-lightest: #f3e9dc;
+
+  /* Aurora Colors */
   --aurora-blue: #58B2DC;
   --aurora-purple: #A59ACA;
   --aurora-pink: #F5B2AC;
   --aurora-green: #A8D8B9;
+
+  /* Background Colors */
+  --bg-light: rgba(255, 255, 255, 0.7);
+  --bg-transparent: rgba(255, 255, 255, 0.2);
+  --shadow-color: rgba(125, 90, 79, 0.1);
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  line-height: 1.6;
+  color: var(--primary-dark);
+  background: var(--primary-lightest);
+  margin: 0;
+  min-height: 100vh;
 }
 
 /* Typography */
-body {
-  font-family: 'Inter', system-ui, sans-serif;
+h1, h2, h3 {
+  font-family: "Montserrat", sans-serif;
+  margin: 0 0 1rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+a {
+  color: var(--primary-dark);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--primary-medium);
+}
+
+/* Mindmap Container */
+.mindmap-container {
+  min-height: 100vh;
+  padding: 2rem;
+  position: relative;
+}
+
+/* Aurora Background Effect */
+.aurora-bg {
   background: linear-gradient(135deg, 
     rgba(243, 233, 220, 0.8) 0%, 
     rgba(168, 216, 185, 0.2) 25%, 
@@ -24,265 +81,243 @@ body {
   animation: aurora 15s ease infinite;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Montserrat', system-ui, sans-serif;
-  color: var(--primary);
-}
-
-/* Navigation */
-nav {
-  background: rgba(255, 255, 255, 0.95);
-  backdrop-filter: blur(10px);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
-  padding: 0.75rem 1rem;
-  margin: 0;
-  position: sticky;
-  top: 0;
-  z-index: 1000;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
-}
-
-nav ul {
-  margin: 0;
-  padding: 0;
-  display: flex;
-  align-items: center;
-}
-
-nav ul:first-child {
-  flex: 1;
-}
-
-nav ul li {
-  list-style: none;
-  margin: 0;
-  padding: 0 0.5rem;
-}
-
-.nav-button {
-  display: inline-flex;
-  align-items: center;
-  padding: 0.5rem 1rem;
-  color: var(--primary);
-  text-decoration: none;
-  font-weight: 500;
-  border-radius: 8px;
-  transition: all 0.2s ease;
-  border: 2px solid var(--primary);
-}
-
-.nav-button:hover {
-  background: rgba(125, 90, 79, 0.1);
-  transform: translateY(-1px);
-}
-
-@media (max-width: 768px) {
-  .nav-button {
-    display: none;
-  }
-}
-
-.logo {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  color: var(--primary);
-  text-decoration: none;
-}
-
-.logo img {
-  width: 32px;
-  height: 32px;
-}
-
-/* Menu Button */
-.menu-button {
-  display: none;
-  background: transparent !important;
-  border: 2px solid var(--primary) !important;
-  color: var(--primary) !important;
-  padding: 0.35rem 0.75rem !important;
-  font-size: 1.5rem !important;
-  line-height: 1 !important;
-  border-radius: 8px !important;
-  cursor: pointer;
-  transition: all 0.2s ease;
-}
-
-.menu-button:hover {
-  background: rgba(125, 90, 79, 0.1) !important;
-}
-
-@media (max-width: 768px) {
-  .menu-button {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-  }
-}
-
-/* Animation */
 @keyframes aurora {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
+  0% { background-position: 0% 50% }
+  50% { background-position: 100% 50% }
+  100% { background-position: 0% 50% }
 }
 
-/* Custom Button Styles */
-button {
-  background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
-  border: none;
-  color: white;
-}
-
-/* Mindmap Styles */
-.mindmap-container {
-  max-width: 100%;
-  min-height: calc(100vh - 120px);
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
-  padding: 2rem;
-  overflow-x: auto;
-  background: linear-gradient(
-    180deg,
-    rgba(255, 255, 255, 0.8) 0%,
-    rgba(255, 255, 255, 0.4) 100%
-  );
+/* Glass Card Effects */
+.glass-card {
+  background: var(--bg-light);
   backdrop-filter: blur(10px);
-  border-radius: 24px;
-  margin: 1rem;
-}
-
-.mindmap-center {
-  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.5);
   border-radius: 16px;
-  padding: 2rem;
-  width: 100%;
-  max-width: 1600px;
-}
-
-.mindmap-center h1 {
-  text-align: center;
-  color: var(--primary);
-  margin-bottom: 2rem;
-  font-size: 2rem;
-  padding-bottom: 1rem;
-  font-weight: 600;
-  background: linear-gradient(90deg, var(--primary), var(--secondary));
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-.mindmap {
-  display: flex;
-  justify-content: center;
-  padding: 1rem;
-}
-
-.mindmap ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1.5rem;
-  justify-content: center;
-  width: 100%;
-}
-
-.mindmap > ul > li {
-  flex: 1;
-  min-width: 280px;
-  max-width: 320px;
-  background: rgba(255, 255, 255, 0.95);
-  border-radius: 16px;
-  padding: 1.5rem;
-  border: 1px solid var(--cream);
-  margin-bottom: 1rem;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 4px 30px var(--shadow-color);
+  padding: 24px;
   transition: all 0.3s ease;
 }
 
-.mindmap > ul > li:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.08);
-  border-color: var(--earth);
-  background: white;
+.glass-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px rgba(125, 90, 79, 0.15);
 }
 
-.mindmap > ul > li > a {
-  display: block;
-  font-size: 1.35rem;
-  font-weight: 600;
-  font-family: 'Montserrat', sans-serif;
-  color: var(--primary);
-  text-decoration: none;
+/* Mindmap Header */
+.mindmap-header {
   text-align: center;
-  padding: 0.75rem 0.5rem;
-  border-bottom: 1px solid var(--cream);
-  margin-bottom: 1rem;
-  transition: all 0.2s ease;
+  margin-bottom: 3rem;
+  background: rgba(255, 255, 255, 0.85);
 }
 
-.mindmap > ul > li > a:hover {
-  color: var(--secondary);
-  border-bottom-color: var(--earth);
+.mindmap-header h1 {
+  background: linear-gradient(135deg, var(--primary-dark), var(--primary-medium));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0;
 }
 
-.mindmap ul ul {
-  display: block;
-  margin-top: 0.75rem;
-  padding-left: 1rem;
-  
+/* Mindmap Sections */
+.mindmap-sections {
+  display: grid;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
-.mindmap ul ul li {
-  margin: 0.75rem 0;
-  font-size: 0.95rem;
-  line-height: 1.6;
-  color: var(--secondary);
-  padding-left: 1rem;
+.mindmap-section {
+  margin-bottom: 2rem;
+}
+
+.mindmap-section h2 {
+  color: var(--primary-dark);
+  margin-bottom: 1.5rem;
   position: relative;
-  transition: all 0.2s ease;
+  padding-bottom: 0.5rem;
 }
 
-
-.mindmap ul ul li:hover {
-  color: var(--primary);
-  transform: translateX(2px);
+.mindmap-section h2::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 60px;
+  height: 3px;
+  background: linear-gradient(90deg, var(--aurora-blue), var(--aurora-purple));
 }
 
-.mindmap ul ul li:hover::before {
-  transform: scale(1.5);
-  background: var(--primary);
+/* Section Cards */
+.section-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
 }
 
-.mindmap a {
-  color: var(--primary);
+/* Concept Cards */
+.concept-card {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(10px);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.concept-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(125, 90, 79, 0.12);
+}
+
+.concept-card h3 {
+  color: var(--primary-dark);
+  margin-bottom: 1rem;
+  position: relative;
+  padding-bottom: 0.5rem;
+}
+
+.concept-card h3::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 40px;
+  height: 2px;
+  background: linear-gradient(90deg, var(--primary-dark), var(--primary-light));
+}
+
+.concept-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.concept-card li {
+  padding: 0.5rem 0;
+  position: relative;
+  padding-left: 1.5rem;
+}
+
+.concept-card li::before {
+  content: '•';
+  position: absolute;
+  left: 0;
+  color: var(--primary-medium);
+}
+
+/* Section Link Cards */
+.section-link {
   text-decoration: none;
-  transition: all 0.2s;
+  display: block;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
 }
 
-.mindmap a:hover {
-  color: var(--secondary);
+.section-link:hover {
+  transform: translateX(10px);
 }
 
+.section-link h2 {
+  color: var(--primary-dark);
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
+}
+
+.card-arrow {
+  position: absolute;
+  right: 1.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 2rem;
+  color: var(--primary-medium);
+  opacity: 0;
+  transition: all 0.3s ease;
+}
+
+.section-link:hover .card-arrow {
+  opacity: 1;
+  right: 1rem;
+}
+
+/* Subtitle */
+.subtitle {
+  color: var(--primary-medium);
+  font-size: 1.125rem;
+  margin: 1rem 0 0;
+  text-align: center;
+}
+
+/* Back Link */
+.back-link {
+  display: inline-block;
+  color: var(--primary-medium);
+  text-decoration: none;
+  margin-top: 1rem;
+  font-size: 0.875rem;
+  transition: all 0.3s ease;
+}
+
+.back-link:hover {
+  color: var(--primary-dark);
+  transform: translateX(-5px);
+}
+
+/* Nested Lists */
+.concept-card ul ul {
+  margin-left: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+.concept-card ul ul li {
+  font-size: 0.875rem;
+  color: var(--primary-medium);
+}
+
+.concept-card ul ul li::before {
+  content: '◦';
+}
+
+/* Responsive Design */
 @media (max-width: 768px) {
   .mindmap-container {
     padding: 1rem;
-    margin: 0.5rem;
   }
 
-  .mindmap-center {
+  .mindmap-header {
+    margin-bottom: 2rem;
+  }
+
+  .mindmap-header h1 {
+    font-size: 2rem;
+  }
+
+  .mindmap-section h2 {
+    font-size: 1.5rem;
+  }
+
+  .concept-card h3 {
+    font-size: 1.25rem;
+  }
+
+  .section-cards {
+    grid-template-columns: 1fr;
+  }
+
+  .glass-card {
     padding: 1rem;
   }
+}
 
-  .mindmap > ul > li {
-    min-width: 100%;
+@media (max-width: 480px) {
+  .mindmap-header h1 {
+    font-size: 1.75rem;
   }
 
-  .mindmap-center h1 {
-    font-size: 1.5rem;
+  .mindmap-section h2 {
+    font-size: 1.25rem;
+  }
+
+  .concept-card {
+    padding: 1rem;
   }
 }
