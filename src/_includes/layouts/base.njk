@@ -5,15 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title }} | Phật Pháp - Kinh Nikaya</title>
   <meta name="description" content="{{ description }}">
-  
+
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="/images/logo.svg">
-  
+
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Inter:wght@400;500;600&family=EB+Garamond:ital@0;1&display=swap" rel="stylesheet">
-  
+
   <!-- Tailwind CSS -->
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
@@ -42,6 +42,9 @@
       }
     }
   </script>
+
+  <!-- Custom CSS for mobile optimization -->
+  <link rel="stylesheet" href="/css/mobile-fixes.css">
 
   <style>
     :root {
@@ -116,11 +119,11 @@
 
     /* Aurora Base Styles */
     .aurora {
-      background: linear-gradient(135deg, 
-        rgba(243, 233, 220, 0.8) 0%, 
-        rgba(168, 216, 185, 0.2) 25%, 
-        rgba(165, 154, 202, 0.2) 50%, 
-        rgba(245, 178, 172, 0.2) 75%, 
+      background: linear-gradient(135deg,
+        rgba(243, 233, 220, 0.8) 0%,
+        rgba(168, 216, 185, 0.2) 25%,
+        rgba(165, 154, 202, 0.2) 50%,
+        rgba(245, 178, 172, 0.2) 75%,
         rgba(243, 233, 220, 0.8) 100%
       );
       background-size: 400% 400%;
@@ -191,8 +194,8 @@
       <div class="md:hidden hidden" id="mobile-menu">
         <div class="px-2 pt-2 pb-3 space-y-1">
           <a href="/" class="block nav-link {% if page.url === '/' %}active{% endif %}">Trang Chủ</a>
-          <a href="/thay-minh-tue" class="block nav-link {% if page.url === '/thay-minh-tue/' %}active{% endif %}">Thầy Minh Tuệ</a>
-          <a href="/about" class="block nav-link {% if page.url === '/about/' %}active{% endif %}">Về Chúng Tôi</a>
+          <a href="/content/thich-minh-tue" class="block nav-link {% if page.url === '/content/thich-minh-tue/' %}active{% endif %}">Thích Minh Tuệ</a>
+          <a href="/content/about" class="block nav-link {% if page.url === '/content/about/' %}active{% endif %}">Về Chúng Tôi</a>
         </div>
       </div>
     </div>
@@ -210,7 +213,7 @@
     // Mobile menu toggle
     const mobileMenuButton = document.getElementById('mobile-menu-button');
     const mobileMenu = document.getElementById('mobile-menu');
-    
+
     mobileMenuButton.addEventListener('click', () => {
       mobileMenu.classList.toggle('hidden');
     });

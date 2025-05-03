@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Dhutanga</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle fill="#F3E9DC" cx="100" cy="100" r="100"></circle>
+        <g transform="translate(40, 40)" fill="#9B735C">
+            <path d="M60,0 C70,0 80,10 80,20 L80,80 C80,90 70,100 60,100 L60,120 L40,120 L40,100 C30,100 20,90 20,80 L20,20 C20,10 30,0 40,0 L60,0 Z"></path>
+            <circle cx="50" cy="40" r="15"></circle>
+            <path d="M0,60 L20,60 L20,80 L0,80 Z"></path>
+            <path d="M80,60 L100,60 L100,80 L80,80 Z"></path>
+            <path d="M40,100 L60,100 L60,120 L40,120 Z"></path>
+        </g>
+    </g>
+</svg>

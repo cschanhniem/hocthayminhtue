@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Meditation</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle fill="#F3E9DC" cx="100" cy="100" r="100"></circle>
+        <g transform="translate(50, 40)" fill="#7D5A4F">
+            <circle cx="50" cy="30" r="20"></circle>
+            <path d="M50,60 C30,60 15,75 15,95 L85,95 C85,75 70,60 50,60 Z"></path>
+            <rect x="0" y="100" width="100" height="20" rx="10"></rect>
+            <path d="M20,80 C10,90 10,100 20,110 L40,110 C50,100 50,90 40,80 L20,80 Z"></path>
+            <path d="M80,80 C90,90 90,100 80,110 L60,110 C50,100 50,90 60,80 L80,80 Z"></path>
+        </g>
+    </g>
+</svg>
