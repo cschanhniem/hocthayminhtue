@@ -49,6 +49,22 @@
   <!-- Custom CSS for mobile optimization -->
   <link rel="stylesheet" href="/css/mobile-fixes.css">
 
+  <!-- Structured data for SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Nikaya - Phật Pháp",
+    "url": "https://nikaya.org",
+    "description": "Trang web về giáo lý Phật giáo và Kinh Nikaya",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://nikaya.org/search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+
   <style>
     :root {
       color-scheme: light;
@@ -174,7 +190,7 @@
 </head>
 <body class="min-h-screen">
   <!-- Skip to content link for accessibility -->
-  <a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-50 focus:px-4 focus:py-2 focus:bg-white focus:text-primary focus:shadow-lg focus:rounded">
+  <a href="#main-content" class="sr-only focus:absolute focus:top-4 focus:left-4 focus:z-50 focus:px-4 focus:py-2 focus:bg-white focus:text-primary focus:shadow-lg focus:rounded">
     Đi đến nội dung chính
   </a>
 
