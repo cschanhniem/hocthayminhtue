@@ -180,15 +180,15 @@ description: Giới thiệu về dự án Nikaya và đội ngũ phát triển
       <div class="grid md:grid-cols-3 gap-6">
         <div class="glass p-6 rounded-lg text-center">
           <h3 class="font-montserrat text-xl font-semibold mb-4">Email</h3>
-          <a href="mailto:contact@nikaya.org" class="text-primary-light hover:text-primary">contact@nikaya.org</a>
+          <a href="[mailto:contact@nikaya.org](https://www.facebook.com/hocthayminhtue.hocphattutam)" class="text-primary-light hover:text-primary">[contact@nikaya.org](https://www.facebook.com/hocthayminhtue.hocphattutam)</a>
         </div>
         <div class="glass p-6 rounded-lg text-center">
           <h3 class="font-montserrat text-xl font-semibold mb-4">Website</h3>
-          <a href="https://nikaya.org" class="text-primary-light hover:text-primary">https://nikaya.org</a>
+          <a href="https://hocthayminhtue.pages.dev/" class="text-primary-light hover:text-primary">https://hocthayminhtue.pages.dev/</a>
         </div>
         <div class="glass p-6 rounded-lg text-center">
           <h3 class="font-montserrat text-xl font-semibold mb-4">GitHub</h3>
-          <a href="https://github.com/nikaya" class="text-primary-light hover:text-primary">https://github.com/nikaya</a>
+          <a href="https://github.com/cschanhniem/hocthayminhtue" class="text-primary-light hover:text-primary">https://github.com/cschanhniem/hocthayminhtue</a>
         </div>
       </div>
     </div>
