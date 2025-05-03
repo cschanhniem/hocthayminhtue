@@ -6,6 +6,9 @@
   <title>{{ title }} | Phật Pháp - Kinh Nikaya</title>
   <meta name="description" content="{{ description }}">
 
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://nikaya.org{{ page.url }}" />
+
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="/images/logo.svg">
 
@@ -13,7 +16,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Inter:wght@400;500;600&family=EB+Garamond:ital@0;1&display=swap" rel="stylesheet">
-
+  <meta name="google-site-verification" content="xUef8MtDHuxDLDKQMCrEziV4Q6EJycsAqixyPdcrwM0" />
   <!-- Tailwind CSS -->
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
@@ -170,52 +173,70 @@
   {% endif %}
 </head>
 <body class="min-h-screen">
+  <!-- Skip to content link for accessibility -->
+  <a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-50 focus:px-4 focus:py-2 focus:bg-white focus:text-primary focus:shadow-lg focus:rounded">
+    Đi đến nội dung chính
+  </a>
+
   <!-- Navigation -->
-  <nav class="glass sticky top-0 z-50">
+  <nav class="glass sticky top-0 z-50" role="navigation" aria-label="Menu chính">
     <div class="container mx-auto px-4 py-4">
       <div class="flex items-center justify-between">
-        <a href="/" class="flex items-center space-x-2">
-          <img src="/images/logo.svg" alt="Logo" class="w-8 h-8">
+        <a href="/" class="flex items-center space-x-2" aria-label="Trang chủ Nikaya">
+          <img src="/images/logo.svg" alt="Logo Nikaya" class="w-8 h-8">
           <span class="font-montserrat font-semibold text-lg">Nikaya</span>
         </a>
         <div class="hidden md:flex items-center space-x-6">
-          <a href="/" class="nav-link {% if page.url === '/' %}active{% endif %}">Trang Chủ</a>
-          <a href="/content/thich-minh-tue" class="nav-link {% if page.url === '/thich-minh-tue/' %}active{% endif %}">Thầy Minh Tuệ</a>
-          <a href="/content/about" class="nav-link {% if page.url === '/about/' %}active{% endif %}">Về Chúng Tôi</a>
+          <a href="/" class="nav-link {% if page.url === '/' %}active{% endif %}" aria-current="{% if page.url === '/' %}page{% endif %}">Trang Chủ</a>
+          <a href="/content/thich-minh-tue" class="nav-link {% if page.url === '/thich-minh-tue/' %}active{% endif %}" aria-current="{% if page.url === '/thich-minh-tue/' %}page{% endif %}">Thầy Minh Tuệ</a>
+          <a href="/content/about" class="nav-link {% if page.url === '/about/' %}active{% endif %}" aria-current="{% if page.url === '/about/' %}page{% endif %}">Về Chúng Tôi</a>
         </div>
         <!-- Mobile Menu Button -->
-        <button class="md:hidden" id="mobile-menu-button">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <button class="md:hidden" id="mobile-menu-button" aria-expanded="false" aria-controls="mobile-menu" aria-label="Mở menu">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
           </svg>
         </button>
       </div>
       <!-- Mobile Menu -->
-      <div class="md:hidden hidden" id="mobile-menu">
+      <div class="md:hidden hidden" id="mobile-menu" role="menu" aria-labelledby="mobile-menu-button">
         <div class="px-2 pt-2 pb-3 space-y-1">
-          <a href="/" class="block nav-link {% if page.url === '/' %}active{% endif %}">Trang Chủ</a>
-          <a href="/content/thich-minh-tue" class="block nav-link {% if page.url === '/content/thich-minh-tue/' %}active{% endif %}">Thích Minh Tuệ</a>
-          <a href="/content/about" class="block nav-link {% if page.url === '/content/about/' %}active{% endif %}">Về Chúng Tôi</a>
+          <a href="/" class="block nav-link {% if page.url === '/' %}active{% endif %}" role="menuitem" aria-current="{% if page.url === '/' %}page{% endif %}">Trang Chủ</a>
+          <a href="/content/thich-minh-tue" class="block nav-link {% if page.url === '/content/thich-minh-tue/' %}active{% endif %}" role="menuitem" aria-current="{% if page.url === '/content/thich-minh-tue/' %}page{% endif %}">Thích Minh Tuệ</a>
+          <a href="/content/about" class="block nav-link {% if page.url === '/content/about/' %}active{% endif %}" role="menuitem" aria-current="{% if page.url === '/content/about/' %}page{% endif %}">Về Chúng Tôi</a>
         </div>
       </div>
     </div>
   </nav>
 
-  <main>
+  <main id="main-content" tabindex="-1">
     {{ content | safe }}
   </main>
 
-  <footer class="glass text-center py-4 mt-8 text-sm text-[#9b735c] no-print">
+  <footer class="glass text-center py-4 mt-8 text-sm text-[#9b735c] no-print" role="contentinfo">
     <p>Phật Pháp - Kinh Nikaya</p>
+    <p class="text-xs mt-2">© 2024 Nikaya.org - Trang web về giáo lý Phật giáo</p>
   </footer>
 
   <script>
-    // Mobile menu toggle
+    // Mobile menu toggle with accessibility improvements
     const mobileMenuButton = document.getElementById('mobile-menu-button');
     const mobileMenu = document.getElementById('mobile-menu');
 
     mobileMenuButton.addEventListener('click', () => {
+      const isExpanded = mobileMenuButton.getAttribute('aria-expanded') === 'true';
+      mobileMenuButton.setAttribute('aria-expanded', !isExpanded);
       mobileMenu.classList.toggle('hidden');
+
+      // Change button text for screen readers
+      mobileMenuButton.setAttribute('aria-label', isExpanded ? 'Mở menu' : 'Đóng menu');
+    });
+
+    // Close mobile menu when pressing Escape key
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape' && mobileMenuButton.getAttribute('aria-expanded') === 'true') {
+        mobileMenuButton.click();
+      }
     });
   </script>
 
