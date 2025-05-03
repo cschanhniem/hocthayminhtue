@@ -187,6 +187,15 @@
   {% if extra_css %}
     {{ extra_css | safe }}
   {% endif %}
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TVV76ZBHRH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TVV76ZBHRH');
+</script>
 </head>
 <body class="min-h-screen">
   <!-- Skip to content link for accessibility -->
@@ -204,8 +213,9 @@
         </a>
         <div class="hidden md:flex items-center space-x-6">
           <a href="/" class="nav-link {% if page.url === '/' %}active{% endif %}" aria-current="{% if page.url === '/' %}page{% endif %}">Trang Chủ</a>
-          <a href="/content/thich-minh-tue" class="nav-link {% if page.url === '/thich-minh-tue/' %}active{% endif %}" aria-current="{% if page.url === '/thich-minh-tue/' %}page{% endif %}">Thầy Minh Tuệ</a>
-          <a href="/content/about" class="nav-link {% if page.url === '/about/' %}active{% endif %}" aria-current="{% if page.url === '/about/' %}page{% endif %}">Về Chúng Tôi</a>
+          <a href="/mindmap/" class="nav-link {% if page.url.includes('/mindmap') %}active{% endif %}" aria-current="{% if page.url.includes('/mindmap') %}page{% endif %}">Mindmap</a>
+          <a href="/content/thich-minh-tue" class="nav-link {% if page.url.includes('/content/thich-minh-tue') %}active{% endif %}" aria-current="{% if page.url.includes('/content/thich-minh-tue') %}page{% endif %}">Thầy Minh Tuệ</a>
+          <a href="/content/about" class="nav-link {% if page.url.includes('/content/about') %}active{% endif %}" aria-current="{% if page.url.includes('/content/about') %}page{% endif %}">Về Chúng Tôi</a>
         </div>
         <!-- Mobile Menu Button -->
         <button class="md:hidden" id="mobile-menu-button" aria-expanded="false" aria-controls="mobile-menu" aria-label="Mở menu">
@@ -218,8 +228,9 @@
       <div class="md:hidden hidden" id="mobile-menu" role="menu" aria-labelledby="mobile-menu-button">
         <div class="px-2 pt-2 pb-3 space-y-1">
           <a href="/" class="block nav-link {% if page.url === '/' %}active{% endif %}" role="menuitem" aria-current="{% if page.url === '/' %}page{% endif %}">Trang Chủ</a>
-          <a href="/content/thich-minh-tue" class="block nav-link {% if page.url === '/content/thich-minh-tue/' %}active{% endif %}" role="menuitem" aria-current="{% if page.url === '/content/thich-minh-tue/' %}page{% endif %}">Thích Minh Tuệ</a>
-          <a href="/content/about" class="block nav-link {% if page.url === '/content/about/' %}active{% endif %}" role="menuitem" aria-current="{% if page.url === '/content/about/' %}page{% endif %}">Về Chúng Tôi</a>
+          <a href="/mindmap/" class="block nav-link {% if page.url.includes('/mindmap') %}active{% endif %}" role="menuitem" aria-current="{% if page.url.includes('/mindmap') %}page{% endif %}">Mindmap</a>
+          <a href="/content/thich-minh-tue" class="block nav-link {% if page.url.includes('/content/thich-minh-tue') %}active{% endif %}" role="menuitem" aria-current="{% if page.url.includes('/content/thich-minh-tue') %}page{% endif %}">Thầy Minh Tuệ</a>
+          <a href="/content/about" class="block nav-link {% if page.url.includes('/content/about') %}active{% endif %}" role="menuitem" aria-current="{% if page.url.includes('/content/about') %}page{% endif %}">Về Chúng Tôi</a>
         </div>
       </div>
     </div>

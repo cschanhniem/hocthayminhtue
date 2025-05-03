@@ -1,7 +1,7 @@
 ---
 layout: layouts/content.njk
 title: Về Chúng Tôi
-description: Giới thiệu về dự án và đội ngũ phát triển
+description: Giới thiệu về dự án Nikaya và đội ngũ phát triển
 ---
 
 <div class="aurora min-h-screen">
@@ -20,8 +20,12 @@ description: Giới thiệu về dự án và đội ngũ phát triển
       <h2 class="font-montserrat text-2xl font-semibold mb-6 text-center">Giới Thiệu</h2>
       <div class="prose prose-lg mx-auto text-primary-light">
         <p>
-          Nikaya là một dự án phi lợi nhuận nhằm mục đích phổ biến và bảo tồn giáo lý Phật giáo thông qua công nghệ hiện đại. 
+          Nikaya là một dự án phi lợi nhuận nhằm mục đích phổ biến và bảo tồn giáo lý Phật giáo thông qua công nghệ hiện đại.
           Chúng tôi tin rằng việc kết hợp giữa truyền thống và công nghệ sẽ giúp việc học Phật trở nên dễ dàng và hiệu quả hơn.
+        </p>
+        <p>
+          Dự án tập trung vào việc tổ chức và trình bày các khái niệm Phật giáo từ kinh Nikaya một cách có hệ thống,
+          giúp người học dễ dàng tiếp cận và hiểu sâu về giáo lý Đức Phật.
         </p>
       </div>
     </div>
@@ -62,7 +66,7 @@ description: Giới thiệu về dự án và đội ngũ phát triển
         <h2 class="font-montserrat text-2xl font-semibold mb-6 text-center">Tầm Nhìn</h2>
         <div class="prose prose-lg mx-auto text-primary-light">
           <p>
-            Trở thành nền tảng hàng đầu trong việc học tập và nghiên cứu Phật giáo, 
+            Trở thành nền tảng hàng đầu trong việc học tập và nghiên cứu Phật giáo,
             góp phần vào việc phát triển trí tuệ và đạo đức cho cộng đồng.
           </p>
         </div>
@@ -189,22 +193,70 @@ description: Giới thiệu về dự án và đội ngũ phát triển
       </div>
     </div>
 
+    <!-- Explore More Section -->
+    <div class="glass p-8 rounded-lg mb-12">
+      <h2 class="font-montserrat text-2xl font-semibold mb-6 text-center">Khám Phá Thêm</h2>
+      <div class="grid md:grid-cols-2 gap-6">
+        <a href="/mindmap/" class="glass p-6 rounded-lg hover:no-underline flex flex-col">
+          <h3 class="font-montserrat text-xl font-semibold mb-4 text-primary">Mindmap Khái Niệm</h3>
+          <p class="text-primary-light mb-4 flex-grow">
+            Khám phá hệ thống khái niệm Phật giáo qua sơ đồ tư duy trực quan với cấu trúc phân cấp rõ ràng.
+          </p>
+          <ul class="text-primary-light mb-4 ml-4 list-disc">
+            <li>Giáo Lý Căn Bản</li>
+            <li>Pháp Môn Tu Tập</li>
+            <li>Giáo Lý Thâm Sâu</li>
+            <li>Giới Luật & Tu Tập</li>
+          </ul>
+          <div class="flex justify-end">
+            <span class="inline-flex items-center text-aurora-blue">
+              Khám phá ngay
+              <svg class="w-5 h-5 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+              </svg>
+            </span>
+          </div>
+        </a>
+
+        <a href="/content/thich-minh-tue" class="glass p-6 rounded-lg hover:no-underline flex flex-col">
+          <h3 class="font-montserrat text-xl font-semibold mb-4 text-primary">Thầy Minh Tuệ</h3>
+          <p class="text-primary-light mb-4 flex-grow">
+            Tìm hiểu về cuộc đời, hành trình tu tập và giáo lý của Thầy Minh Tuệ.
+          </p>
+          <ul class="text-primary-light mb-4 ml-4 list-disc">
+            <li>Tiểu sử và hành trình tu tập</li>
+            <li>Các bài giảng và tác phẩm</li>
+            <li>Phương pháp hành thiền</li>
+            <li>Ảnh hưởng và đóng góp</li>
+          </ul>
+          <div class="flex justify-end">
+            <span class="inline-flex items-center text-aurora-purple">
+              Tìm hiểu
+              <svg class="w-5 h-5 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+              </svg>
+            </span>
+          </div>
+        </a>
+      </div>
+    </div>
+
     <!-- Credits Section -->
     <div class="glass p-8 rounded-lg">
       <h2 class="font-montserrat text-2xl font-semibold mb-6 text-center">Cảm Ơn</h2>
       <div class="prose prose-lg mx-auto text-primary-light">
         <p class="mb-6">
-          Chúng tôi xin chân thành cảm ơn tất cả những người đã đóng góp vào dự án này. 
+          Chúng tôi xin chân thành cảm ơn tất cả những người đã đóng góp vào dự án này.
           Mọi đóng góp của bạn đều rất quý giá và giúp chúng tôi hoàn thiện hơn mỗi ngày.
         </p>
-        
+
         <h3 class="font-montserrat text-xl font-semibold mb-4">Đội Ngũ Phát Triển</h3>
         <ul class="space-y-2">
           <li class="flex items-center">
             <svg class="w-5 h-5 mr-2 text-aurora-green" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
             </svg>
-            Thầy Minh Tuệ - Cố vấn nội dung
+            <a href="/content/thich-minh-tue" class="hover:text-primary">Thầy Minh Tuệ</a> - Cố vấn nội dung
           </li>
           <li class="flex items-center">
             <svg class="w-5 h-5 mr-2 text-aurora-green" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -222,7 +274,7 @@ description: Giới thiệu về dự án và đội ngũ phát triển
 
         <h3 class="font-montserrat text-xl font-semibold mt-8 mb-4">Cộng Tác Viên</h3>
         <p>
-          Chúng tôi rất vui mừng được chào đón các cộng tác viên mới. Nếu bạn muốn đóng góp vào dự án, 
+          Chúng tôi rất vui mừng được chào đón các cộng tác viên mới. Nếu bạn muốn đóng góp vào dự án,
           vui lòng liên hệ với chúng tôi qua email hoặc tham gia cộng đồng trên GitHub.
         </p>
       </div>
