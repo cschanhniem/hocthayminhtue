@@ -1,5 +1,7 @@
 # Project Plan V2: Buddhist Concepts from Nikaya
 
+IMPORTANT: Website content must be in Vietnamese 
+
 This document outlines the comprehensive plan for enhancing the Buddhist Concepts website to make it the best resource for learning about Buddhist teachings.
 
 ## Current Status
