@@ -41,7 +41,79 @@ description: Bốn chân lý cao quý - giáo lý căn bản của đạo Phật
 > — Kinh Chuyển Pháp Luân (SN 56.11)  
 > Nguồn: https://suttacentral.net/sn56.11/vi/minh_chau
 
-[Nội dung còn lại giữ nguyên như trong file gốc src/content/tu-dieu-de.md...]
+## Đặc Tính của Tứ Đế
+
+### 1. Tính Thực Tế
+- Khách quan
+- Phổ quát
+- Không thay đổi
+
+### 2. Tính Nhân Quả
+- Khổ và Tập (nhân quả thế gian)
+- Diệt và Đạo (nhân quả xuất thế)
+- Quy luật tất yếu
+
+### 3. Tính Thực Hành
+- Khổ cần được hiểu
+- Tập cần được đoạn
+- Diệt cần được chứng
+- Đạo cần được tu
+
+## Ba Lần Chuyển Pháp Luân (Triparivarta)
+
+Theo Kinh Chuyển Pháp Luân, mỗi Thánh đế được Đức Phật quán chiếu qua ba phương diện (tổng cộng 12 hành tướng):
+
+1.  **Thị chuyển** (Sacca-ñāṇa): Nhận biết "Đây là Thánh đế về Khổ", "Đây là Thánh đế về Tập Khổ", "Đây là Thánh đế về Diệt Khổ", "Đây là Thánh đế về Đạo Diệt Khổ".
+2.  **Khuyến chuyển** (Kicca-ñāṇa): Nhận biết nhiệm vụ cần làm đối với mỗi đế: "Khổ cần được liễu tri", "Tập cần được đoạn tận", "Diệt cần được tác chứng", "Đạo cần được tu tập".
+3.  **Chứng chuyển** (Kata-ñāṇa): Xác nhận đã hoàn thành nhiệm vụ: "Khổ đã được liễu tri", "Tập đã được đoạn tận", "Diệt đã được tác chứng", "Đạo đã được tu tập".
+
+> "Này các Tỳ-kheo, khi nào Như Lai thấy như thật với Chánh trí tuệ về Ba lần chuyển và Mười hai hành tướng này của Bốn Thánh đế, khi ấy Như Lai mới tuyên bố đã chứng được Vô thượng Chánh Đẳng Giác trong thế giới này." *(Dhammacakkappavattana Sutta, SN 56.11)*
+
+## Tiến Trình Thực Hành
+
+### 1. Hiểu Biết
+- Học hỏi giáo lý
+- Tư duy quán chiếu
+- Thấu hiểu sâu sắc
+
+### 2. Thực Hành
+- Áp dụng trong đời sống
+- Tu tập theo đúng pháp
+- Chuyển hóa thân tâm
+
+### 3. Chứng Ngộ
+- Đoạn trừ phiền não
+- Phát triển trí tuệ
+- Giải thoát viên mãn
+
+## Ý Nghĩa của Tứ Đế
+
+### 1. Về Mặt Lý Thuyết
+- Nền tảng giáo lý
+- Cốt lõi của đạo Phật
+- Chân lý phổ quát
+
+### 2. Về Mặt Thực Hành
+- Phương pháp tu tập
+- Con đường giải thoát
+- Chìa khóa chuyển hóa
+
+### 3. Về Mặt Chứng Ngộ
+- Đoạn trừ vô minh
+- Giải thoát khổ đau
+- Chứng đắc Niết-bàn
+
+## Kết Luận
+
+Tứ Diệu Đế là:
+- Chân lý căn bản
+- Giáo lý cốt lõi
+- Con đường giải thoát
+
+Để thành tựu cần:
+- Hiểu rõ bản chất
+- Tu tập đúng pháp
+- Tinh tấn không ngừng
 
 [Phần cuối thêm:]
 

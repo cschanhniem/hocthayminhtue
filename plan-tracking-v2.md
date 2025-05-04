@@ -1,6 +1,6 @@
 # Project Plan V2: Buddhist Concepts from Nikaya
 
-IMPORTANT: Website content must be in Vietnamese 
+IMPORTANT: Website content must be in Vietnamese . Enhanced content should be placed in the same file not creating new files.
 
 This document outlines the comprehensive plan for enhancing the Buddhist Concepts website to make it the best resource for learning about Buddhist teachings.
 
@@ -47,24 +47,24 @@ The content is organized hierarchically:
 
 ### 1. Improve Existing Content
 
-- [ ] **Add More Sutta References**
-  - [ ] Identify key suttas for each concept from Pali Canon
-  - [ ] Add direct quotes with proper citations (Sutta, Chapter, Verse)
-  - [ ] Link to online translations at AccessToInsight.org and SuttaCentral.net
-  - [ ] Create a standardized format for sutta references
+- [x] **Add More Sutta References**
+  - [x] Identify key suttas for each concept from Pali Canon
+  - [x] Add direct quotes with proper citations (Sutta, Chapter, Verse)
+  - [x] Link to online translations at AccessToInsight.org and SuttaCentral.net
+  - [x] Create a standardized format for sutta references
   - [ ] Priority concepts for sutta references:
-    - [ ] Tứ Diệu Đế (Four Noble Truths) - Dhammacakkappavattana Sutta
+    - [x] Tứ Diệu Đế (Four Noble Truths) - Dhammacakkappavattana Sutta
     - [ ] Bát Chánh Đạo (Eightfold Path) - Magga-vibhanga Sutta
     - [ ] Tứ Niệm Xứ (Four Foundations of Mindfulness) - Satipatthana Sutta
     - [ ] Thập Nhị Nhân Duyên (Dependent Origination) - Mahanidana Sutta
 
-- [ ] **Enhance Pali/Sanskrit Terminology**
-  - [ ] Add pronunciation guides
-  - [ ] Provide etymological information and word breakdowns
+- [x] **Enhance Pali/Sanskrit Terminology**
+  - [x] Add pronunciation guides
+  - [x] Provide etymological information and word breakdowns
   - [ ] Create tooltips for Pali terms that appear on hover
   - [ ] Develop a comprehensive glossary with search functionality
-  - [ ] Standardize Pali/Sanskrit transliteration across the site
-  - [ ] Add cross-references between related terms
+  - [x] Standardize Pali/Sanskrit transliteration across the site
+  - [x] Add cross-references between related terms
 
 - [ ] **Improve Visual Elements**
   - [ ] Add more diagrams and infographics for complex concepts:

@@ -4,13 +4,21 @@ title: Tứ Diệu Đế (Cattāri Ariyasaccāni)
 description: Bốn chân lý cao quý - giáo lý căn bản của đạo Phật về khổ và con đường thoát khổ
 ---
 
-Tứ Diệu Đế (Cattāri Ariyasaccāni) là bốn Thánh đế, được Đức Phật thuyết giảng lần đầu tiên trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta) tại vườn Lộc Uyển (Isipatana) cho năm anh em Kiều-trần-như (Koṇḍañña).
+# Tứ Diệu Đế (Cattāri Ariyasaccāni)
 
-## Định Nghĩa từ Kinh Điển
+## Nguồn Gốc từ Kinh Điển
 
-Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), bài pháp đầu tiên của đức Phật:
+### Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta)
 
-> "Này các Tỳ kheo, đây là Thánh đế về Khổ... đây là Thánh đế về Nguyên nhân của Khổ... đây là Thánh đế về sự Diệt Khổ... đây là Thánh đế về Con Đường đưa đến sự Diệt Khổ."
+> "Này các Tỳ kheo, đây là Khổ Thánh đế. Sanh là khổ, già là khổ, bệnh là khổ, chết là khổ, sầu bi khổ ưu não là khổ, cầu không được là khổ, tóm lại năm thủ uẩn là khổ."  
+> — Kinh Chuyển Pháp Luân (SN 56.11)  
+> Nguồn: https://suttacentral.net/sn56.11/vi/minh_chau
+
+**Nguyên bản Pali:**
+> "Idaṃ kho pana, bhikkhave, dukkhaṃ ariyasaccaṃ: jātipi dukkhā, jarāpi dukkhā, byādhipi dukkho, maraṇampi dukkhaṃ, appiyehi sampayogo dukkho, piyehi vippayogo dukkho, yampicchaṃ na labhati tampi dukkhaṃ—saṃkhittena pañcupādānakkhandhā dukkhā."
+
+**Bối cảnh:**
+Đây là bài pháp đầu tiên Đức Phật thuyết giảng tại vườn Lộc Uyển (Isipatana) cho năm anh em Kiều-trần-như (Koṇḍañña). Bài kinh này đánh dấu sự khởi đầu của việc truyền bá Phật pháp và thiết lập nền tảng cho toàn bộ giáo lý đạo Phật.
 
 ## Bốn Thánh Đế
 
