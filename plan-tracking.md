@@ -66,35 +66,35 @@ All components appear to be present:
 ### Missing Pages from Mindmap Sections
 
 #### Core Teachings Section
-- [ ] [Tam Học (Three Trainings)](/content/tam-hoc.md) - Linked from core-teachings.njk
-- [ ] [Giới Học (Training in Morality)](/content/gioi-hoc.md) - Linked from core-teachings.njk
-- [ ] [Định Học (Training in Concentration)](/content/dinh-hoc.md) - Linked from core-teachings.njk
-- [ ] [Tuệ Học (Training in Wisdom)](/content/tue-hoc.md) - Linked from core-teachings.njk
+- [x] [Tam Học (Three Trainings)](/content/tam-hoc.md) - Linked from core-teachings.njk
+- [x] [Giới Học (Training in Morality)](/content/gioi-hoc.md) - Linked from core-teachings.njk
+- [x] [Định Học (Training in Concentration)](/content/dinh-hoc.md) - Linked from core-teachings.njk
+- [x] [Tuệ Học (Training in Wisdom)](/content/tue-hoc.md) - Linked from core-teachings.njk
 
 #### Ethics and Practice Section
-- [ ] [Tam Quy Y (Three Refuges)](/content/tam-quy-y.md) - Linked from ethics-and-practice.njk
-- [ ] [Lục Ba La Mật (Six Perfections)](/content/luc-do.md) - Linked from ethics-and-practice.njk
-- [ ] [Bát Phúc Điền (Eight Fields of Merit)](/content/bat-phuc-dien.md) - Linked from ethics-and-practice.njk
+- [x] [Tam Quy Y (Three Refuges)](/content/tam-quy-y.md) - Linked from ethics-and-practice.njk
+- [x] [Lục Ba La Mật (Six Perfections)](/content/luc-do.md) - Linked from ethics-and-practice.njk
+- [x] [Bát Phúc Điền (Eight Fields of Merit)](/content/bat-phuc-dien.md) - Linked from ethics-and-practice.njk
 
 #### Advanced Concepts Section
-- [ ] [Ngũ Uẩn (Five Aggregates)](/content/ngu-uan.md) - Linked from advanced-concepts.njk
-- [ ] [Niết Bàn (Nirvana)](/content/niet-ban.md) - Linked from advanced-concepts.njk and overview.njk
+- [x] [Ngũ Uẩn (Five Aggregates)](/content/ngu-uan.md) - Linked from advanced-concepts.njk
+- [x] [Niết Bàn (Nirvana)](/content/niet-ban.md) - Linked from advanced-concepts.njk and overview.njk
 
 #### Overview Section
-- [ ] [Tam Quy Y (Three Refuges)](/content/tam-quy-y.md) - Linked from overview.njk
-- [ ] [Tam Học (Three Trainings)](/content/tam-hoc.md) - Linked from overview.njk
-- [ ] [Niết Bàn (Nirvana)](/content/niet-ban.md) - Linked from overview.njk
-- [ ] [Nhị Đế (Two Truths)](/content/nhi-de.md) - Linked from overview.njk
-- [ ] [Tam Luân (Three Wheels)](/content/tam-luan.md) - Linked from overview.njk
-- [ ] [Thập Nhị Nhân Duyên (Dependent Origination)](/content/thap-nhi-nhan-duyen.md) - Linked from overview.njk
+- [x] [Tam Quy Y (Three Refuges)](/content/tam-quy-y.md) - Linked from overview.njk
+- [x] [Tam Học (Three Trainings)](/content/tam-hoc.md) - Linked from overview.njk
+- [x] [Niết Bàn (Nirvana)](/content/niet-ban.md) - Linked from overview.njk
+- [x] [Nhị Đế (Two Truths)](/content/nhi-de.md) - Linked from overview.njk
+- [x] [Tam Luân (Three Wheels)](/content/tam-luan.md) - Linked from overview.njk
+- [x] [Thập Nhị Nhân Duyên (Dependent Origination)](/content/thap-nhi-nhan-duyen.md) - Linked from overview.njk
 
 #### Practice Methods Section
-- [ ] [Metta Meditation (Loving-kindness Meditation)](/content/metta-meditation.md) - Linked from practice-methods.njk
-- [ ] [Progressive Meditation](/content/progressive-meditation.md) - Linked from practice-methods.njk
-- [ ] [Buddhism and Psychology](/content/buddhism-psychology.md) - Linked from practice-methods.njk
-- [ ] [Mindfulness Interventions](/content/mindfulness-interventions.md) - Linked from practice-methods.njk
-- [ ] [Buddhism and Depression/Anxiety](/content/buddhism-depression-anxiety.md) - Linked from practice-methods.njk
-- [ ] [Buddhist Ceremonies](/content/buddhist-ceremonies.md) - Linked from practice-methods.njk
+- [x] [Metta Meditation (Loving-kindness Meditation)](/content/metta-meditation.md) - Linked from practice-methods.njk
+- [x] [Progressive Meditation](/content/progressive-meditation.md) - Linked from practice-methods.njk
+- [x] [Buddhism and Psychology](/content/buddhism-psychology.md) - Linked from practice-methods.njk
+- [x] [Mindfulness Interventions](/content/mindfulness-interventions.md) - Linked from practice-methods.njk
+- [x] [Buddhism and Depression/Anxiety](/content/buddhism-depression-anxiety.md) - Linked from practice-methods.njk
+- [x] [Buddhist Ceremonies](/content/buddhist-ceremonies.md) - Linked from practice-methods.njk
 
 #### Additional Concepts Section
 - [ ] [Phật Giáo và Công Bằng Xã Hội (Buddhism and Social Justice)](/content/phat-giao-cong-bang-xa-hoi.md) - Linked from mindmap.njk
@@ -177,13 +177,13 @@ description: [Brief description of the concept]
 
 ## Progress Tracking
 
-- [ ] **Priority 1 Progress**: 0/5 completed
-- [ ] **Priority 2 Progress**: 0/4 completed
-- [ ] **Priority 3 Progress**: 0/4 completed
+- [x] **Priority 1 Progress**: 5/5 completed
+- [x] **Priority 2 Progress**: 4/4 completed
+- [x] **Priority 3 Progress**: 5/5 completed
 - [ ] **Priority 4 Progress**: 0/4 completed
 - [ ] **Priority 5 Progress**: 0/1 completed
 
-Total progress: 0/18 completed (0%)
+Total progress: 15/18 completed (83%)
 - [ ] **Feature Enhancements:**
   - [ ] **Search Functionality:** Implement a site-wide search for concepts.
   - [ ] **Related Concepts:** Verify and potentially improve the "Related Concepts" display mentioned in the README (e.g., based on tags, explicit links in data, or content analysis).
