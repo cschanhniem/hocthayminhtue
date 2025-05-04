@@ -56,7 +56,7 @@ The content is organized hierarchically:
     - [x] Tứ Diệu Đế (Four Noble Truths) - Dhammacakkappavattana Sutta
     - [x] Bát Chánh Đạo (Eightfold Path) - Magga-vibhanga Sutta
     - [x] Tứ Niệm Xứ (Four Foundations of Mindfulness) - Satipatthana Sutta
-    - [ ] Thập Nhị Nhân Duyên (Dependent Origination) - Mahanidana Sutta
+    - [x] Thập Nhị Nhân Duyên (Dependent Origination) - Mahanidana Sutta
 
 - [x] **Enhance Pali/Sanskrit Terminology**
   - [x] Add pronunciation guides
@@ -68,10 +68,10 @@ The content is organized hierarchically:
 
 - [ ] **Improve Visual Elements**
   - [ ] Add more diagrams and infographics for complex concepts:
-    - [ ] Wheel of Dependent Origination (Thập Nhị Nhân Duyên)
-    - [ ] Five Aggregates diagram (Ngũ Uẩn)
-    - [ ] Eightfold Path wheel (Bát Chánh Đạo)
-    - [ ] Four Noble Truths relationship diagram
+    - [!] Wheel of Dependent Origination (Thập Nhị Nhân Duyên) - Content ready, needs SVG implementation
+    - [!] Five Aggregates diagram (Ngũ Uẩn) - Content ready, needs SVG implementation
+    - [!] Eightfold Path wheel (Bát Chánh Đạo) - Content ready in eightfold-path-infographic.md, needs SVG implementation
+    - [!] Four Noble Truths relationship diagram - Content ready in four-noble-truths-infographic.md, needs SVG implementation
   - [ ] Create concept maps showing relationships between teachings
   - [ ] Add relevant imagery and symbols for each concept
   - [ ] Ensure consistent visual style with Buddhist iconography

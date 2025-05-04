@@ -4,13 +4,27 @@ title: Thập Nhị Nhân Duyên (Dvādaśāṅga-pratītyasamutpāda)
 description: Mười hai mắt xích duyên khởi - giáo lý về sự vận hành của luân hồi sinh tử
 ---
 
-## Định Nghĩa từ Kinh Điển
+## Nguồn Gốc từ Kinh Điển
 
-Trong Tương Ưng Bộ Kinh (Saṃyutta Nikāya), đức Phật dạy:
+### Kinh Đại Duyên (Mahānidāna Sutta)
 
-> "Do cái này có mặt, cái kia có mặt. Do cái này sinh, cái kia sinh. Do cái này không có mặt, cái kia không có mặt. Do cái này diệt, cái kia diệt."
+> "Này Ānanda, đây là những điểm sâu xa, khó thấy, khó chứng, tịch tịnh, mỹ diệu, vượt ngoài tầm của luận lý suông, tế nhị, chỉ những người có trí mới có thể nhận hiểu. Đó là lý Duyên Khởi."  
+> — Kinh Đại Duyên (DN 15)  
+> Nguồn: https://suttacentral.net/dn15/vi/minh_chau
 
-## Mười Hai Nhân Duyên
+**Nguyên bản Pali:**
+> "Gambhīro cāyaṃ, ānanda, paṭiccasamuppādo gambhīrāvabhāso ca. Etassa, ānanda, dhammassa ananubodhā appaṭivedhā evamayaṃ pajā tantākulakajātā kulagaṇṭhikajātā muñjapabbajabhūtā apāyaṃ duggatiṃ vinipātaṃ saṃsāraṃ nātivattati."
+
+**Bối cảnh:**
+Kinh này được Đức Phật thuyết cho Đại đức Ānanda tại Kammassadhamma, xứ Kuru. Đây là bản kinh chi tiết nhất về lý Duyên Khởi, giải thích sâu sắc về mối quan hệ giữa các yếu tố và cách thức vận hành của vòng luân hồi.
+
+### Định Nghĩa Căn Bản
+
+> "Do cái này có mặt, cái kia có mặt. Do cái này sinh, cái kia sinh. Do cái này không có mặt, cái kia không có mặt. Do cái này diệt, cái kia diệt."  
+> — Trung Bộ Kinh (MN 79)  
+> Nguồn: https://suttacentral.net/mn79/vi/minh_chau
+
+## Mười Hai Nhân Duyên (Dvādaśāṅga-pratītyasamutpāda)
 
 ### 1. Vô Minh (Avijjā)
 > "Do không hiểu rõ Tứ Thánh Đế..."
@@ -213,3 +227,37 @@ Thập Nhị Nhân Duyên là:
 - Hiểu rõ duyên khởi
 - Tu tập chuyển hóa
 - Chứng ngộ giải thoát
+
+## Thuật Ngữ Chính
+
+### Paṭiccasamuppāda (Duyên Khởi)
+- Cách phát âm: /pə.ʈit.t͡ʃə.sə.mup.paː.də/
+- Ngữ nguyên:
+  - Paṭicca: tùy thuộc, dựa vào
+  - Samuppāda: cùng sinh khởi
+- Nghĩa đen: "cùng sinh khởi có điều kiện"
+- Nghĩa trong ngữ cảnh: lý duyên khởi, quy luật nhân quả
+
+### Nidāna (Nhân Duyên)
+- Cách phát âm: /ni.daː.nə/
+- Ngữ nguyên: ni (đưa đến) + dāna (cho)
+- Nghĩa đen: "cái đưa đến"
+- Nghĩa trong ngữ cảnh: nguyên nhân, mắt xích trong chuỗi nhân duyên
+
+### Saṃsāra (Luân Hồi)
+- Cách phát âm: /səm.saː.rə/
+- Ngữ nguyên: saṃ (liên tục) + sara (chảy, di chuyển)
+- Nghĩa đen: "luân chuyển liên tục"
+- Nghĩa trong ngữ cảnh: vòng sinh tử, sự tái sinh liên tục
+
+### Paccaya (Duyên)
+- Cách phát âm: /pat.t͡ʃa.ja/
+- Ngữ nguyên: paṭi (hướng về) + i (đi)
+- Nghĩa đen: "đi đến, nương tựa"
+- Nghĩa trong ngữ cảnh: điều kiện, yếu tố hỗ trợ
+
+### Nirodha (Diệt)
+- Cách phát âm: /ni.ro.dʰə/
+- Ngữ nguyên: ni (không) + rodha (chướng ngại)
+- Nghĩa đen: "chấm dứt"
+- Nghĩa trong ngữ cảnh: sự đoạn diệt, chấm dứt khổ đau
