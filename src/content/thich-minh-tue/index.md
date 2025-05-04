@@ -116,6 +116,27 @@ Thích Minh Tuệ được nhiều người ngưỡng mộ vì:
 
 [Tìm hiểu thêm về ảnh hưởng xã hội](/content/thich-minh-tue/anh-huong)
 
+## Hoạt động và Tầm nhìn
+
+### Hoạt động giảng dạy và hướng dẫn tu tập
+Thầy thường xuyên:
+- Tổ chức các khóa thiền
+- Giảng pháp tại nhiều đạo tràng
+- Hướng dẫn tu học online
+- Viết sách và bài viết về Phật pháp
+
+### Tầm nhìn và Sứ mệnh
+Thầy luôn nỗ lực:
+- Truyền bá giáo lý thuần túy của Đức Phật
+- Hướng dẫn phương pháp tu tập thiết thực
+- Giúp mọi người áp dụng Phật pháp vào đời sống hàng ngày
+
+### Các hoạt động hiện tại (ước tính)
+- Giảng dạy tại các trung tâm thiền
+- Tổ chức các khóa tu online
+- Viết sách và bài viết về Phật pháp
+- Hướng dẫn tu tập cho cộng đồng Phật tử
+
 ## Các chủ đề liên quan
 
 - [Hành trình hành hương quốc tế](/content/thich-minh-tue/hanh-huong)

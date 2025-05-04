@@ -87,6 +87,40 @@ Trong Tăng Chi Bộ Kinh (Aṅguttara Nikāya), đức Phật dạy:
 - Quán chiếu thực tại
 - Thấu suốt chân lý
 
+## Chướng Ngại và Cách Vượt Qua
+
+### 1. Đối Với Giới
+- Phiền não thô
+- Thói quen xấu
+- Hoàn cảnh khó khăn
+
+### 2. Đối Với Định
+- Tâm tán loạn
+- [Năm Triền Cái](/content/nam-trien-cai/)
+- Thiếu tinh tấn
+
+### 3. Đối Với Tuệ
+- Vô minh
+- Tà kiến
+- Thiếu chánh kiến
+
+## Mối Liên Hệ với Giáo Lý Khác
+
+### 1. Với [Bát Chánh Đạo](/content/bat-chanh-dao/)
+- Giới: Chánh ngữ, Chánh nghiệp, Chánh mạng
+- Định: Chánh tinh tấn, Chánh niệm, Chánh định
+- Tuệ: Chánh kiến, Chánh tư duy
+
+### 2. Với [Thất Giác Chi](/content/bay-yeu-to-giac-ngo/)
+- Giới hỗ trợ niệm giác chi
+- Định phát triển định giác chi
+- Tuệ tăng trưởng trạch pháp giác chi
+
+### 3. Với [Tứ Niệm Xứ](/content/tu-niem-xu/)
+- Giới làm nền tảng
+- Định phát triển chánh niệm
+- Tuệ thấy rõ thực tướng
+
 ## Lợi Ích Tu Tập
 
 ### 1. Lợi Ích Hiện Tại

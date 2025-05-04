@@ -144,6 +144,18 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 - Biết cách chuyển hóa
 - Đạt được an lạc
 
+## Khổ Đế Trong Đời Sống Hiện Đại
+
+Ngày nay, chúng ta có thể thấy biểu hiện của khổ đau qua:
+- Áp lực công việc và cuộc sống
+- Căng thẳng tinh thần (stress, anxiety)
+- Bất an về tương lai
+- Mâu thuẫn trong các mối quan hệ
+- Tham vọng không được thỏa mãn
+- Sự vô thường của thành công và hạnh phúc
+
+Việc nhận diện những biểu hiện này giúp chúng ta thấy rõ tính phổ quát và thực tế của Khổ Đế, không chỉ trong kinh điển mà ngay trong trải nghiệm hàng ngày.
+
 ## Kết Luận
 
 Khổ Đế là:

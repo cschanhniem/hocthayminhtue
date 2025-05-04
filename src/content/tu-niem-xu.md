@@ -47,12 +47,17 @@ Tứ Niệm Xứ (Cattāri Satipaṭṭhānāni) là bốn nền tảng chánh n
 - Thân cận thiện tri thức
 - Thực hành chánh niệm
 
-### 2. Cách Thực Hành
+### 2. Chuẩn Bị Tu Tập
+- Tìm nơi yên tĩnh
+- Ngồi thoải mái, vững chãi
+- Buông bỏ các lo lắng, bận tâm
+
+### 3. Cách Thực Hành
 - Quán sát thân tâm
 - Phát triển chánh niệm
 - Duy trì sự tỉnh giác
 
-### 3. Dấu Hiệu Thành Tựu
+### 4. Dấu Hiệu Thành Tựu
 - Tâm thanh tịnh
 - Trí tuệ sáng suốt
 - Giải thoát phiền não

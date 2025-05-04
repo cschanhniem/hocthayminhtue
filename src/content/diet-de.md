@@ -51,6 +51,11 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 - Tự tại viên mãn
 - Giác ngộ trọn vẹn
 
+### 4. Vô Sanh, Vô Diệt, Vô Tạo Tác
+- Không còn tái sinh (Vô sanh)
+- Không còn hoại diệt (Vô diệt)
+- Không còn tạo tác nghiệp (Vô tạo tác)
+
 ## Hai Loại Niết Bàn
 
 ### 1. Hữu Dư Niết Bàn (Sopadisesa-nibbāna)
@@ -150,6 +155,17 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 - Chứng minh khả năng giải thoát
 - Duy trì chánh pháp
 - Lưu truyền đạo giác ngộ
+
+## Diệt Đế Trong Đời Sống Hiện Đại
+
+Mặc dù Niết-bàn là mục tiêu tối hậu, việc thực hành hướng đến Diệt Đế mang lại lợi ích thiết thực ngay trong đời sống:
+- Buông bỏ bớt các tham muốn không cần thiết, giảm áp lực.
+- Giảm thiểu sự bám chấp vào vật chất, danh vọng, ý kiến.
+- Sống an lạc hơn trong hiện tại, ít lo âu về tương lai.
+- Giải thoát dần khỏi các phiền não tinh thần như lo lắng, sợ hãi, sân hận.
+- Sống hài hòa hơn với môi trường và mọi người xung quanh.
+
+Đây là những bước đi ban đầu trên con đường dẫn đến sự chấm dứt khổ đau hoàn toàn.
 
 ## Kết Luận
 
