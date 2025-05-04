@@ -4,6 +4,31 @@ title: Ngũ Uẩn (Pañcakkhandha)
 description: Năm uẩn - năm nhóm tạo thành con người theo giáo lý đức Phật
 ---
 
+## Infographic: Ngũ Uẩn
+
+Note: The infographic is currently being implemented as an SVG diagram with the following key elements:
+
+1. **Visual Structure**
+   - Hierarchical layout showing the five aggregates
+   - Central human figure with five interconnected areas
+   - Color-coded sections for each aggregate
+   - Bilingual labels (Vietnamese and English)
+
+2. **Color Scheme**
+   - Sắc (Form): Earth tone (#8B4513)
+   - Thọ (Feeling): Ocean blue (#4682B4)
+   - Tưởng (Perception): Forest green (#228B22)
+   - Hành (Mental Formations): Deep purple (#483D8B)
+   - Thức (Consciousness): Golden light (#DAA520)
+
+3. **Planned Interactivity**
+   - Hover effects to highlight each aggregate
+   - Click to expand detailed explanations
+   - Animated transitions between states
+   - Keyboard navigation support
+
+Status: SVG implementation in progress. The diagram will be responsive and accessible, with proper ARIA labels and keyboard navigation support.
+
 ## Định Nghĩa từ Kinh Điển
 
 Trong Tương Ưng Bộ Kinh (Saṃyutta Nikāya), đức Phật dạy:

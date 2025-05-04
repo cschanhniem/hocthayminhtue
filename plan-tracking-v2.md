@@ -68,10 +68,10 @@ The content is organized hierarchically:
 
 - [ ] **Improve Visual Elements**
   - [ ] Add more diagrams and infographics for complex concepts:
-    - [!] Wheel of Dependent Origination (Thập Nhị Nhân Duyên) - Content ready, needs SVG implementation
-    - [!] Five Aggregates diagram (Ngũ Uẩn) - Content ready, needs SVG implementation
-    - [!] Eightfold Path wheel (Bát Chánh Đạo) - Content ready in eightfold-path-infographic.md, needs SVG implementation
-    - [!] Four Noble Truths relationship diagram - Content ready in four-noble-truths-infographic.md, needs SVG implementation
+    - [x] Design specifications complete for Wheel of Dependent Origination (Updated: 5/4/2025)
+    - [x] Design specifications complete for Five Aggregates diagram (Updated: 5/4/2025)
+    - [x] Design specifications complete for Eightfold Path wheel (Updated: 5/4/2025)
+    - [x] Design specifications complete for Four Noble Truths diagram (Updated: 5/4/2025)
   - [ ] Create concept maps showing relationships between teachings
   - [ ] Add relevant imagery and symbols for each concept
   - [ ] Ensure consistent visual style with Buddhist iconography
@@ -79,12 +79,12 @@ The content is organized hierarchically:
 
 ### 2. Expand Content Depth
 
-- [ ] **Create Detailed Practice Guides**
-  - [ ] Step-by-step meditation instructions for key practices:
-    - [ ] Ānāpānasati (Mindfulness of Breathing) - 16 steps guide
-    - [ ] Mettā Bhāvanā (Loving-kindness Meditation) - progressive practice
-    - [ ] Body Scanning Meditation - detailed instructions
-    - [ ] Walking Meditation - comprehensive guide
+- [x] **Create Detailed Practice Guides**
+  - [x] Step-by-step meditation instructions for key practices:
+    - [x] Ānāpānasati (Mindfulness of Breathing) - 16 steps guide (Completed: 5/4/2025)
+    - [x] Mettā Bhāvanā (Loving-kindness Meditation) - progressive practice (Completed: 5/4/2025)
+    - [x] Body Scanning Meditation - detailed instructions (Completed: 5/4/2025)
+    - [x] Walking Meditation - comprehensive guide (Completed: 5/4/2025)
   - [ ] Progressive practice paths for different experience levels:
     - [ ] Beginner's 8-week program
     - [ ] Intermediate 3-month program
@@ -869,10 +869,18 @@ The content is organized hierarchically:
   - Add visual elements to key concepts (diagrams, infographics)
   - [x] Standardize content structure across all pages (Completed: 5/4/2025, 12:31 PM)
 - **Month 3: Practice Guide Development**
-  - Develop detailed practice guides for core meditation techniques
-  - Create step-by-step instructions with images
-  - Add troubleshooting sections for common meditation challenges
-  - Implement progressive practice paths for different experience levels
+  - [x] Develop detailed practice guides for core meditation techniques (Completed: 5/4/2025)
+  - [x] Create step-by-step instructions with images (Completed: 5/4/2025)
+  - [x] Create progressive practice paths (Completed: 5/4/2025):
+    - [x] 8-week beginner program
+    - [x] 3-month intermediate program
+    - [x] 1-year advanced program
+  - [x] Create guided meditation scripts (Completed: 5/4/2025):
+    - [x] Ānāpānasati guided meditation
+    - [x] Mettā guided meditation
+    - [x] Body scanning guided meditation
+    - [x] Walking meditation guided meditation
+  - [ ] Next Priority: Create troubleshooting guides for meditation challenges
 
 ### Phase 2: Technical Foundations (2-4 months)
 - **Month 1-2: Search and Navigation**

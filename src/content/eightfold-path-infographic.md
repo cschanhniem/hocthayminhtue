@@ -10,7 +10,27 @@ Bát Chánh Đạo là con đường tám nhánh được đức Phật giảng 
 
 ### Infographic: Bát Chánh Đạo
 
-![Bát Chánh Đạo Infographic](https://example.com/eightfold-path-infographic.jpg)
+Note: The infographic is currently being implemented as an SVG diagram with the following key elements:
+
+1. **Visual Structure**
+   - Dharma wheel design with eight spokes
+   - Three concentric circles representing Giới, Định, Tuệ
+   - Eight sections for each path element
+   - Bilingual labels (Vietnamese and English)
+
+2. **Color Scheme**
+   - Giới (Ethics) sections: Emerald green (#228B22)
+   - Định (Meditation) sections: Deep blue (#00008B)
+   - Tuệ (Wisdom) sections: Royal purple (#4B0082)
+   - Hub and rim: Golden (#D4AF37)
+
+3. **Planned Interactivity**
+   - Hover effects to highlight related elements
+   - Click to expand detailed descriptions
+   - Rotate wheel to explore connections
+   - Keyboard navigation support
+
+Status: SVG implementation in progress. The diagram will be responsive and accessible, with proper ARIA labels and focus management for interactive elements.
 
 ## Ba Nhóm Tu Tập
 

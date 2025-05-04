@@ -4,6 +4,32 @@ title: Thập Nhị Nhân Duyên (Dvādaśāṅga-pratītyasamutpāda)
 description: Mười hai mắt xích duyên khởi - giáo lý về sự vận hành của luân hồi sinh tử
 ---
 
+## Infographic: Thập Nhị Nhân Duyên
+
+Note: The infographic is currently being implemented as an SVG diagram with the following key elements:
+
+1. **Visual Structure**
+   - Circular wheel design showing interconnected links
+   - Twelve sections representing each link in the chain
+   - Arrows indicating causation flow
+   - Bilingual labels (Vietnamese and English)
+
+2. **Color Scheme**
+   - Wheel rim: Deep maroon (#800000)
+   - Vô Minh (Ignorance) section: Midnight blue (#191970)
+   - Hành (Formations) to Thức (Consciousness): Blues to purples
+   - Danh Sắc (Name & Form) to Xúc (Contact): Greens to yellows
+   - Thọ (Feeling) to Hữu (Becoming): Oranges to reds
+   - Sinh-Tử (Birth-Death): Deep crimson (#DC143C)
+
+3. **Planned Interactivity**
+   - Hover effects to highlight causal chains
+   - Click to expand detailed explanations
+   - Animated flow showing causation
+   - Keyboard navigation support
+
+Status: SVG implementation in progress. The diagram will be responsive and accessible, with proper ARIA labels and keyboard navigation support.
+
 ## Nguồn Gốc từ Kinh Điển
 
 ### Kinh Đại Duyên (Mahānidāna Sutta)

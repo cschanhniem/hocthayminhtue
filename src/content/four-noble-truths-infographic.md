@@ -10,7 +10,27 @@ Tứ Diệu Đế là bốn chân lý nền tảng được đức Phật giản
 
 ### Infographic: Tứ Diệu Đế
 
-![Tứ Diệu Đế Infographic](https://example.com/four-noble-truths-infographic.jpg)
+Note: The infographic is currently being implemented as an SVG diagram with the following key elements:
+
+1. **Visual Structure**
+   - Central circular design representing interconnected nature of the Four Noble Truths
+   - Each truth in its own quadrant with distinct Buddhist-inspired colors
+   - Bilingual labels (Vietnamese and English)
+   - Clear visual hierarchy through size and positioning
+
+2. **Color Scheme**
+   - Khổ Đế (Suffering): Golden ochre (#D4A017)
+   - Tập Đế (Origin): Deep red (#8B0000) 
+   - Diệt Đế (Cessation): Forest green (#006400)
+   - Đạo Đế (Path): Royal purple (#4B0082)
+
+3. **Planned Interactivity**
+   - Hover effects to highlight relationships
+   - Click to expand detailed explanations
+   - Smooth transitions between states
+   - Accessible keyboard navigation
+
+Status: SVG implementation in progress. The diagram will be responsive and accessible, with proper ARIA labels and keyboard navigation support.
 
 ## Diệu Đế Thứ Nhất: Khổ Đế (Dukkha Sacca)
 
