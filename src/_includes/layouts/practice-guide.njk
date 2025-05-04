@@ -1,0 +1,121 @@
+---
+layout: layouts/base.njk
+---
+
+<article class="practice-guide">
+  <header class="guide-header">
+    <h1>{{ title }}</h1>
+    {% if description %}
+    <p class="description">{{ description }}</p>
+    {% endif %}
+  </header>
+
+  <div class="guide-content">
+    {{ content | safe }}
+  </div>
+
+  {% if related_guides %}
+  <aside class="related-guides">
+    <h2>Hướng Dẫn Liên Quan</h2>
+    <ul>
+      {% for guide in related_guides %}
+      <li><a href="{{ guide.url }}">{{ guide.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+
+  <footer class="guide-footer">
+    <div class="navigation-links">
+      <a href="/practice-guides/" class="all-guides-link">← Tất Cả Hướng Dẫn</a>
+    </div>
+  </footer>
+</article>
+
+<style>
+.practice-guide {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.guide-header {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.guide-header .description {
+  color: #666;
+  font-size: 1.1em;
+  max-width: 600px;
+  margin: 1rem auto;
+}
+
+.guide-content {
+  line-height: 1.6;
+}
+
+.guide-content h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.guide-content h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  color: #444;
+}
+
+.guide-content ul, .guide-content ol {
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.guide-content li {
+  margin-bottom: 0.5rem;
+}
+
+.related-guides {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid #eee;
+}
+
+.guide-footer {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid #eee;
+  text-align: center;
+}
+
+.navigation-links {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.navigation-links a {
+  text-decoration: none;
+  color: #0066cc;
+}
+
+.navigation-links a:hover {
+  text-decoration: underline;
+}
+
+/* Code block styling */
+pre {
+  background: #f5f5f5;
+  padding: 1rem;
+  border-radius: 4px;
+  overflow-x: auto;
+}
+
+code {
+  font-family: monospace;
+  background: #f5f5f5;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+}
+</style>
