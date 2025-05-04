@@ -1,8 +1,10 @@
 ---
 layout: layouts/content.njk
 title: Bát Chánh Đạo (Ariyo Aṭṭhaṅgiko Maggo)
-description: Con đường Thánh Đạo tám ngành - con đường trung đạo dẫn đến giải thoát
+description: Con đường Thánh Đạo tám ngành - con đường trung đạo dẫn đến giải thoát, là phần thứ tư trong Tứ Diệu Đế (Đạo Đế).
 ---
+
+Bát Chánh Đạo (tiếng Pali: Ariya Aṭṭhaṅgika Magga) hay Con Đường Tám Ngành là con đường tu tập do Đức Phật chỉ ra để đưa đến chấm dứt khổ đau. Đây là phần thứ tư trong [Tứ Diệu Đế](/content/tu-dieu-de/) (Đạo Đế), là phương pháp thực tiễn để đạt đến giải thoát.
 
 ## Định Nghĩa từ Kinh Điển
 
