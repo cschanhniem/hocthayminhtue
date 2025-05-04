@@ -21,9 +21,9 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 - An lạc tối thượng
 
 #### Ý Nghĩa
-- Vượt thoát đau khổ
-- Chấm dứt sinh tử
-- Giải thoát viên mãn
+- Vượt thoát [đau khổ](/content/kho-de/)
+- Chấm dứt [sinh tử](/content/sinh/)
+- [Giải thoát](/content/niet-ban/) viên mãn
 
 ### 2. Vô Vi (Asaṅkhata)
 > "Niết-bàn là pháp vô vi..."
@@ -70,10 +70,10 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 
 ## Con Đường Chứng Đắc
 
-### 1. Đoạn Trừ Phiền Não
-- Tham ái
-- Sân hận
-- Si mê
+### 1. Đoạn Trừ [Phiền Não](/content/phien-nao/)
+- [Tham ái](/content/tham/)
+- [Sân hận](/content/san/)
+- [Si mê](/content/si/)
 
 ### 2. Tu Tập Ba Học
 - [Giới học](/content/tam-hoc/gioi-hoc/)
@@ -93,12 +93,12 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 - Năm thượng phần kiết sử
 - Cần đoạn trừ tuần tự
 
-### 2. Năm Triền Cái
-- Tham dục
-- Sân hận
-- Hôn trầm thụy miên
-- Trạo cử hối quá
-- Hoài nghi
+### 2. [Năm Triền Cái](/content/nam-trien-cai/)
+- [Tham dục](/content/tham/)
+- [Sân hận](/content/san/)
+- [Hôn trầm](/content/nam-trien-cai/) thụy miên
+- [Trạo cử](/content/nam-trien-cai/) hối quá
+- [Hoài nghi](/content/nam-trien-cai/)
 
 ### 3. Ba Độc
 - Tham 
@@ -117,9 +117,9 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 - Thiền quán
 - Chỉ quán song tu
 
-### 3. Đoạn Trừ Chấp Thủ
-- Không chấp ngã
-- Không chấp pháp
+### 3. Đoạn Trừ [Chấp Thủ](/content/thu/)
+- Không [chấp ngã](/content/chap-nga/)
+- Không [chấp pháp](/content/chap-phap/)
 - Xả ly triệt để
 
 ## Dấu Hiệu Chứng Đắc
@@ -130,20 +130,20 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 - Vô chấp
 
 ### 2. Về Trí
-- Thấy như thật
-- Không còn mê lầm
-- Tuệ giác viên mãn
+- [Thấy như thật](/content/chanh-kien/)
+- Không còn [mê lầm](/content/si/)
+- [Tuệ giác](/content/tue-hoc/) viên mãn
 
 ### 3. Về Đạo Quả
-- Đoạn tận lậu hoặc
-- Không còn tái sinh
-- Chứng ngộ Niết-bàn
+- Đoạn tận [lậu hoặc](/content/phien-nao/)
+- Không còn [tái sinh](/content/tai-sinh/)
+- Chứng ngộ [Niết-bàn](/content/niet-ban/)
 
 ## Lợi Ích của Diệt Đế
 
 ### 1. Đối Với Bản Thân
-- Giải thoát khổ đau
-- An lạc tối thượng
+- [Giải thoát](/content/niet-ban/) [khổ đau](/content/kho-de/)
+- [An lạc](/content/niet-ban/) tối thượng
 - Tự tại vô ngại
 
 ### 2. Đối Với Tha Nhân
@@ -152,9 +152,9 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 - Lợi lạc chúng sinh
 
 ### 3. Đối Với Đạo Pháp
-- Chứng minh khả năng giải thoát
-- Duy trì chánh pháp
-- Lưu truyền đạo giác ngộ
+- Chứng minh khả năng [giải thoát](/content/niet-ban/)
+- Duy trì [chánh pháp](/content/chanh-phap/)
+- Lưu truyền đạo [giác ngộ](/content/bay-yeu-to-giac-ngo/)
 
 ## Diệt Đế Trong Đời Sống Hiện Đại
 
@@ -175,6 +175,6 @@ Diệt Đế là:
 - [Niết-bàn](/content/niet-ban/) tịch tĩnh
 
 Để chứng đắc cần:
-- Đoạn trừ phiền não
-- Tu tập miên mật
-- Thực chứng giải thoát
+- Đoạn trừ [phiền não](/content/phien-nao/)
+- Tu tập miên mật ([Đạo Đế](/content/bat-chanh-dao/))
+- Thực chứng [giải thoát](/content/niet-ban/)

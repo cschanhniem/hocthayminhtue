@@ -6,7 +6,7 @@ description: "Chân lý thứ tư trong Tứ Diệu Đế - Con đường dẫn 
 
 # Đạo Đế
 
-Đạo Đế (tiếng Pali: Magga) là chân lý thứ tư trong Tứ Diệu Đế, là sự thật về con đường dẫn đến chấm dứt khổ đau. Đây là Bát Chánh Đạo - con đường trung đạo do Đức Phật khám phá và giảng dạy.
+Đạo Đế (tiếng Pali: Magga) là chân lý thứ tư trong [Tứ Diệu Đế](/content/tu-dieu-de/), là sự thật về con đường dẫn đến chấm dứt [khổ đau](/content/kho-de/). Đây là [Bát Chánh Đạo](/content/bat-chanh-dao/) - con đường trung đạo do Đức Phật khám phá và giảng dạy.
 
 ## Bát Chánh Đạo
 
@@ -21,10 +21,10 @@ Bát Chánh Đạo được chia thành ba nhóm tu tập:
 4. **[Chánh nghiệp](/content/chanh-nghiep)**: Hành động đúng đắn, không sát sinh
 5. **[Chánh mạng](/content/chanh-mang)**: Nuôi mạng chân chính, không làm nghề bất thiện
 
-### 3. Định (Samādhi)
-6. **[Chánh tinh tấn](/content/chanh-tinh-tan)**: Nỗ lực đúng đắn để đoạn ác, tu thiện
-7. **[Chánh niệm](/content/chanh-niem)**: Tỉnh giác, chánh niệm trong mọi hoạt động
-8. **[Chánh định](/content/chanh-dinh)**: Tập trung tâm ý đúng đắn
+### 3. [Định](/content/tam-hoc/dinh-hoc/) (Samādhi)
+6. **[Chánh tinh tấn](/content/chanh-tinh-tan/)**: Nỗ lực đúng đắn để đoạn ác, tu thiện
+7. **[Chánh niệm](/content/chanh-niem/)**: Tỉnh giác, chánh niệm trong mọi hoạt động
+8. **[Chánh định](/content/chanh-dinh/)**: Tập trung tâm ý đúng đắn
 
 ## Trong kinh điển
 
@@ -47,10 +47,10 @@ Bát Chánh Đạo là con đường:
    - Sống đạo đức
    - Tạo nền tảng cho định và tuệ
 
-2. **Phát triển Định**:
-   - Tu tập thiền định
+2. **Phát triển [Định](/content/tam-hoc/dinh-hoc/)**:
+   - Tu tập [thiền định](/content/thien-dinh/)
    - An tịnh tâm ý
-   - Chuẩn bị cho tuệ
+   - Chuẩn bị cho [tuệ](/content/tam-hoc/tue-hoc/)
 
 3. **Phát triển Tuệ**:
    - Quán chiếu thực tại
@@ -59,14 +59,14 @@ Bát Chánh Đạo là con đường:
 
 ## Trong đời sống hiện đại
 
-Ngày nay, chúng ta có thể thực hành Bát Chánh Đạo qua:
-- Sống có đạo đức và trách nhiệm
-- Phát triển chánh niệm trong công việc
-- Tu tập thiền định thường xuyên
-- Học hỏi và quán chiếu giáo lý
+Ngày nay, chúng ta có thể thực hành [Bát Chánh Đạo](/content/bat-chanh-dao/) qua:
+- Sống có [đạo đức](/content/ngu-gioi/) và trách nhiệm
+- Phát triển [chánh niệm](/content/chanh-niem/) trong công việc
+- Tu tập [thiền định](/content/thien-dinh/) thường xuyên
+- Học hỏi và quán chiếu [giáo lý](/content/chanh-phap/)
 - Sống hài hòa với môi trường và người khác
 
 ## Liên kết
-- [Tứ Diệu Đế](/content/tu-dieu-de)
-- [Bát Chánh Đạo](/content/bat-chanh-dao)
-- [Tam Học](/content/tam-hoc)
+- [Tứ Diệu Đế](/content/tu-dieu-de/)
+- [Bát Chánh Đạo](/content/bat-chanh-dao/)
+- [Tam Học](/content/tam-hoc/)
