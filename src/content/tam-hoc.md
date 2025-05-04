@@ -107,9 +107,9 @@ Trong Tăng Chi Bộ Kinh (Aṅguttara Nikāya), đức Phật dạy:
 ## Mối Liên Hệ với Giáo Lý Khác
 
 ### 1. Với [Bát Chánh Đạo](/content/bat-chanh-dao/)
-- Giới: Chánh ngữ, Chánh nghiệp, Chánh mạng
-- Định: Chánh tinh tấn, Chánh niệm, Chánh định
-- Tuệ: Chánh kiến, Chánh tư duy
+- Giới: [Chánh ngữ](/content/chanh-ngu/), [Chánh nghiệp](/content/chanh-nghiep/), [Chánh mạng](/content/chanh-mang/)
+- Định: [Chánh tinh tấn](/content/chanh-tinh-tan/), [Chánh niệm](/content/chanh-niem/), [Chánh định](/content/chanh-dinh/)
+- Tuệ: [Chánh kiến](/content/chanh-kien/), [Chánh tư duy](/content/chanh-tu-duy/)
 
 ### 2. Với [Thất Giác Chi](/content/bay-yeu-to-giac-ngo/)
 - Giới hỗ trợ niệm giác chi

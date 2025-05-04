@@ -67,10 +67,10 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), bài pháp đầu
 - Phương pháp tu tập
 - [Bát Chánh Đạo](/content/bat-chanh-dao/)
 
-#### Nội Dung
-- Giới học
-- Định học
-- Tuệ học
+#### Nội Dung ([Tam Học](/content/tam-hoc/))
+- [Giới học](/content/tam-hoc/#1-gioi-hoc-adhisila-sikkha) (Sīla)
+- [Định học](/content/tam-hoc/#2-dinh-hoc-adhicitta-sikkha) (Samādhi)
+- [Tuệ học](/content/tam-hoc/#3-tue-hoc-adhipanna-sikkha) (Paññā)
 
 **Nhiệm vụ (Kicca)**: Đạo Thánh đế cần được *tu tập* (bhāvetabba) - phát triển viên mãn.
 

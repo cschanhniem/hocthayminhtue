@@ -113,7 +113,7 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 ### 3. Đối Với Giải Thoát
 - Con đường trung đạo
 - Thoát khỏi cực đoan
-- Đạt đến Niết-bàn
+- Đạt đến [Niết-bàn](/content/niet-ban/) (Nibbāna)
 
 ## Bát Chánh Đạo Trong Đời Sống Hiện Đại
 

@@ -8,7 +8,7 @@ description: Chân lý thứ nhất trong Tứ Diệu Đế - sự thật về k
 
 Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật dạy về Khổ Đế:
 
-> "Này các Tỳ kheo, đây là Khổ Thánh đế: Sinh là khổ, già là khổ, bệnh là khổ, chết là khổ, sầu, bi, khổ, ưu, não là khổ, oán gặp nhau là khổ, ái biệt ly là khổ, cầu không được là khổ. Tóm lại, năm thủ uẩn là khổ."
+> "Này các Tỳ kheo, đây là Khổ Thánh đế: [Sinh](/content/sinh/) là khổ, [già](/content/lao/) là khổ, [bệnh](/content/benh/) là khổ, [chết](/content/tu-death/) là khổ, sầu, bi, khổ, ưu, não là khổ, oán gặp nhau là khổ, ái biệt ly là khổ, cầu không được là khổ. Tóm lại, [năm thủ uẩn](/content/ngu-uan/) là khổ."
 
 ## Ba Loại Khổ
 
@@ -29,7 +29,7 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 > "Sự biến hoại của niềm vui là khổ..."
 
 #### Biểu Hiện
-- Vô thường của hạnh phúc
+- [Vô thường](/content/ba-dac-tinh/) của hạnh phúc
 - Mất mát của được
 - Chia ly của hợp
 
@@ -39,7 +39,7 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 - Phổ quát trong đời sống
 
 ### 3. Hành Khổ (Saṅkhāra-dukkha)
-> "Bản chất bất toại nguyện của các hành là khổ..."
+> "Bản chất bất toại nguyện của [các hành](/content/ngu-uan/) (saṅkhāra) là khổ..."
 
 #### Biểu Hiện
 - Bất an căn bản
@@ -53,22 +53,22 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 
 ## Tám Nỗi Khổ Căn Bản
 
-### 1. Sinh Khổ
+### 1. [Sinh Khổ](/content/sinh/)
 - Đau đớn khi sinh
 - Bất lực lúc sơ sinh
 - Khổ do hiện hữu
 
-### 2. Già Khổ
+### 2. [Già Khổ](/content/lao/)
 - Suy thoái thân thể
 - Mất đi sinh lực
 - Phụ thuộc người khác
 
-### 3. Bệnh Khổ
+### 3. [Bệnh Khổ](/content/benh/)
 - Đau đớn thể xác
 - Bất an tinh thần
 - Mất tự chủ
 
-### 4. Tử Khổ
+### 4. [Tử Khổ](/content/tu-death/)
 - Sợ hãi cái chết
 - Đau đớn lúc chết
 - Bất định về tương lai
@@ -88,7 +88,7 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 - Thất bại trong đời
 - Bất như ý
 
-### 8. Ngũ Thủ Uẩn Khổ
+### 8. [Ngũ Thủ Uẩn Khổ](/content/ngu-uan/)
 - Khổ do chấp thân
 - Khổ do chấp tâm
 - Khổ do chấp ngã
@@ -101,7 +101,7 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 - Khắp mọi cảnh giới
 
 ### 2. Tính Duyên Sinh
-- Do nhân duyên sinh
+- Do [nhân duyên sinh](/content/thap-nhi-nhan-duyen/)
 - Có thể đoạn diệt
 - Có thể chuyển hóa
 
@@ -118,14 +118,14 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 - Đối diện thực tại
 
 ### 2. Thấu Hiểu Khổ
-- Hiểu nguyên nhân
+- Hiểu [nguyên nhân](/content/tap-de/) (Samudaya)
 - Thấy được bản chất
 - Biết cách chuyển hóa
 
 ### 3. Vượt Thoát Khổ
-- Đoạn trừ nguyên nhân
-- Tu tập chuyển hóa
-- Hướng đến giải thoát
+- Đoạn trừ [nguyên nhân](/content/tap-de/)
+- Tu tập chuyển hóa ([Đạo Đế](/content/bat-chanh-dao/))
+- Hướng đến [giải thoát](/content/niet-ban/) ([Diệt Đế](/content/diet-de/))
 
 ## Lợi Ích của Hiểu Khổ
 
@@ -140,9 +140,9 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 - Không thối chuyển
 
 ### 3. Đối Với Giải Thoát
-- Thấy được lối thoát
-- Biết cách chuyển hóa
-- Đạt được an lạc
+- Thấy được lối thoát ([Diệt Đế](/content/diet-de/))
+- Biết cách chuyển hóa ([Đạo Đế](/content/bat-chanh-dao/))
+- Đạt được [an lạc](/content/niet-ban/) ([Niết-bàn](/content/niet-ban/))
 
 ## Khổ Đế Trong Đời Sống Hiện Đại
 
@@ -152,7 +152,7 @@ Ngày nay, chúng ta có thể thấy biểu hiện của khổ đau qua:
 - Bất an về tương lai
 - Mâu thuẫn trong các mối quan hệ
 - Tham vọng không được thỏa mãn
-- Sự vô thường của thành công và hạnh phúc
+- Sự [vô thường](/content/ba-dac-tinh/) của thành công và hạnh phúc
 
 Việc nhận diện những biểu hiện này giúp chúng ta thấy rõ tính phổ quát và thực tế của Khổ Đế, không chỉ trong kinh điển mà ngay trong trải nghiệm hàng ngày.
 

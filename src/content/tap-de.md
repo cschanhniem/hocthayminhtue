@@ -1,14 +1,14 @@
 ---
 layout: layouts/content.njk
 title: Tập Đế (Samudaya Ariyasacca)
-description: Chân lý thứ hai trong Tứ Diệu Đế - sự thật về nguyên nhân của khổ
+description: Chân lý thứ hai trong [Tứ Diệu Đế](/content/tu-dieu-de/) - sự thật về nguyên nhân của [khổ](/content/kho-de/)
 ---
 
 ## Định Nghĩa từ Kinh Điển
 
 Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật dạy về Tập Đế:
 
-> "Này các Tỳ kheo, đây là Khổ Tập Thánh đế: Chính là ái này đưa đến tái sinh, câu hữu với hỷ và tham, tìm cầu hỷ lạc chỗ này chỗ kia. Tức là dục ái, hữu ái, phi hữu ái."
+> "Này các Tỳ kheo, đây là Khổ Tập Thánh đế: Chính là ái này đưa đến [tái sinh](/content/tai-sinh/), câu hữu với hỷ và [tham](/content/tham/), tìm cầu hỷ lạc chỗ này chỗ kia. Tức là dục ái, hữu ái, phi hữu ái."
 
 ## Ba Loại Ái
 
@@ -16,14 +16,14 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 > "Dục ái là tham đắm trong các dục lạc..."
 
 #### Biểu Hiện
-- Ham muốn ngũ dục
+- Ham muốn [ngũ dục](/content/ngu-duc/)
 - Đắm nhiễm trần cảnh
 - Tìm cầu khoái lạc
 
 #### Tác Hại
-- Dẫn đến tham đắm
-- Tạo nghiệp dục giới
-- Khổ đau triền miên
+- Dẫn đến [tham đắm](/content/tham/)
+- Tạo [nghiệp](/content/nghiep/) [dục giới](/content/ba-coi/)
+- [Khổ đau](/content/kho-de/) triền miên
 
 ### 2. Hữu Ái (Bhava-taṇhā)
 > "Hữu ái là tham đắm trong các cõi hiện hữu..."
@@ -34,9 +34,9 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 - Chấp thủ thân mạng
 
 #### Tác Hại
-- Dẫn đến tái sinh
-- Kéo dài luân hồi
-- Không được giải thoát
+- Dẫn đến [tái sinh](/content/tai-sinh/)
+- Kéo dài [luân hồi](/content/luan-hoi/)
+- Không được [giải thoát](/content/niet-ban/)
 
 ### 3. Phi Hữu Ái (Vibhava-taṇhā)
 > "Phi hữu ái là tham đắm vào sự đoạn diệt..."
@@ -47,26 +47,26 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 - Tà kiến đoạn diệt
 
 #### Tác Hại
-- Tà kiến cực đoan
-- Phủ nhận nhân quả
-- Đọa vào ác đạo
+- [Tà kiến](/content/ta-kien/) cực đoan
+- Phủ nhận [nhân quả](/content/nhan-qua/)
+- Đọa vào [ác đạo](/content/sau-neo-luan-hoi/)
 
 ## Các Yếu Tố Tạo Nghiệp
 
-### 1. Phiền Não
-- Tham
-- Sân
-- Si
+### 1. [Phiền Não](/content/phien-nao/)
+- [Tham](/content/tham/)
+- [Sân](/content/san/)
+- [Si](/content/si/)
 
-### 2. Nghiệp
+### 2. [Nghiệp](/content/nghiep/)
 - Thân nghiệp
 - Khẩu nghiệp
 - Ý nghiệp
 
 ### 3. Quả
-- Tái sinh
-- Khổ đau
-- Luân hồi
+- [Tái sinh](/content/tai-sinh/)
+- [Khổ đau](/content/kho-de/)
+- [Luân hồi](/content/luan-hoi/)
 
 ## Tiến Trình Sinh Khởi
 
@@ -74,36 +74,36 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 
 Quá trình này diễn ra như sau:
 
-1.  **Vô minh** (Avijjā) → **Hành** (Saṅkhārā)
-2.  **Hành** → **Thức** (Viññāṇa)
-3.  **Thức** → **Danh sắc** (Nāmarūpa)
-4.  **Danh sắc** → **Lục nhập** (Saḷāyatana)
-5.  **Lục nhập** → **Xúc** (Phassa)
-6.  **Xúc** → **Thọ** (Vedanā)
-7.  **Thọ** → **Ái** (Tanhā)
-8.  **Ái** → **Thủ** (Upādāna)
-9.  **Thủ** → **Hữu** (Bhava)
-10. **Hữu** → **Sinh** (Jāti)
-11. **Sinh** → **Lão tử** (Jarāmaraṇa), sầu, bi, khổ, ưu, não.
+1.  **[Vô minh](/content/vo-minh/)** (Avijjā) → **[Hành](/content/ngu-uan/)** (Saṅkhārā)
+2.  **[Hành](/content/ngu-uan/)** → **[Thức](/content/ngu-uan/)** (Viññāṇa)
+3.  **[Thức](/content/ngu-uan/)** → **[Danh sắc](/content/danh-sac/)** (Nāmarūpa)
+4.  **[Danh sắc](/content/danh-sac/)** → **[Lục nhập](/content/luc-nhap/)** (Saḷāyatana)
+5.  **[Lục nhập](/content/luc-nhap/)** → **Xúc** (Phassa)
+6.  **Xúc** → **[Thọ](/content/tho-niem-xu/)** (Vedanā)
+7.  **[Thọ](/content/tho-niem-xu/)** → **Ái** (Tanhā)
+8.  **Ái** → **[Thủ](/content/thu/)** (Upādāna)
+9.  **[Thủ](/content/thu/)** → **[Hữu](/content/huu/)** (Bhava)
+10. **[Hữu](/content/huu/)** → **[Sinh](/content/sinh/)** (Jāti)
+11. **[Sinh](/content/sinh/)** → **[Lão tử](/content/lao-tu/)** (Jarāmaraṇa), sầu, bi, [khổ](/content/kho-de/), ưu, não.
 
-Như vậy, Ái là mắt xích then chốt dẫn đến chấp thủ (Thủ), tạo nghiệp hữu (Hữu), và cuối cùng là tái sinh (Sinh) và toàn bộ khổ uẩn.
+Như vậy, Ái là mắt xích then chốt dẫn đến [chấp thủ](/content/thu/) (Thủ), tạo [nghiệp hữu](/content/huu/) (Hữu), và cuối cùng là [tái sinh](/content/sinh/) (Sinh) và toàn bộ [khổ uẩn](/content/ngu-uan/).
 
 ## Đặc Tính của Tập Đế
 
 ### 1. Tính Nhân Quả
-- Là nhân của khổ
-- Có thể đoạn trừ
-- Tùy thuộc duyên sinh
+- Là nhân của [khổ](/content/kho-de/)
+- Có thể đoạn trừ ([Diệt Đế](/content/diet-de/))
+- Tùy thuộc [duyên sinh](/content/thap-nhi-nhan-duyen/)
 
 ### 2. Tính Phổ Biến
 - Hiện diện mọi nơi
 - Ảnh hưởng mọi người
-- Xuyên suốt ba cõi
+- Xuyên suốt [ba cõi](/content/ba-coi/)
 
 ### 3. Tính Chuyển Hóa
 - Có thể nhận diện
-- Có thể đoạn trừ
-- Có thể vượt thoát
+- Có thể đoạn trừ ([Diệt Đế](/content/diet-de/))
+- Có thể vượt thoát ([Đạo Đế](/content/bat-chanh-dao/))
 
 ## Phương Pháp Đoạn Trừ
 
@@ -113,48 +113,48 @@ Như vậy, Ái là mắt xích then chốt dẫn đến chấp thủ (Thủ), t
 - Biết được tác hại
 
 ### 2. Chuyển Hóa
-- Phát triển trí tuệ
-- Tu tập thiền định
-- Giữ gìn giới hạnh
+- Phát triển [trí tuệ](/content/bat-chanh-dao/chanh-kien/) ([Tuệ học](/content/tam-hoc/tue-hoc/))
+- Tu tập [thiền định](/content/bat-chanh-dao/chanh-dinh/) ([Định học](/content/tam-hoc/dinh-hoc/))
+- Giữ gìn [giới hạnh](/content/bat-chanh-dao/chanh-ngu/) ([Giới học](/content/tam-hoc/gioi-hoc/))
 
 ### 3. Đoạn Tận
-- Xả ly tham ái
-- Buông bỏ chấp thủ
-- Giải thoát trọn vẹn
+- Xả ly [tham ái](/content/tham/)
+- Buông bỏ [chấp thủ](/content/thu/)
+- [Giải thoát](/content/niet-ban/) trọn vẹn ([Diệt Đế](/content/diet-de/))
 
 ## Lợi Ích của Hiểu Tập Đế
 
 ### 1. Đối Với Tu Tập
-- Biết rõ gốc khổ
-- Hiểu cách đoạn trừ
+- Biết rõ gốc [khổ](/content/kho-de/)
+- Hiểu cách đoạn trừ ([Đạo Đế](/content/bat-chanh-dao/))
 - Tu tập đúng hướng
 
 ### 2. Đối Với Đời Sống
-- Giảm thiểu tham ái
+- Giảm thiểu [tham ái](/content/tham/)
 - Sống bình an hơn
-- Ít phiền não hơn
+- Ít [phiền não](/content/phien-nao/) hơn
 
 ### 3. Đối Với Giải Thoát
-- Đoạn trừ gốc khổ
-- Thoát khỏi luân hồi
-- Chứng đắc Niết-bàn
+- Đoạn trừ gốc [khổ](/content/kho-de/)
+- Thoát khỏi [luân hồi](/content/luan-hoi/)
+- Chứng đắc [Niết-bàn](/content/niet-ban/) ([Diệt Đế](/content/diet-de/))
 
 ## Chướng Ngại Cần Vượt Qua
 
 ### 1. Nội Tại
-- Thói quen tham ái
-- Khó buông xả
-- Vô minh sâu dày
+- Thói quen [tham ái](/content/tham/)
+- Khó buông xả ([chấp thủ](/content/thu/))
+- [Vô minh](/content/vo-minh/) sâu dày
 
 ### 2. Ngoại Tại
-- Môi trường cám dỗ
-- Duyên nghiệp quá khứ
+- Môi trường cám dỗ ([ngũ dục](/content/ngu-duc/))
+- Duyên [nghiệp](/content/nghiep/) quá khứ
 - Hoàn cảnh khó khăn
 
 ### 3. Cách Vượt Qua
-- Tinh tấn tu tập
-- Thân cận thiện tri thức
-- Sống trong chánh pháp
+- [Tinh tấn](/content/bat-chanh-dao/chanh-tinh-tan/) tu tập ([Đạo Đế](/content/bat-chanh-dao/))
+- Thân cận [thiện tri thức](/content/thien-tri-thuc/)
+- Sống trong [chánh pháp](/content/chanh-phap/)
 
 ## Tập Đế Trong Đời Sống Hiện Đại
 
@@ -177,5 +177,5 @@ Tập Đế là:
 
 Để đoạn trừ cần:
 - Nhận diện rõ ràng
-- Tu tập miên mật
-- Buông xả triệt để
+- Tu tập miên mật ([Đạo Đế](/content/bat-chanh-dao/))
+- Buông xả triệt để ([chấp thủ](/content/thu/))

@@ -57,7 +57,7 @@ The content is organized hierarchically:
     - [ ] Thập Nhị Nhân Duyên (Dependent Origination) - Mahanidana Sutta
 
 - [ ] **Enhance Pali/Sanskrit Terminology**
-  - [ ] Add pronunciation guides with audio clips
+  - [ ] Add pronunciation guides
   - [ ] Provide etymological information and word breakdowns
   - [ ] Create tooltips for Pali terms that appear on hover
   - [ ] Develop a comprehensive glossary with search functionality
@@ -865,7 +865,7 @@ The content is organized hierarchically:
   - Improve existing content with more sutta references
   - Enhance Pali/Sanskrit terminology with pronunciation guides
   - Add visual elements to key concepts (diagrams, infographics)
-  - Standardize content structure across all pages
+  - [x] Standardize content structure across all pages (Completed: 5/4/2025, 12:31 PM)
 - **Month 3: Practice Guide Development**
   - Develop detailed practice guides for core meditation techniques
   - Create step-by-step instructions with images
@@ -874,21 +874,24 @@ The content is organized hierarchically:
 
 ### Phase 2: Technical Foundations (2-4 months)
 - **Month 1-2: Search and Navigation**
-  - Implement advanced search functionality with filters
-  - Enhance mindmap visualization with interactive features
   - Create concept relationship graphs
   - Implement "related concepts" suggestions
 - **Month 2-3: Accessibility and Performance**
   - Conduct comprehensive accessibility audit
   - Implement accessibility improvements (ARIA, keyboard navigation)
-  - Optimize images and assets for faster loading
-  - Implement lazy loading and code splitting
 - **Month 3-4: Mobile Experience**
   - Enhance mobile-specific navigation
   - Optimize reading experience on small screens
   - Implement responsive design improvements
   - Test across various devices and browsers
+- **Month 9-12: Content Expansion**
+  - Create "Buddhism in Daily Life" section
+  - Develop "Buddhism and Science" section
+  - Add multimedia content (video, audio)
+  - Implement interactive tutorials
 
+<!-- 
+Don't work on this for now
 ### Phase 3: Interactive Features (3-6 months)
 - **Month 1-2: Learning Tools**
   - Create interactive quizzes for key concepts
@@ -921,12 +924,7 @@ The content is organized hierarchically:
   - Enhance Vietnamese content
   - Add English translations
   - Implement bilingual viewing option
-  - Create language selection interface
-- **Month 9-12: Content Expansion**
-  - Create "Buddhism in Daily Life" section
-  - Develop "Buddhism and Science" section
-  - Add multimedia content (video, audio)
-  - Implement interactive tutorials
+  - Create language selection interface -->
 
 ## Success Metrics
 
