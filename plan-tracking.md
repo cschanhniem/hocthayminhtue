@@ -97,13 +97,13 @@ All components appear to be present:
 - [x] [Buddhist Ceremonies](/content/buddhist-ceremonies.md) - Linked from practice-methods.njk
 
 #### Additional Concepts Section
-- [ ] [Phật Giáo và Công Bằng Xã Hội (Buddhism and Social Justice)](/content/phat-giao-cong-bang-xa-hoi.md) - Linked from mindmap.njk
-- [ ] [Kinh Tế Phật Giáo (Buddhist Economics)](/content/kinh-te-phat-giao.md) - Linked from mindmap.njk
-- [ ] [Đối Thoại Liên Tôn (Interfaith Dialogue)](/content/doi-thoai-lien-ton.md) - Linked from mindmap.njk
-- [ ] [Biểu Tượng Phật Giáo (Buddhist Symbols)](/content/bieu-tuong-phat-giao.md) - Linked from mindmap.njk
+- [x] [Phật Giáo và Công Bằng Xã Hội (Buddhism and Social Justice)](/content/buddhism-social-justice.md) - Linked from mindmap.njk
+- [x] [Kinh Tế Phật Giáo (Buddhist Economics)](/content/kinh-te-phat-giao.md) - Linked from mindmap.njk
+- [x] [Đối Thoại Liên Tôn (Interfaith Dialogue)](/content/doi-thoai-lien-ton.md) - Linked from mindmap.njk
+- [x] [Biểu Tượng Phật Giáo (Buddhist Symbols)](/content/bieu-tuong-phat-giao.md) - Linked from mindmap.njk
 
 #### Other Missing Pages
-- [ ] [Thích Minh Tuệ (About the Teacher)](/content/thich-minh-tue.md) - Linked from about.md
+- [x] [Thích Minh Tuệ (About the Teacher)](/content/thich-minh-tue/index.md) - Linked from about.md
 
 ## Content Creation Plan
 
@@ -180,10 +180,10 @@ description: [Brief description of the concept]
 - [x] **Priority 1 Progress**: 5/5 completed
 - [x] **Priority 2 Progress**: 4/4 completed
 - [x] **Priority 3 Progress**: 5/5 completed
-- [ ] **Priority 4 Progress**: 0/4 completed
-- [ ] **Priority 5 Progress**: 0/1 completed
+- [x] **Priority 4 Progress**: 4/4 completed
+- [x] **Priority 5 Progress**: 1/1 completed
 
-Total progress: 15/18 completed (83%)
+Total progress: 20/20 completed (100%)
 - [ ] **Feature Enhancements:**
   - [ ] **Search Functionality:** Implement a site-wide search for concepts.
   - [ ] **Related Concepts:** Verify and potentially improve the "Related Concepts" display mentioned in the README (e.g., based on tags, explicit links in data, or content analysis).
