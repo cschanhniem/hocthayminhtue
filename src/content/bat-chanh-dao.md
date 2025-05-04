@@ -4,13 +4,21 @@ title: Bát Chánh Đạo (Ariyo Aṭṭhaṅgiko Maggo)
 description: Con đường Thánh Đạo tám ngành - con đường trung đạo dẫn đến giải thoát, là phần thứ tư trong Tứ Diệu Đế (Đạo Đế).
 ---
 
-Bát Chánh Đạo (tiếng Pali: Ariya Aṭṭhaṅgika Magga) hay Con Đường Tám Ngành là con đường tu tập do Đức Phật chỉ ra để đưa đến chấm dứt khổ đau. Đây là phần thứ tư trong [Tứ Diệu Đế](/content/tu-dieu-de/) (Đạo Đế), là phương pháp thực tiễn để đạt đến giải thoát.
+Bát Chánh Đạo (Ariya Aṭṭhaṅgika Magga) hay Con Đường Tám Ngành là con đường tu tập do Đức Phật chỉ ra để đưa đến chấm dứt khổ đau. Đây là phần thứ tư trong [Tứ Diệu Đế](/content/tu-dieu-de/) (Đạo Đế), là phương pháp thực tiễn để đạt đến giải thoát.
 
-## Định Nghĩa từ Kinh Điển
+## Nguồn Gốc từ Kinh Điển
 
-Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật dạy:
+### Kinh Phân Tích Đạo (Magga-vibhanga Sutta)
 
-> "Này các Tỳ kheo, đây là Đạo Thánh đế đưa đến khổ diệt: Đó là Thánh Đạo Tám Ngành, tức là: Chánh kiến, Chánh tư duy, Chánh ngữ, Chánh nghiệp, Chánh mạng, Chánh tinh tấn, Chánh niệm, Chánh định."
+> "Này các Tỷ-kheo, thế nào là Thánh đạo Tám ngành? Chính là Chánh tri kiến, Chánh tư duy, Chánh ngữ, Chánh nghiệp, Chánh mạng, Chánh tinh tấn, Chánh niệm, Chánh định."  
+> — Magga-vibhanga Sutta (SN 45.8)  
+> Nguồn: https://suttacentral.net/sn45.8/vi/minh_chau
+
+**Nguyên bản Pali:**
+> "Katamo ca, bhikkhave, ariyo aṭṭhaṅgiko maggo? Seyyathidaṃ—sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi."
+
+**Bối cảnh:**
+Trong kinh này, Đức Phật giảng giải chi tiết về từng chi phần của Bát Chánh Đạo, làm rõ ý nghĩa và phương pháp thực hành của mỗi yếu tố. Đây là một trong những bài kinh quan trọng nhất về con đường tu tập của đạo Phật.
 
 ## Tám Chi Phần của Đạo
 
@@ -134,3 +142,39 @@ Tu tập Bát Chánh Đạo cần:
 - Hiểu rõ ý nghĩa
 - Thực hành đúng đắn
 - Kiên trì liên tục
+
+## Thuật Ngữ Chính
+
+### Ariya Aṭṭhaṅgika Magga (Bát Chánh Đạo)
+- Cách phát âm: /ˈa.ri.ja aʈ.ˈʈhaŋ.gi.ka ˈmag.ga/
+- Ngữ nguyên:
+  - Ariya: thánh, cao quý
+  - Aṭṭha: tám
+  - Aṅga: chi phần
+  - Magga: con đường
+- Nghĩa đen: "Con đường thánh tám chi phần"
+- Nghĩa trong ngữ cảnh: Con đường tu tập tám ngành dẫn đến giải thoát
+
+### Sammā (Chánh)
+- Cách phát âm: /sam.maː/
+- Ngữ nguyên: sam (tốt, đúng đắn) + mā (cách thức)
+- Nghĩa đen: "theo cách đúng đắn"
+- Nghĩa trong ngữ cảnh: chân chánh, đúng đắn, hoàn hảo
+
+### Paññā (Tuệ)
+- Cách phát âm: /pan.ɲaː/
+- Ngữ nguyên: pa (hoàn toàn) + ñā (hiểu biết)
+- Nghĩa đen: "hiểu biết hoàn toàn"
+- Nghĩa trong ngữ cảnh: trí tuệ, sự thấu hiểu sâu sắc
+
+### Sīla (Giới)
+- Cách phát âm: /siː.la/
+- Ngữ nguyên: từ gốc sil (đạo đức)
+- Nghĩa đen: "thói quen tốt"
+- Nghĩa trong ngữ cảnh: đạo đức, kỷ luật tự giác
+
+### Samādhi (Định)
+- Cách phát âm: /sa.maː.dʰi/
+- Ngữ nguyên: sam (hoàn toàn) + ā (hướng đến) + dhā (đặt)
+- Nghĩa đen: "đặt hoàn toàn [tâm vào một điểm]"
+- Nghĩa trong ngữ cảnh: tập trung tâm ý, thiền định

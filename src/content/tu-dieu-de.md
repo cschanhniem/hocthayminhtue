@@ -155,3 +155,38 @@ Tứ Diệu Đế là:
 - Hiểu rõ bản chất
 - Tu tập đúng pháp
 - Tinh tấn không ngừng
+
+## Thuật Ngữ Chính
+
+### Cattāri Ariyasaccāni (Tứ Diệu Đế)
+- Cách phát âm: /t͡ʃat.taː.ɾi a.ɾi.ja.sat͡ʃ.t͡ʃaː.ni/
+- Ngữ nguyên: 
+  - Cattāri: bốn
+  - Ariya: thánh, cao quý
+  - Sacca: sự thật, chân lý
+- Nghĩa đen: "Bốn sự thật cao quý"
+- Nghĩa trong ngữ cảnh: Bốn chân lý nền tảng của đạo Phật về khổ và con đường thoát khổ
+
+### Dukkha (Khổ)
+- Cách phát âm: /dʊk.kʰə/
+- Ngữ nguyên: du (xấu, khó) + kha (trạng thái, cảm thọ)
+- Nghĩa đen: "khó chịu đựng"
+- Nghĩa trong ngữ cảnh: khổ đau, bất toại nguyện, căng thẳng
+
+### Samudaya (Tập)
+- Cách phát âm: /sə.mʊ.dʌ.jə/
+- Ngữ nguyên: sam (cùng) + udaya (sinh khởi)
+- Nghĩa đen: "cùng sinh khởi"
+- Nghĩa trong ngữ cảnh: nguồn gốc, nguyên nhân của khổ
+
+### Nirodha (Diệt)
+- Cách phát âm: /ni.ɾo.dʰə/
+- Ngữ nguyên: ni (không) + rodha (chướng ngại)
+- Nghĩa đen: "không còn chướng ngại"
+- Nghĩa trong ngữ cảnh: sự chấm dứt khổ đau
+
+### Magga (Đạo)
+- Cách phát âm: /mʌg.gə/
+- Ngữ nguyên: từ gốc marg (con đường)
+- Nghĩa đen: "con đường"
+- Nghĩa trong ngữ cảnh: con đường tu tập đưa đến giải thoát

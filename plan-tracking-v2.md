@@ -54,8 +54,8 @@ The content is organized hierarchically:
   - [x] Create a standardized format for sutta references
   - [ ] Priority concepts for sutta references:
     - [x] Tứ Diệu Đế (Four Noble Truths) - Dhammacakkappavattana Sutta
-    - [ ] Bát Chánh Đạo (Eightfold Path) - Magga-vibhanga Sutta
-    - [ ] Tứ Niệm Xứ (Four Foundations of Mindfulness) - Satipatthana Sutta
+    - [x] Bát Chánh Đạo (Eightfold Path) - Magga-vibhanga Sutta
+    - [x] Tứ Niệm Xứ (Four Foundations of Mindfulness) - Satipatthana Sutta
     - [ ] Thập Nhị Nhân Duyên (Dependent Origination) - Mahanidana Sutta
 
 - [x] **Enhance Pali/Sanskrit Terminology**

@@ -3,15 +3,23 @@ title: Tứ Niệm Xứ (Four Foundations of Mindfulness)
 description: Bốn nền tảng chánh niệm - Thân, Thọ, Tâm, Pháp - con đường duy nhất dẫn đến thanh tịnh, vượt khỏi sầu bi, chấm dứt khổ đau
 ---
 
-## Định Nghĩa từ Kinh Điển
+## Nguồn Gốc từ Kinh Điển
 
-Trong Kinh Niệm Xứ (Satipaṭṭhāna Sutta), đức Phật dạy:
+### Kinh Niệm Xứ (Satipaṭṭhāna Sutta)
 
-> "Này các Tỳ kheo, đây là con đường độc nhất đưa đến thanh tịnh cho chúng sinh, vượt khỏi sầu bi, chấm dứt khổ đau, thành tựu chánh lý, chứng ngộ [Niết-bàn](/content/niet-ban/). Đó là bốn niệm xứ."
+> "Này các Tỳ kheo, đây là con đường độc nhất đưa đến thanh tịnh cho chúng sinh, vượt khỏi sầu bi, diệt trừ khổ ưu, thành tựu chánh lý, chứng ngộ Niết-bàn. Đó là bốn niệm xứ."  
+> — Kinh Niệm Xứ (MN 10)  
+> Nguồn: https://suttacentral.net/mn10/vi/minh_chau
+
+**Nguyên bản Pali:**
+> "Ekāyano ayaṃ, bhikkhave, maggo sattānaṃ visuddhiyā, sokaparidevānaṃ samatikkamāya, dukkhadomanassānaṃ atthaṅgamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya, yadidaṃ cattāro satipaṭṭhānā."
+
+**Bối cảnh:**
+Kinh này được Đức Phật thuyết tại xứ Kuru, trong thị trấn Kammāsadhamma, nơi được biết đến với những hành giả tinh tấn tu tập. Đây là một trong những bài kinh quan trọng nhất về thiền tuệ, giảng dạy chi tiết về phương pháp phát triển chánh niệm và tuệ giác.
 
 ## Ý Nghĩa
 
-Tứ Niệm Xứ (Cattāri Satipaṭṭhānāni) là bốn nền tảng chánh niệm, là con đường duy nhất dẫn đến giác ngộ và giải thoát.
+Tứ Niệm Xứ (Cattāri Satipaṭṭhānāni) là bốn nền tảng chánh niệm, được Đức Phật xác định là con đường duy nhất (Ekāyano maggo) dẫn đến giác ngộ và giải thoát. Đây không chỉ là phương pháp thiền tập, mà còn là cách sống tỉnh thức, quan sát và hiểu rõ bản chất thực sự của thân tâm và các pháp.
 
 ## Bốn Niệm Xứ
 
@@ -89,3 +97,43 @@ Tứ Niệm Xứ là:
 - Tu tập miên mật
 - Duy trì sự tỉnh giác
 - Phát triển đồng đều
+
+## Thuật Ngữ Chính
+
+### Satipaṭṭhāna (Niệm Xứ)
+- Cách phát âm: /sə.ti.pəʈ.ʈʰaː.nə/
+- Ngữ nguyên: 
+  - Sati: niệm, chánh niệm
+  - Paṭṭhāna: nền tảng, thiết lập
+- Nghĩa đen: "thiết lập chánh niệm"
+- Nghĩa trong ngữ cảnh: bốn nền tảng để phát triển chánh niệm và tuệ giác
+
+### Anupassanā (Quán)
+- Cách phát âm: /a.nu.pas.sa.naː/
+- Ngữ nguyên: anu (theo) + passanā (thấy)
+- Nghĩa đen: "nhìn theo, quan sát liên tục"
+- Nghĩa trong ngữ cảnh: quán sát một cách thường xuyên và chú tâm
+
+### Kāya (Thân)
+- Cách phát âm: /kaː.ja/
+- Ngữ nguyên: từ gốc kāy (tích tụ, nhóm họp)
+- Nghĩa đen: "tập hợp vật chất"
+- Nghĩa trong ngữ cảnh: thân thể vật lý và các hoạt động của nó
+
+### Vedanā (Thọ)
+- Cách phát âm: /ve.da.naː/
+- Ngữ nguyên: từ gốc vid (cảm nhận)
+- Nghĩa đen: "cảm giác"
+- Nghĩa trong ngữ cảnh: các cảm thọ dễ chịu, khó chịu hoặc trung tính
+
+### Citta (Tâm)
+- Cách phát âm: /t͡ʃit.ta/
+- Ngữ nguyên: từ gốc cit (nhận thức)
+- Nghĩa đen: "cái biết"
+- Nghĩa trong ngữ cảnh: tâm thức và các trạng thái tâm
+
+### Dhamma (Pháp)
+- Cách phát âm: /dʰam.ma/
+- Ngữ nguyên: từ gốc dhṛ (nắm giữ, duy trì)
+- Nghĩa đen: "cái được nắm giữ"
+- Nghĩa trong ngữ cảnh: các hiện tượng tâm-vật lý và các quy luật chi phối chúng
