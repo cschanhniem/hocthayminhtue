@@ -49,8 +49,16 @@ description: Bốn chân lý cao quý - giáo lý căn bản của đạo Phật
 
 ### 3. Perspective
 - Use third person for explanations
-- Second person may be used for practice instructions
-- Avoid first person except in clearly marked personal examples
+- Second person (`you`) may be used for practice instructions and direct address to the reader.
+- Avoid first person (`I`, `we`) except in clearly marked personal examples or specific contexts like introductions/conclusions where appropriate.
+
+### 4. Formatting Standards
+- **Bold**: Use for emphasis on key terms or actions (`**bold text**`).
+- *Italics*: Use for Pali/Sanskrit terms within sentences, book titles, or subtle emphasis (`*italic text*`).
+- `Code`: Use for technical terms, file paths, or code snippets (`` `code` ``).
+- Links: Use descriptive link text (e.g., `[Four Noble Truths](/content/tu-dieu-de/)` not `[click here](/content/tu-dieu-de/)`).
+- Paragraphs: Keep paragraphs focused on a single idea, generally 3-5 sentences long.
+- Abbreviations: Avoid abbreviations where possible. Spell out terms fully on first use.
 
 ## Terminology
 
@@ -122,6 +130,13 @@ Example:
 - Reference diagrams in the text
 - Ensure diagrams have clear labels
 - Use consistent visual style across diagrams
+- Ensure diagrams are accessible (e.g., sufficient contrast, not relying solely on color).
+
+### 4. Visual Style Guidelines
+- **Color Palette**: Adhere to the website's established color palette (refer to `design-system.md` - *to be created*). Use colors meaningfully (e.g., consistent colors for specific concepts across diagrams).
+- **Iconography**: Use icons from the approved set (refer to `design-system.md` - *to be created*). Ensure icons are simple, clear, and culturally appropriate.
+- **Typography**: Follow the website's typographic scale and font choices (refer to `design-system.md` - *to be created*). Ensure sufficient line spacing and readable font sizes.
+- **Layout**: Maintain consistent spacing and alignment. Use whitespace effectively to improve readability.
 
 ## Practice Instructions
 
@@ -176,3 +191,17 @@ Example:
 - Includes both theory and practice
 - Provides historical context where relevant
 - Offers modern applications
+
+## Content Templates
+Refer to the templates provided in the `content-templates/` directory for specific content types:
+- `content-templates/concept-template.md`: Standard structure for explaining Buddhist concepts.
+- `content-templates/practice-guide-template.md`: Format for step-by-step practice instructions.
+- `content-templates/qa-template.md`: Structure for question-and-answer pages.
+- `content-templates/modern-application-template.md`: Template for discussing modern relevance.
+
+*Ensure all new content adheres strictly to these templates.*
+
+## Future Enhancements
+- **Glossary**: A comprehensive, searchable glossary of Pali/Sanskrit and Vietnamese Buddhist terms will be developed. This will include pronunciation guides and etymological information.
+- **Transliteration Standard**: A specific, consistent standard for Pali/Sanskrit transliteration (e.g., IAST or similar) will be formally adopted and applied across the site.
+- **Design System**: A `design-system.md` document will be created to formalize visual style guidelines, color palettes, typography, and iconography.

@@ -4,6 +4,8 @@ title: Tứ Diệu Đế (Cattāri Ariyasaccāni)
 description: Bốn chân lý cao quý - giáo lý căn bản của đạo Phật về khổ và con đường thoát khổ
 ---
 
+Tứ Diệu Đế (Cattāri Ariyasaccāni) là bốn Thánh đế, được Đức Phật thuyết giảng lần đầu tiên trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta) tại vườn Lộc Uyển (Isipatana) cho năm anh em Kiều-trần-như (Koṇḍañña).
+
 ## Định Nghĩa từ Kinh Điển
 
 Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), bài pháp đầu tiên của đức Phật:
@@ -25,6 +27,8 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), bài pháp đầu
 - Hoại khổ
 - Hành khổ
 
+**Nhiệm vụ (Kicca)**: Khổ Thánh đế cần được *liễu tri* (pariññeyya) - hiểu biết một cách hoàn toàn.
+
 ### 2. [Tập Đế](/content/tap-de/) (Samudaya Ariyasacca)
 > "Này các Tỳ kheo, thế nào là Khổ Tập Thánh đế? Chính là ái này đưa đến tái sinh..."
 
@@ -37,6 +41,8 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), bài pháp đầu
 - Tham ái
 - Chấp thủ
 - Vô minh
+
+**Nhiệm vụ (Kicca)**: Khổ Tập Thánh đế cần được *đoạn tận* (pahātabba) - từ bỏ hoàn toàn.
 
 ### 3. [Diệt Đế](/content/diet-de/) (Nirodha Ariyasacca)
 > "Này các Tỳ kheo, thế nào là Khổ Diệt Thánh đế? Đó là sự diệt tận, không còn tham ái..."
@@ -51,6 +57,8 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), bài pháp đầu
 - Vô vi
 - Bất tử
 
+**Nhiệm vụ (Kicca)**: Khổ Diệt Thánh đế cần được *tác chứng* (sacchikātabba) - chứng ngộ trực tiếp.
+
 ### 4. [Đạo Đế](/content/bat-chanh-dao/) (Magga Ariyasacca)
 > "Này các Tỳ kheo, thế nào là Đạo Thánh đế? Đó là Thánh Đạo Tám Ngành..."
 
@@ -63,6 +71,8 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), bài pháp đầu
 - Giới học
 - Định học
 - Tuệ học
+
+**Nhiệm vụ (Kicca)**: Đạo Thánh đế cần được *tu tập* (bhāvetabba) - phát triển viên mãn.
 
 ## Đặc Tính của Tứ Đế
 
@@ -81,6 +91,16 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), bài pháp đầu
 - Tập cần được đoạn
 - Diệt cần được chứng
 - Đạo cần được tu
+
+## Ba Lần Chuyển Pháp Luân (Triparivarta)
+
+Theo Kinh Chuyển Pháp Luân, mỗi Thánh đế được Đức Phật quán chiếu qua ba phương diện (tổng cộng 12 hành tướng):
+
+1.  **Thị chuyển** (Sacca-ñāṇa): Nhận biết "Đây là Thánh đế về Khổ", "Đây là Thánh đế về Tập Khổ", "Đây là Thánh đế về Diệt Khổ", "Đây là Thánh đế về Đạo Diệt Khổ".
+2.  **Khuyến chuyển** (Kicca-ñāṇa): Nhận biết nhiệm vụ cần làm đối với mỗi đế: "Khổ cần được liễu tri", "Tập cần được đoạn tận", "Diệt cần được tác chứng", "Đạo cần được tu tập".
+3.  **Chứng chuyển** (Kata-ñāṇa): Xác nhận đã hoàn thành nhiệm vụ: "Khổ đã được liễu tri", "Tập đã được đoạn tận", "Diệt đã được tác chứng", "Đạo đã được tu tập".
+
+> "Này các Tỳ-kheo, khi nào Như Lai thấy như thật với Chánh trí tuệ về Ba lần chuyển và Mười hai hành tướng này của Bốn Thánh đế, khi ấy Như Lai mới tuyên bố đã chứng được Vô thượng Chánh Đẳng Giác trong thế giới này." *(Dhammacakkappavattana Sutta, SN 56.11)*
 
 ## Tiến Trình Thực Hành
 
