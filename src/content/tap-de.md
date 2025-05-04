@@ -166,14 +166,14 @@ Ngày nay, chúng ta có thể thấy biểu hiện của ái dục (Tanhā) qua
 - Tham muốn được tồn tại, phát triển, và thành công không ngừng
 - Sự nghiện ngập (mạng xã hội, mua sắm, chất kích thích)
 
-Nhận diện những biểu hiện này giúp ta thấy rõ Ái đang vận hành trong cuộc sống hàng ngày và là nguồn gốc của nhiều bất an, khổ đau.
+Nhận diện những biểu hiện này giúp ta thấy rõ Ái đang vận hành trong cuộc sống hàng ngày và là nguồn gốc của nhiều bất an, [khổ đau](/content/kho-de/).
 
 ## Kết Luận
 
 Tập Đế là:
-- Nguyên nhân của khổ
-- Điểm then chốt giải thoát
-- Cần được đoạn trừ
+- Nguyên nhân của [khổ](/content/kho-de/)
+- Điểm then chốt [giải thoát](/content/niet-ban/)
+- Cần được đoạn trừ ([Diệt Đế](/content/diet-de/))
 
 Để đoạn trừ cần:
 - Nhận diện rõ ràng

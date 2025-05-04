@@ -8,7 +8,7 @@ description: Chân lý thứ ba trong Tứ Diệu Đế - sự thật về sự 
 
 Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật dạy về Diệt Đế:
 
-> "Này các Tỳ kheo, đây là Khổ Diệt Thánh đế: Sự diệt tận hoàn toàn, không còn dư tàn khát ái ấy, sự xả ly, sự từ bỏ, sự giải thoát, sự không chấp thủ."
+> "Này các Tỳ kheo, đây là Khổ Diệt Thánh đế: Sự diệt tận hoàn toàn, không còn dư tàn [khát ái](/content/tap-de/) ấy, sự xả ly, sự từ bỏ, sự [giải thoát](/content/niet-ban/), sự không [chấp thủ](/content/thu/)."
 
 ## Đặc Tính của Niết Bàn
 
@@ -76,9 +76,9 @@ Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta), đức Phật d�
 - Si mê
 
 ### 2. Tu Tập Ba Học
-- Giới học
-- Định học
-- Tuệ học
+- [Giới học](/content/tam-hoc/gioi-hoc/)
+- [Định học](/content/tam-hoc/dinh-hoc/)
+- [Tuệ học](/content/tam-hoc/tue-hoc/)
 
 ### 3. Thành Tựu Đạo Quả
 - Tu-đà-hoàn
