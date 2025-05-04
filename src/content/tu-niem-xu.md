@@ -1,3 +1,4 @@
+---
 layout: layouts/content.njk
 title: Tứ Niệm Xứ (Four Foundations of Mindfulness)
 description: Bốn nền tảng chánh niệm - Thân, Thọ, Tâm, Pháp - con đường duy nhất dẫn đến thanh tịnh, vượt khỏi sầu bi, chấm dứt khổ đau
@@ -7,8 +8,8 @@ description: Bốn nền tảng chánh niệm - Thân, Thọ, Tâm, Pháp - con 
 
 ### Kinh Niệm Xứ (Satipaṭṭhāna Sutta)
 
-> "Này các Tỳ kheo, đây là con đường độc nhất đưa đến thanh tịnh cho chúng sinh, vượt khỏi sầu bi, diệt trừ khổ ưu, thành tựu chánh lý, chứng ngộ Niết-bàn. Đó là bốn niệm xứ."  
-> — Kinh Niệm Xứ (MN 10)  
+> "Này các Tỳ kheo, đây là con đường độc nhất đưa đến thanh tịnh cho chúng sinh, vượt khỏi sầu bi, diệt trừ khổ ưu, thành tựu chánh lý, chứng ngộ Niết-bàn. Đó là bốn niệm xứ."
+> — Kinh Niệm Xứ (MN 10)
 > Nguồn: https://suttacentral.net/mn10/vi/minh_chau
 
 **Nguyên bản Pali:**
@@ -102,7 +103,7 @@ Tứ Niệm Xứ là:
 
 ### Satipaṭṭhāna (Niệm Xứ)
 - Cách phát âm: /sə.ti.pəʈ.ʈʰaː.nə/
-- Ngữ nguyên: 
+- Ngữ nguyên:
   - Sati: niệm, chánh niệm
   - Paṭṭhāna: nền tảng, thiết lập
 - Nghĩa đen: "thiết lập chánh niệm"

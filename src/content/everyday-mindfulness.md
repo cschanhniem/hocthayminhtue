@@ -203,76 +203,114 @@ Và trong Kinh Nhất Dạ Hiền Giả (Bhaddekaratta Sutta, MN 131), đức Ph
 ## Chánh Niệm Trong Công Việc
 
 ### 1. Bắt Đầu Ngày Làm Việc
-> "Bắt đầu ngày làm việc với chánh niệm..."
+> "Bắt đầu ngày làm việc với chánh niệm tạo nền tảng vững chắc cho hiệu quả và an lạc..."
 
 #### Chuẩn Bị Tinh Thần
-- Dành vài phút thiền trước khi bắt đầu
-- Đặt ý định cho ngày làm việc
-- Sắp xếp công việc theo thứ tự ưu tiên
+- Dành 5-10 phút thiền trước khi bắt đầu ngày làm việc
+- Đặt ý định rõ ràng cho ngày làm việc: "Hôm nay tôi sẽ làm việc với sự tỉnh táo và bình an"
+- Sắp xếp công việc theo thứ tự ưu tiên, sử dụng phương pháp ma trận Eisenhower (phân loại việc theo mức độ quan trọng và khẩn cấp)
+- Thực hành "ba hơi thở chánh niệm" trước khi bắt đầu mỗi nhiệm vụ mới
 
-#### Sắp Xếp Không Gian
-- Dọn dẹp nơi làm việc
-- Chuẩn bị công cụ cần thiết
-- Tạo môi trường thuận lợi
+#### Sắp Xếp Không Gian Làm Việc
+- Dọn dẹp nơi làm việc, loại bỏ những vật không cần thiết
+- Chuẩn bị công cụ cần thiết trước khi bắt đầu để tránh gián đoạn
+- Tạo môi trường thuận lợi: ánh sáng phù hợp, nhiệt độ thoải mái, giảm thiểu tiếng ồn
+- Bố trí không gian làm việc theo nguyên tắc ergonomics (công thái học) để bảo vệ sức khỏe
+- Đặt một vật nhỏ (như viên đá, cây nhỏ) trên bàn làm việc để nhắc nhở về chánh niệm
 
-#### Chuyển Tiếp
-- Chuyển từ nhà đến nơi làm việc trong chánh niệm
-- Buông bỏ lo lắng cá nhân
-- Tập trung vào công việc
+#### Chuyển Tiếp Từ Nhà Đến Nơi Làm Việc
+- Sử dụng thời gian di chuyển như một cơ hội thực hành chánh niệm
+- Thực hành "nghi thức chuyển tiếp": dừng lại 30 giây trước khi bước vào nơi làm việc
+- Buông bỏ lo lắng cá nhân bằng cách ghi chép lại để xử lý sau
+- Tập trung vào công việc với thái độ tích cực: "Tôi đang có cơ hội đóng góp và phát triển"
+- Đối với làm việc từ xa: tạo nghi thức chuyển tiếp rõ ràng giữa thời gian cá nhân và thời gian làm việc
 
 ### 2. Làm Việc Trong Chánh Niệm
-> "Làm việc trong chánh niệm tăng hiệu quả và giảm stress..."
+> "Làm việc trong chánh niệm không chỉ tăng hiệu quả và giảm stress mà còn biến công việc thành con đường tu tập..."
 
-#### Tập Trung Vào Một Việc
-- Tránh đa nhiệm (multitasking)
-- Hoàn thành một việc rồi mới chuyển sang việc khác
-- Duy trì sự tập trung
+#### Tập Trung Vào Một Việc (Single-tasking)
+- Tránh đa nhiệm (multitasking) - nghiên cứu cho thấy đa nhiệm làm giảm hiệu suất đến 40%
+- Áp dụng phương pháp "đóng cửa sổ kỹ thuật số": đóng tất cả ứng dụng, email không liên quan đến nhiệm vụ hiện tại
+- Hoàn thành một việc rồi mới chuyển sang việc khác, tạo cảm giác hoàn thành và rõ ràng
+- Duy trì sự tập trung bằng kỹ thuật "neo đậu": quay lại nhiệm vụ mỗi khi tâm trí lang thang
+- Thực hành "làm việc sâu" (deep work): dành thời gian không bị gián đoạn cho công việc đòi hỏi tập trung cao
 
-#### Làm Việc Có Nhịp Điệu
-- Làm việc theo chu kỳ (ví dụ: 25 phút làm việc, 5 phút nghỉ)
-- Duy trì năng lượng đều đặn
-- Tránh kiệt sức
+#### Làm Việc Có Nhịp Điệu - Kỹ Thuật Pomodoro Chánh Niệm
+- Làm việc theo chu kỳ Pomodoro cải tiến: 25 phút làm việc tập trung, 5 phút nghỉ chánh niệm
+- Bắt đầu mỗi chu kỳ với ý định rõ ràng và kết thúc với sự ghi nhận
+- Sử dụng thời gian nghỉ để thực hành mini-meditation, vận động nhẹ hoặc thư giãn có ý thức
+- Duy trì năng lượng đều đặn bằng cách uống nước, ăn nhẹ lành mạnh trong chánh niệm
+- Nhận biết dấu hiệu mệt mỏi của cơ thể và điều chỉnh nhịp độ làm việc phù hợp
 
-#### Đối Phó Với Gián Đoạn
-- Nhận biết khi bị gián đoạn
-- Xử lý một cách có ý thức
-- Quay lại công việc một cách nhẹ nhàng
+#### Đối Phó Với Gián Đoạn - Kỹ Thuật STOP
+- Khi bị gián đoạn, áp dụng kỹ thuật STOP:
+  - **S**top (Dừng lại): Tạm dừng hoạt động hiện tại
+  - **T**ake a breath (Hít thở): Thực hiện 1-3 hơi thở chánh niệm
+  - **O**bserve (Quan sát): Nhận biết tình huống, cảm xúc và suy nghĩ
+  - **P**roceed (Tiếp tục): Quyết định cách phản ứng phù hợp
+- Phân loại gián đoạn: khẩn cấp/không khẩn cấp và xử lý tương ứng
+- Tạo "giờ tập trung" không bị gián đoạn và thông báo cho đồng nghiệp
+- Quay lại công việc một cách có ý thức, dành 30 giây để định hướng lại
+- Sử dụng gián đoạn như cơ hội thực hành chánh niệm và kiểm tra trạng thái tâm
 
 ### 3. Giao Tiếp Trong Công Việc
-> "Giao tiếp trong công việc đòi hỏi chánh niệm đặc biệt..."
+> "Giao tiếp chánh niệm trong công việc tạo nên môi trường làm việc hài hòa, hiệu quả và tôn trọng..."
 
-#### Họp Hành
-- Chuẩn bị trước khi họp
-- Lắng nghe tích cực
-- Đóng góp có ý thức
+#### Họp Hành Chánh Niệm
+- Chuẩn bị trước khi họp: xem lại chương trình, chuẩn bị ý kiến, đặt ý định tích cực
+- Thực hành "check-in" đầu cuộc họp: mỗi người chia sẻ ngắn gọn trạng thái hiện tại
+- Lắng nghe tích cực: tập trung 100% vào người đang nói, không chuẩn bị câu trả lời
+- Đóng góp có ý thức: suy nghĩ trước khi nói, đảm bảo đóng góp có giá trị
+- Thực hành "khoảng lặng chánh niệm": dành 30 giây im lặng giữa cuộc họp để tái tập trung
+- Kết thúc với "check-out": tóm tắt điểm chính và cam kết hành động tiếp theo
 
-#### Email và Tin Nhắn
-- Viết email trong chánh niệm
-- Đọc kỹ trước khi gửi
-- Kiểm soát thời gian kiểm tra email
+#### Email và Tin Nhắn Chánh Niệm
+- Thực hành "thời gian email có ý thức": chỉ kiểm tra email vào những thời điểm cố định
+- Viết email trong chánh niệm: rõ ràng, ngắn gọn, tôn trọng và có mục đích
+- Áp dụng quy tắc "chạm một lần": xử lý email ngay khi đọc nếu có thể
+- Thực hành "dừng lại trước khi gửi": kiểm tra lại nội dung, ngữ điệu và người nhận
+- Sử dụng kỹ thuật THINK trước khi gửi tin nhắn:
+  - **T**rue (Đúng sự thật): Thông tin có chính xác không?
+  - **H**elpful (Hữu ích): Tin nhắn này có giúp ích không?
+  - **I**nspiring (Truyền cảm hứng): Nó có tích cực không?
+  - **N**ecessary (Cần thiết): Có thực sự cần gửi không?
+  - **K**ind (Tử tế): Cách diễn đạt có tử tế không?
 
-#### Làm Việc Nhóm
-- Tôn trọng ý kiến của người khác
-- Đóng góp một cách xây dựng
-- Hướng đến mục tiêu chung
+#### Làm Việc Nhóm Chánh Niệm
+- Thực hành lắng nghe sâu: tập trung vào hiểu ý kiến của người khác trước khi phản hồi
+- Sử dụng "kỹ thuật sandwich phản hồi": bắt đầu với điểm tích cực, đưa ra gợi ý cải thiện, kết thúc với khích lệ
+- Nhận biết và quản lý cảm xúc trong xung đột: sử dụng kỹ thuật RAIN (Recognize, Allow, Investigate, Non-identify)
+- Tôn trọng sự đa dạng trong phong cách làm việc và quan điểm
+- Thực hành "trách nhiệm 100%": nhận trách nhiệm về phần mình trong mọi tình huống
+- Hướng đến mục tiêu chung với tinh thần hợp tác thay vì cạnh tranh
 
 ### 4. Kết Thúc Ngày Làm Việc
-> "Kết thúc ngày làm việc trong chánh niệm..."
+> "Kết thúc ngày làm việc trong chánh niệm giúp buông bỏ căng thẳng và tạo ranh giới lành mạnh giữa công việc và đời sống cá nhân..."
 
-#### Hoàn Thành Công Việc
-- Dọn dẹp nơi làm việc
-- Lập danh sách cho ngày mai
-- Hoàn thành các việc còn dang dở
+#### Hoàn Thành Công Việc Có Ý Thức
+- Dọn dẹp nơi làm việc, tạo không gian sạch sẽ cho ngày mai
+- Lập danh sách "đã hoàn thành" để ghi nhận thành tựu và danh sách việc cần làm cho ngày mai
+- Hoàn thành các việc còn dang dở hoặc ghi chú rõ ràng điểm dừng để dễ tiếp tục
+- Thực hành "đóng cửa kỹ thuật số": đóng tất cả ứng dụng, email liên quan đến công việc
+- Tạo nghi thức kết thúc: 5 phút cuối để sắp xếp, ghi chú và chuẩn bị cho ngày mai
 
-#### Quán Chiếu
-- Nhìn lại những gì đã hoàn thành
-- Ghi nhận những bài học
-- Trân trọng nỗ lực của mình
+#### Quán Chiếu Ngày Làm Việc
+- Thực hành "ba câu hỏi quán chiếu":
+  1. "Hôm nay tôi đã hoàn thành những gì?"
+  2. "Tôi đã học được điều gì?"
+  3. "Tôi có thể cải thiện điều gì cho ngày mai?"
+- Ghi nhận ba điều tích cực đã xảy ra trong ngày làm việc
+- Nhận diện những thách thức và lên kế hoạch đối phó tốt hơn
+- Trân trọng nỗ lực của bản thân và đồng nghiệp
+- Thực hành lòng biết ơn đối với cơ hội làm việc và phát triển
 
-#### Chuyển Tiếp
-- Buông bỏ công việc
-- Chuyển sang thời gian cá nhân
-- Không mang công việc về nhà (về mặt tinh thần)
+#### Chuyển Tiếp Về Nhà
+- Thực hành "nghi thức chuyển tiếp" từ công việc sang đời sống cá nhân
+- Sử dụng thời gian di chuyển về nhà để "xả" năng lượng công việc
+- Buông bỏ công việc bằng cách hình dung "đóng cửa văn phòng tâm trí"
+- Đặt ý định cho thời gian cá nhân và gia đình
+- Thực hành kỹ thuật "ranh giới kỹ thuật số": giới hạn thời gian kiểm tra email, tin nhắn công việc sau giờ làm
+- Tạo không gian tinh thần cho sự phục hồi và kết nối với người thân
 
 ## Chánh Niệm Trong Thời Gian Giải Trí
 
@@ -295,22 +333,46 @@ Và trong Kinh Nhất Dạ Hiền Giả (Bhaddekaratta Sutta, MN 131), đức Ph
 - Duy trì cân bằng
 
 ### 2. Sử Dụng Công Nghệ Trong Chánh Niệm
-> "Công nghệ là công cụ, không phải chủ nhân..."
+> "Công nghệ là công cụ hữu ích, không phải chủ nhân - chánh niệm giúp ta sử dụng công nghệ mà không bị nó sử dụng..."
 
-#### Sử Dụng Điện Thoại
-- Đặt thời gian cụ thể
-- Tắt thông báo không cần thiết
-- Tránh kiểm tra liên tục
+#### Nguyên Tắc Sử Dụng Công Nghệ Chánh Niệm
+- **Chủ Động**: Sử dụng công nghệ với ý định rõ ràng, không phản ứng tự động
+- **Có Giới Hạn**: Đặt ranh giới rõ ràng về thời gian và không gian sử dụng
+- **Có Ý Thức**: Nhận biết tác động của công nghệ đến thân-tâm
+- **Có Chọn Lọc**: Lựa chọn nội dung và ứng dụng phù hợp với giá trị cá nhân
+- **Có Cân Bằng**: Duy trì sự cân bằng giữa thế giới số và thế giới thực
 
-#### Xem Tivi/Phim
-- Chọn nội dung có ích
-- Xem với sự tập trung
-- Giới hạn thời gian
+#### Sử Dụng Điện Thoại Chánh Niệm
+- **Thực hành "dừng lại trước khi mở"**: Trước khi mở điện thoại, dừng lại 3 giây và hỏi "Tại sao tôi cần dùng điện thoại lúc này?"
+- **Thiết lập "thời gian số có ý thức"**: Đặt thời gian cụ thể để kiểm tra tin nhắn, email (ví dụ: 3 lần/ngày, mỗi lần 15 phút)
+- **Tạo môi trường hỗ trợ**: Tắt thông báo không cần thiết, sử dụng ứng dụng theo dõi thời gian sử dụng
+- **Thực hành "khoảng cách kỹ thuật số"**: Đặt điện thoại xa tầm tay khi làm việc hoặc trò chuyện
+- **Áp dụng quy tắc "không điện thoại"**: Xác định không gian (phòng ngủ, bàn ăn) và thời gian (bữa ăn, 1 giờ trước khi ngủ) không sử dụng điện thoại
+- **Thực hành "kiểm tra cảm xúc"**: Nhận biết cảm xúc trước, trong và sau khi sử dụng điện thoại
 
-#### Mạng Xã Hội
-- Sử dụng có mục đích
-- Tránh cuộn vô thức (mindless scrolling)
-- Nhận biết tác động đến tâm trạng
+#### Xem Tivi/Phim Trong Chánh Niệm
+- **Xem có chủ đích**: Chọn nội dung trước khi bật TV, không lướt kênh vô thức
+- **Xem có giới hạn**: Quyết định trước thời gian xem (ví dụ: một tập phim, không phải cả mùa)
+- **Xem có tương tác**: Thảo luận nội dung với người khác thay vì tiêu thụ thụ động
+- **Xem có phản chiếu**: Dành thời gian suy ngẫm về nội dung đã xem
+- **Xem có nhận thức**: Chú ý đến phản ứng cơ thể và tâm trí khi xem
+- **Thực hành "ngắt quãng có ý thức"**: Tạm dừng giữa các tập phim để kiểm tra trạng thái thân-tâm
+
+#### Sử Dụng Mạng Xã Hội Chánh Niệm
+- **Thực hành "kiểm tra ý định"**: Trước khi mở ứng dụng, hỏi "Tại sao tôi muốn vào mạng xã hội lúc này?"
+- **Áp dụng "quy tắc đóng góp"**: Đăng nội dung có giá trị, không chỉ tiêu thụ thụ động
+- **Thực hành "cuộn có ý thức"**: Cuộn chậm, dừng lại để đọc/xem đầy đủ thay vì lướt nhanh
+- **Áp dụng "chế độ đơn nhiệm"**: Chỉ sử dụng mạng xã hội, không kết hợp với hoạt động khác
+- **Thực hành "nhận biết cảm xúc"**: Chú ý đến cảm xúc phát sinh khi xem nội dung (ghen tị, tức giận, vui vẻ)
+- **Áp dụng "kỹ thuật detox kỹ thuật số"**: Định kỳ ngưng sử dụng mạng xã hội (1 ngày/tuần, 1 tuần/tháng)
+- **Thực hành "kiểm soát danh sách theo dõi"**: Định kỳ rà soát và tinh gọn danh sách bạn bè, trang theo dõi
+
+#### Làm Việc Với Email Chánh Niệm
+- **Thực hành "thời gian email cố định"**: Chỉ kiểm tra email vào những thời điểm nhất định
+- **Áp dụng "quy tắc chạm một lần"**: Xử lý email ngay khi đọc thay vì đọc nhiều lần
+- **Thực hành "email chánh niệm"**: Viết email với sự tập trung, rõ ràng và tôn trọng
+- **Áp dụng "kỹ thuật hộp thư đến zero"**: Duy trì hộp thư đến trống hoặc gần trống
+- **Thực hành "thở trước khi gửi"**: Dừng lại, hít thở và kiểm tra lại trước khi gửi email quan trọng
 
 ### 3. Tiếp Xúc Với Thiên Nhiên
 > "Thiên nhiên là nguồn năng lượng và chánh niệm..."
@@ -388,23 +450,103 @@ Và trong Kinh Nhất Dạ Hiền Giả (Bhaddekaratta Sutta, MN 131), đức Ph
 
 ## Chánh Niệm Trong Thời Gian Khó Khăn
 
-### 1. Đối Phó Với Stress
-> "Chánh niệm là công cụ hiệu quả để đối phó với stress..."
+### 1. Đối Phó Với Stress và Lo Âu Trong Cuộc Sống Hiện Đại
+> "Chánh niệm không loại bỏ stress, nhưng giúp ta thay đổi mối quan hệ với nó - từ phản ứng tự động sang đáp ứng có ý thức..."
 
-#### Nhận Biết Dấu Hiệu
-- Nhận biết căng thẳng trong thân
-- Nhận biết tâm trạng thay đổi
-- Nhận biết suy nghĩ tiêu cực
+#### Hiểu Về Stress và Lo Âu Trong Thời Đại Số
+- **Stress Kỹ Thuật Số**: Quá tải thông tin, áp lực phản hồi nhanh, FOMO (fear of missing out)
+- **Stress Đa Nhiệm**: Chuyển đổi liên tục giữa các nhiệm vụ, phân tán sự chú ý
+- **Stress Kết Nối Liên Tục**: Ranh giới công việc-cá nhân mờ nhạt, kỳ vọng phản hồi 24/7
+- **Stress So Sánh Xã Hội**: Tiếp xúc với hình ảnh "cuộc sống hoàn hảo" trên mạng xã hội
+- **Stress Tương Lai**: Lo lắng về biến đổi khí hậu, bất ổn kinh tế, bất định chính trị
 
-#### Kỹ Thuật Đối Phó
-- Thực hành hơi thở chánh niệm
-- Thực hành thiền quét thân
-- Thực hành mini-meditation (1-3 phút)
+#### Nhận Biết Dấu Hiệu Stress và Lo Âu
+- **Dấu Hiệu Thể Chất**:
+  - Căng thẳng cơ bắp, đặc biệt ở vai, cổ, hàm
+  - Thay đổi nhịp thở (nông, nhanh)
+  - Nhịp tim tăng, đổ mồ hôi, run rẩy
+  - Rối loạn tiêu hóa, đau đầu, mệt mỏi
+  - Rối loạn giấc ngủ (khó ngủ, ngủ không sâu)
 
-#### Chăm Sóc Bản Thân
-- Nghỉ ngơi đầy đủ
-- Ăn uống lành mạnh
-- Tập thể dục đều đặn
+- **Dấu Hiệu Tâm Lý**:
+  - Tâm trạng thay đổi thất thường
+  - Cảm giác lo lắng, bồn chồn không rõ nguyên nhân
+  - Khó tập trung, trí nhớ giảm sút
+  - Suy nghĩ tiêu cực, lo lắng về tương lai
+  - Cảm giác quá tải, không kiểm soát được
+
+- **Dấu Hiệu Hành Vi**:
+  - Kiểm tra điện thoại/email liên tục
+  - Trì hoãn hoặc vội vàng hoàn thành công việc
+  - Tăng sử dụng chất kích thích (caffeine, rượu)
+  - Thay đổi thói quen ăn uống (ăn quá nhiều hoặc quá ít)
+  - Tránh né tương tác xã hội
+
+#### Kỹ Thuật Chánh Niệm Đối Phó Với Stress và Lo Âu
+
+**1. Kỹ Thuật S.T.O.P**
+- **S (Stop)**: Dừng lại, tạm ngưng hoạt động hiện tại
+- **T (Take a breath)**: Hít thở sâu và có ý thức
+- **O (Observe)**: Quan sát cảm giác trong thân, cảm xúc, suy nghĩ
+- **P (Proceed)**: Tiếp tục với sự tỉnh táo và chọn lựa có ý thức
+
+**2. Kỹ Thuật 5-4-3-2-1 (Định Vị Giác Quan)**
+- Nhận biết **5** điều bạn có thể **nhìn thấy**
+- Nhận biết **4** điều bạn có thể **cảm nhận** (xúc chạm)
+- Nhận biết **3** điều bạn có thể **nghe thấy**
+- Nhận biết **2** điều bạn có thể **ngửi thấy**
+- Nhận biết **1** điều bạn có thể **nếm thấy**
+
+**3. Kỹ Thuật Hơi Thở 4-7-8**
+- Hít vào qua mũi đếm đến **4**
+- Giữ hơi thở đếm đến **7**
+- Thở ra qua miệng đếm đến **8**
+- Lặp lại 4-5 lần
+
+**4. Kỹ Thuật Quét Thân Nhanh (3 phút)**
+- **Phút 1**: Nhận biết cảm giác toàn thân, đặc biệt các vùng căng thẳng
+- **Phút 2**: Tập trung vào hơi thở, cảm nhận hơi thở đi qua toàn thân
+- **Phút 3**: Mở rộng nhận thức ra toàn thân, cảm nhận thân như một tổng thể
+
+**5. Kỹ Thuật R.A.I.N cho Lo Âu**
+- **R (Recognize)**: Nhận diện cảm giác lo âu đang có mặt
+- **A (Allow)**: Cho phép cảm giác đó hiện diện, không chống cự
+- **I (Investigate)**: Khám phá cảm giác trong thân, suy nghĩ đi kèm
+- **N (Non-identification)**: Không đồng nhất bản thân với lo âu ("Lo âu đang có mặt" thay vì "Tôi đang lo âu")
+
+#### Xây Dựng Thói Quen Chống Stress Hàng Ngày
+
+**1. Thực Hành "Khoảng Không Chánh Niệm"**
+- Đặt 2-3 "khoảng không chánh niệm" (5-10 phút) trong lịch hàng ngày
+- Trong khoảng thời gian này, không làm gì cả, chỉ hiện diện và quan sát
+- Tạm gác công nghệ, công việc và trách nhiệm
+
+**2. Thực Hành "Ranh Giới Kỹ Thuật Số"**
+- Thiết lập thời gian không dùng thiết bị điện tử (ví dụ: sau 8 giờ tối)
+- Tạo không gian không có thiết bị (phòng ngủ, bàn ăn)
+- Thực hành "ngày detox kỹ thuật số" hàng tuần
+
+**3. Thực Hành "Chuyển Đổi Có Ý Thức"**
+- Tạo nghi thức chuyển tiếp giữa các hoạt động trong ngày
+- Ví dụ: 3 hơi thở sâu khi về nhà từ nơi làm việc
+- Tạo ranh giới rõ ràng giữa công việc và thời gian cá nhân
+
+**4. Thực Hành "Biết Ơn Hàng Ngày"**
+- Mỗi tối ghi lại 3 điều biết ơn trong ngày
+- Tập trung vào những trải nghiệm nhỏ, đơn giản
+- Nhận ra những điều tốt đẹp đang hiện diện, không chỉ những gì còn thiếu
+
+**5. Thực Hành "Kết Nối Có Ý Nghĩa"**
+- Ưu tiên các tương tác trực tiếp, sâu sắc
+- Lắng nghe và hiện diện trọn vẹn trong các cuộc trò chuyện
+- Tạo thời gian cho các mối quan hệ có ý nghĩa
+
+#### Chăm Sóc Bản Thân Toàn Diện
+- **Giấc Ngủ Chánh Niệm**: Tạo nghi thức đi ngủ, tránh màn hình trước khi ngủ, thực hành thư giãn toàn thân
+- **Dinh Dưỡng Chánh Niệm**: Ăn chậm, chú ý đến cảm giác đói/no, chọn thực phẩm nuôi dưỡng thân tâm
+- **Vận Động Chánh Niệm**: Tập thể dục đều đặn, chú ý đến cảm giác trong thân khi vận động
+- **Nghỉ Ngơi Chánh Niệm**: Cho phép bản thân nghỉ ngơi thực sự, không cảm thấy tội lỗi
+- **Thiên Nhiên Trị Liệu**: Dành thời gian trong thiên nhiên, "tắm rừng" (shinrin-yoku)
 
 ### 2. Đối Phó Với Đau Đớn
 > "Chánh niệm giúp đối phó với đau đớn thể chất..."

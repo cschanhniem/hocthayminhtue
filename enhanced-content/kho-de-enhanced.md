@@ -8,7 +8,7 @@ description: Chân lý cao quý về khổ - sự thật căn bản về bản c
 
 Trong Kinh Chuyển Pháp Luân (Dhammacakkappavattana Sutta, SN 56.11), bài pháp đầu tiên của đức Phật sau khi giác ngộ, Ngài đã giảng về Khổ Đế:
 
-> "Này các Tỳ kheo, đây là Khổ Thánh đế (Dukkha Ariyasacca): [Sinh](/content/sinh/) là khổ, [già](/content/lao/) là khổ, [bệnh](/content/benh/) là khổ, [chết](/content/tu-death/) là khổ, sầu, bi, khổ, ưu, não là khổ, oán gặp nhau là khổ, ái biệt ly là khổ, cầu không được là khổ. Tóm lại, [năm thủ uẩn](/content/ngu-uan/) là khổ."
+> "Này các Tỳ kheo, đây là Khổ Thánh đế (Dukkha Ariyasacca): Sinh là khổ, già là khổ, bệnh là khổ, chết là khổ, sầu, bi, khổ, ưu, não là khổ, oán gặp nhau là khổ, ái biệt ly là khổ, cầu không được là khổ. Tóm lại, năm thủ uẩn là khổ."
 
 *Nguồn: Tương Ưng Bộ Kinh (Saṃyutta Nikāya), Chương 56, Kinh 11*
 
@@ -67,7 +67,7 @@ Trong Kinh Đại Niệm Xứ (Mahāsatipaṭṭhāna Sutta, DN 22), đức Ph�
 #### Hoại Khổ (Vipariṇāma-dukkha)
 - **Định nghĩa**: Khổ do biến hoại, thay đổi
 - **Ví dụ**: Mất mát người thân, của cải; kết thúc của niềm vui, hạnh phúc
-- **Đặc điểm**: Xuất phát từ bản chất [vô thường](/content/ba-dac-tinh/) của mọi hiện tượng
+- **Đặc điểm**: Xuất phát từ bản chất vô thường của mọi hiện tượng
 
 Trong Kinh Đại Không (Mahāsuññata Sutta, MN 122), đức Phật dạy:
 
@@ -76,7 +76,7 @@ Trong Kinh Đại Không (Mahāsuññata Sutta, MN 122), đức Phật dạy:
 *Nguồn: Trung Bộ Kinh (Majjhima Nikāya), Kinh số 122*
 
 #### Hành Khổ (Saṅkhāra-dukkha)
-- **Định nghĩa**: Khổ do điều kiện, do các [hành](/content/ngu-uan/)
+- **Định nghĩa**: Khổ do điều kiện, do các hành
 - **Ví dụ**: Bản chất bất toại nguyện của mọi hiện tượng có điều kiện
 - **Đặc điểm**: Vi tế nhất, khó nhận biết, chỉ thấy được qua thiền quán sâu
 
@@ -88,22 +88,22 @@ Trong Kinh Nhất Dạ Hiền Giả (Bhaddekaratta Sutta, MN 131), đức Phật
 
 ## Tám Khía Cạnh của Khổ
 
-### 1. [Sinh Khổ](/content/sinh/) (Jāti-dukkha)
+### 1. Sinh Khổ (Jāti-dukkha)
 - **Định nghĩa**: Đau khổ của việc sinh ra, bắt đầu hiện hữu
 - **Biểu hiện**: Đau đớn khi sinh, bất lực, phụ thuộc
 - **Ý nghĩa sâu xa**: Mỗi sự tái sinh là bắt đầu của một chu kỳ khổ mới
 
-### 2. [Già Khổ](/content/lao/) (Jarā-dukkha)
+### 2. Già Khổ (Jarā-dukkha)
 - **Định nghĩa**: Đau khổ của tuổi già, sự suy tàn
 - **Biểu hiện**: Sức khỏe suy giảm, mất đi sức mạnh, vẻ đẹp
 - **Ý nghĩa sâu xa**: Không thể tránh khỏi sự suy tàn của thân thể
 
-### 3. [Bệnh Khổ](/content/benh/) (Vyādhi-dukkha)
+### 3. Bệnh Khổ (Vyādhi-dukkha)
 - **Định nghĩa**: Đau khổ của bệnh tật
 - **Biểu hiện**: Đau đớn thể xác, tinh thần, mất tự do
 - **Ý nghĩa sâu xa**: Thân thể luôn dễ bị tổn thương, bệnh tật
 
-### 4. [Chết Khổ](/content/tu-death/) (Maraṇa-dukkha)
+### 4. Chết Khổ (Maraṇa-dukkha)
 - **Định nghĩa**: Đau khổ của cái chết
 - **Biểu hiện**: Nỗi sợ hãi, tiếc nuối, đau đớn khi chết
 - **Ý nghĩa sâu xa**: Sự kết thúc không thể tránh khỏi của đời sống

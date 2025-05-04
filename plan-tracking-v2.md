@@ -85,15 +85,15 @@ The content is organized hierarchically:
     - [x] Mettā Bhāvanā (Loving-kindness Meditation) - progressive practice (Completed: 5/4/2025)
     - [x] Body Scanning Meditation - detailed instructions (Completed: 5/4/2025)
     - [x] Walking Meditation - comprehensive guide (Completed: 5/4/2025)
-  - [ ] Progressive practice paths for different experience levels:
-    - [ ] Beginner's 8-week program
-    - [ ] Intermediate 3-month program
-    - [ ] Advanced 1-year practice schedule
-  - [ ] Troubleshooting common meditation issues:
-    - [ ] Dealing with physical discomfort
-    - [ ] Working with mental distractions
-    - [ ] Overcoming drowsiness and restlessness
-    - [ ] Managing emotional challenges
+  - [x] Progressive practice paths for different experience levels:
+    - [x] Beginner's 8-week program
+    - [x] Intermediate 3-month program
+    - [x] Advanced 1-year practice schedule
+  - [x] Troubleshooting common meditation issues:
+    - [x] Dealing with physical discomfort
+    - [x] Working with mental distractions
+    - [x] Overcoming drowsiness and restlessness
+    - [x] Managing emotional challenges
   - [ ] Guided audio meditations (5, 15, 30 minute versions)
 
 - [ ] **Develop Case Studies and Applications**
@@ -207,7 +207,7 @@ The content is organized hierarchically:
 ### 1. Search and Discovery
 
 - [ ] **Implement Advanced Search**
-  - [ ] Full-text search across all content using Elasticsearch or similar
+
   - [ ] Filters by category, tag, and difficulty level:
     - [ ] Filter by concept category (Core Teachings, Practice Methods, etc.)
     - [ ] Filter by tradition (Theravada, Mahayana, etc.)
@@ -222,7 +222,6 @@ The content is organized hierarchically:
 
 - [ ] **Enhance Navigation**
   - [ ] Improve mindmap visualization:
-    - [ ] Interactive, zoomable mindmap using D3.js
     - [ ] Collapsible/expandable concept nodes
     - [ ] Visual indicators for content depth
     - [ ] Custom icons for different concept types
@@ -900,7 +899,7 @@ The content is organized hierarchically:
   - Add multimedia content (video, audio)
   - Implement interactive tutorials
 
-<!-- 
+<!--
 Don't work on this for now
 ### Phase 3: Interactive Features (3-6 months)
 - **Month 1-2: Learning Tools**
