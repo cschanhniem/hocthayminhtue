@@ -4,17 +4,17 @@ This document tracks the missing pages that need to be created based on links fo
 
 ## Pages Missing from Tập Đế (Samudaya Ariyasacca)
 
-- [ ] **Dục Ái (Kāma-taṇhā)** - Referenced in /content/tap-de/
-- [ ] **Hữu Ái (Bhava-taṇhā)** - Referenced in /content/tap-de/
-- [ ] **Phi Hữu Ái (Vibhava-taṇhā)** - Referenced in /content/tap-de/
-- [ ] **Xúc (Phassa)** - Referenced in /content/tap-de/ as part of Thập Nhị Nhân Duyên
+- [x] **Dục Ái (Kāma-taṇhā)** - Referenced in /content/tap-de/ - Created at /content/duc-ai.md
+- [x] **Hữu Ái (Bhava-taṇhā)** - Referenced in /content/tap-de/ - Created at /content/huu-ai.md
+- [x] **Phi Hữu Ái (Vibhava-taṇhā)** - Referenced in /content/tap-de/ - Created at /content/phi-huu-ai.md
+- [x] **Xúc (Phassa)** - Referenced in /content/tap-de/ as part of Thập Nhị Nhân Duyên - Created at /content/xuc.md
 - [ ] **Sinh (Jāti)** - Referenced in /content/tap-de/ as part of Thập Nhị Nhân Duyên
-- [ ] **Lão Tử (Jarāmaraṇa)** - Referenced in /content/tap-de/ as part of Thập Nhị Nhân Duyên
-- [ ] **Hữu (Bhava)** - Referenced in /content/tap-de/ as part of Thập Nhị Nhân Duyên
-- [ ] **Ngũ Dục (Pañca Kāmaguṇā)** - Referenced in /content/tap-de/
-- [ ] **Ba Cõi (Tiloka)** - Referenced in /content/tap-de/
-- [ ] **Sáu Nẻo Luân Hồi (Saṃsāra)** - Referenced in /content/tap-de/
-- [ ] **Tà Kiến (Micchā Diṭṭhi)** - Referenced in /content/tap-de/
+- [x] **Lão Tử (Jarāmaraṇa)** - Referenced in /content/tap-de/ as part of Thập Nhị Nhân Duyên - Created at /content/lao-tu.md
+- [x] **Hữu (Bhava)** - Referenced in /content/tap-de/ as part of Thập Nhị Nhân Duyên - Created at /content/huu.md
+- [x] **Ngũ Dục (Pañca Kāmaguṇā)** - Referenced in /content/tap-de/ - Created at /content/ngu-duc.md
+- [x] **Ba Cõi (Tiloka)** - Referenced in /content/tap-de/ - Created at /content/ba-coi.md
+- [x] **Sáu Nẻo Luân Hồi (Saṃsāra)** - Referenced in /content/tap-de/ - Created at /content/sau-neo-luan-hoi.md
+- [x] **Tà Kiến (Micchā Diṭṭhi)** - Referenced in /content/tap-de/ - Created at /content/ta-kien.md
 - [ ] **Nhân Quả (Hetu-phala)** - Referenced in /content/tap-de/
 - [ ] **Danh Sắc (Nāmarūpa)** - Referenced in /content/tap-de/ as part of Thập Nhị Nhân Duyên
 - [ ] **Lục Nhập (Saḷāyatana)** - Referenced in /content/tap-de/ as part of Thập Nhị Nhân Duyên
