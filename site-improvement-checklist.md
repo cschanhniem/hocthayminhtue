@@ -12,11 +12,11 @@ According to the concepts.js structure and existing content, the following pages
   - [x] "Cầu không được" (content not found)
   - [x] "Thương yêu xa lìa" (content not found)
   - [x] "Oán ghét gặp nhau" (content not found)
-  - [ ] "Năm thủ uẩn" (content not found)
+  - [x] "Năm thủ uẩn" (content not found)
 
 - [ ] **Tập Đế Components**
-  - [ ] "Ái dục" (check if content in duc-ai.md covers this)
-  - [ ] "Tham ái" (content not found)
+  - [x] "Ái dục" (check if content in duc-ai.md covers this)
+  - [x] "Tham ái" (content not found)
   - [ ] "Chấp thủ" (content not found)
 
 - [ ] **Diệt Đế Components** 

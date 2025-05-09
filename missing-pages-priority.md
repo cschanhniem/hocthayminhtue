@@ -17,7 +17,7 @@ These pages are fundamental to the site's structure and should be created first 
   - References: Khổ Đế, Tứ Diệu Đế
   - Template: Existing Khổ Đế component pages
 
-- [ ] **Oán ghét gặp nhau** (Association with the unpleasant)
+- [x] **Oán ghét gặp nhau** (Association with the unpleasant)
   - Content focus: Definition, examples, mindfulness approaches
   - References: Khổ Đế, Tứ Diệu Đế
   - Template: Existing Khổ Đế component pages
@@ -28,12 +28,12 @@ These pages are fundamental to the site's structure and should be created first 
   - Template: Existing Khổ Đế component pages
 
 ### Tập Đế (Samudaya) Components
-- [ ] **Ái dục** (Sensual desire)
+- [x] **Ái dục** (Sensual desire)
   - Content focus: Definition, difference from duc-ai.md if needed
   - References: Tập Đế, Tứ Diệu Đế
   - Template: Existing Tập Đế component pages
 
-- [ ] **Tham ái** (Craving)
+- [x] **Tham ái** (Craving)
   - Content focus: Definition, types, relationship to suffering
   - References: Tập Đế, Tứ Diệu Đế
   - Template: Existing Tập Đế component pages
