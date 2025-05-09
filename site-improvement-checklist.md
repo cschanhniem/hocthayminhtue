@@ -9,7 +9,7 @@ This document outlines a comprehensive plan for improving the Nikaya website, wi
 According to the concepts.js structure and existing content, the following pages need to be verified:
 
 - [ ] **Khổ Đế Components**
-  - [ ] "Cầu không được" (content not found)
+  - [x] "Cầu không được" (content not found)
   - [ ] "Thương yêu xa lìa" (content not found)
   - [ ] "Oán ghét gặp nhau" (content not found)
   - [ ] "Năm thủ uẩn" (content not found)

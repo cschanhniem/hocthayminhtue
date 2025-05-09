@@ -7,7 +7,7 @@ This document outlines a prioritized approach to creating the missing pages iden
 These pages are fundamental to the site's structure and should be created first as they are referenced extensively throughout other content.
 
 ### Khổ Đế (Dukkha) Components
-- [ ] **Cầu không được** (Not getting what one desires)
+- [x] **Cầu không được** (Not getting what one desires)
   - Content focus: Definition, examples, relationship to suffering
   - References: Khổ Đế, Tứ Diệu Đế
   - Template: Existing Khổ Đế component pages
