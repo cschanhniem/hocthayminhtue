@@ -10,8 +10,8 @@ According to the concepts.js structure and existing content, the following pages
 
 - [ ] **Khổ Đế Components**
   - [x] "Cầu không được" (content not found)
-  - [ ] "Thương yêu xa lìa" (content not found)
-  - [ ] "Oán ghét gặp nhau" (content not found)
+  - [x] "Thương yêu xa lìa" (content not found)
+  - [x] "Oán ghét gặp nhau" (content not found)
   - [ ] "Năm thủ uẩn" (content not found)
 
 - [ ] **Tập Đế Components**

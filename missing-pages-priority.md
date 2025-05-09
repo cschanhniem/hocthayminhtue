@@ -12,7 +12,7 @@ These pages are fundamental to the site's structure and should be created first 
   - References: Khổ Đế, Tứ Diệu Đế
   - Template: Existing Khổ Đế component pages
 
-- [ ] **Thương yêu xa lìa** (Separation from loved ones)
+- [x] **Thương yêu xa lìa** (Separation from loved ones)
   - Content focus: Definition, examples, psychological aspects
   - References: Khổ Đế, Tứ Diệu Đế
   - Template: Existing Khổ Đế component pages
