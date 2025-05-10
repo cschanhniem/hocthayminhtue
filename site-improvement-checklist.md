@@ -47,14 +47,14 @@ According to the concepts.js structure and existing content, the following pages
   - [x] "Hỷ (Mudita)" (content created)
   - [x] "Xả (Upekkha)" (content created)
 
-- [ ] **Năm Triền Cái Components**
+- [x] **Năm Triền Cái Components**
   - [x] "Tham dục" (content created)
   - [x] "Sân hận" (content created)
   - [x] "Hôn trầm thụy miên" (content created)
   - [x] "Trạo cử hối quá" (content created)
   - [x] "Nghi" (content created)
 
-- [ ] **Thất Giác Chi Components**
+- [x] **Thất Giác Chi Components**
   - [x] "Niệm" (content created)
   - [x] "Trạch pháp" (content created)
   - [x] "Tinh tấn" (content created)
@@ -167,7 +167,7 @@ Based on analysis of existing content such as bat-chanh-dao.md and chanh-kien.md
 ### 4. Navigation Enhancement
 - [ ] Improve global navigation to highlight relationships
 - [ ] Add breadcrumbs on all pages to show hierarchical position
-- [ ] Consider adding a concept map visualization
+- [x] Consider adding a concept map visualization
 
 ### 5. Quality Assurance
 - [ ] Review all pages for content accuracy
@@ -209,6 +209,7 @@ Based on analysis of existing content such as bat-chanh-dao.md and chanh-kien.md
 - [ ] Implement search functionality
 - [ ] Create a glossary of terms
 - [ ] Add "Related Readings" sections to each page
+- [x] Create interactive concept map to visualize relationships between teachings
 
 ### Technical Improvements
 - [ ] Implement structured data (Schema.org) for better SEO

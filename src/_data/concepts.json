@@ -1,0 +1,233 @@
+{
+  "root": {
+    "id": "root",
+    "label": "Giáo Lý Căn Bản",
+    "content": "menu",
+    "children": [
+      {
+        "id": "tudieuđe",
+        "label": "Tứ Diệu Đế",
+        "content": "tudieuđe",
+        "children": [
+          {
+            "id": "khođe",
+            "label": "Khổ Đế",
+            "content": "khođe",
+            "children": [
+              { "id": "sinh", "label": "Sinh", "content": "sinh" },
+              { "id": "lao", "label": "Lão", "content": "lao" },
+              { "id": "benh", "label": "Bệnh", "content": "benh" },
+              { "id": "tu", "label": "Tử", "content": "tu" },
+              { "id": "cau-khong-duoc", "label": "Cầu không được", "content": "cau-khong-duoc" },
+              { "id": "thuong-yeu-xa-lia", "label": "Thương yêu xa lìa", "content": "thuong-yeu-xa-lia" },
+              { "id": "oan-ghet-gap-nhau", "label": "Oán ghét gặp nhau", "content": "oan-ghet-gap-nhau" },
+              { "id": "nam-thu-uan", "label": "Năm thủ uẩn", "content": "nam-thu-uan" }
+            ]
+          },
+          {
+            "id": "tapđe",
+            "label": "Tập Đế",
+            "content": "tapđe",
+            "children": [
+              { "id": "ai-duc", "label": "Ái dục", "content": "ai-duc" },
+              { "id": "tham-ai", "label": "Tham ái", "content": "tham-ai" },
+              { "id": "chap-thu", "label": "Chấp thủ", "content": "chap-thu" }
+            ]
+          },
+          {
+            "id": "dietđe",
+            "label": "Diệt Đế",
+            "content": "dietđe",
+            "children": [
+              { "id": "niet-ban", "label": "Niết-bàn", "content": "niet-ban" },
+              { "id": "giai-thoat-kho", "label": "Giải thoát khổ", "content": "giai-thoat-kho" },
+              { "id": "doan-tan-ai", "label": "Đoạn tận ái", "content": "doan-tan-ai" }
+            ]
+          },
+          {
+            "id": "daođe",
+            "label": "Đạo Đế",
+            "content": "daođe",
+            "children": [
+              {
+                "id": "batchanhđao",
+                "label": "Bát Chánh Đạo",
+                "content": "batchanhđao",
+                "children": [
+                  { "id": "chanh-kien", "label": "Chánh kiến", "content": "chanh-kien" },
+                  { "id": "chanh-tu-duy", "label": "Chánh tư duy", "content": "chanh-tu-duy" },
+                  { "id": "chanh-ngu", "label": "Chánh ngữ", "content": "chanh-ngu" },
+                  { "id": "chanh-nghiep", "label": "Chánh nghiệp", "content": "chanh-nghiep" },
+                  { "id": "chanh-mang", "label": "Chánh mạng", "content": "chanh-mang" },
+                  { "id": "chanh-tinh-tan", "label": "Chánh tinh tấn", "content": "chanh-tinh-tan" },
+                  { "id": "chanh-niem", "label": "Chánh niệm", "content": "chanh-niem" },
+                  { "id": "chanh-dinh", "label": "Chánh định", "content": "chanh-dinh" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "tamhoc",
+        "label": "Tam Học",
+        "content": "tamhoc",
+        "children": [
+          {
+            "id": "gioi",
+            "label": "Giới",
+            "content": "gioi",
+            "children": [
+              { "id": "khong-sat-sinh", "label": "Không sát sinh", "content": "khong-sat-sinh" },
+              { "id": "khong-trom-cap", "label": "Không trộm cắp", "content": "khong-trom-cap" },
+              { "id": "khong-ta-dam", "label": "Không tà dâm", "content": "khong-ta-dam" },
+              { "id": "khong-noi-doi", "label": "Không nói dối", "content": "khong-noi-doi" },
+              { "id": "khong-uong-ruou", "label": "Không uống rượu", "content": "khong-uong-ruou" }
+            ]
+          },
+          {
+            "id": "dinh",
+            "label": "Định",
+            "content": "dinh",
+            "children": [
+              { "id": "so-thien", "label": "Sơ thiền", "content": "so-thien" },
+              { "id": "nhi-thien", "label": "Nhị thiền", "content": "nhi-thien" },
+              { "id": "tam-thien", "label": "Tam thiền", "content": "tam-thien" },
+              { "id": "tu-thien", "label": "Tứ thiền", "content": "tu-thien" }
+            ]
+          },
+          {
+            "id": "tue",
+            "label": "Tuệ",
+            "content": "tue",
+            "children": [
+              { "id": "minh-sat", "label": "Minh sát", "content": "minh-sat" },
+              { "id": "tri-tue", "label": "Trí tuệ", "content": "tri-tue" },
+              { "id": "giac-ngo", "label": "Giác ngộ", "content": "giac-ngo" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "tu-niem-xu",
+        "label": "Tứ Niệm Xứ",
+        "content": "tu-niem-xu",
+        "children": [
+          { "id": "than-niem-xu", "label": "Thân niệm xứ", "content": "than-niem-xu" },
+          { "id": "tho-niem-xu", "label": "Thọ niệm xứ", "content": "tho-niem-xu" },
+          { "id": "tam-niem-xu", "label": "Tâm niệm xứ", "content": "tam-niem-xu" },
+          { "id": "phap-niem-xu", "label": "Pháp niệm xứ", "content": "phap-niem-xu" }
+        ]
+      },
+      {
+        "id": "nam-trien-cai",
+        "label": "Năm Triền Cái",
+        "content": "nam-trien-cai",
+        "children": [
+          { "id": "tham-duc", "label": "Tham dục", "content": "tham-duc" },
+          { "id": "san-han", "label": "Sân hận", "content": "san-han" },
+          { "id": "hon-tram", "label": "Hôn trầm thụy miên", "content": "hon-tram" },
+          { "id": "trao-cu", "label": "Trạo cử hối quá", "content": "trao-cu" },
+          { "id": "nghi", "label": "Nghi", "content": "nghi" }
+        ]
+      },
+      {
+        "id": "that-giac-chi",
+        "label": "Thất Giác Chi",
+        "content": "that-giac-chi",
+        "children": [
+          { "id": "niem-giac-chi", "label": "Niệm", "content": "niem-giac-chi" },
+          { "id": "trach-phap", "label": "Trạch pháp", "content": "trach-phap" },
+          { "id": "tinh-tan", "label": "Tinh tấn", "content": "tinh-tan" },
+          { "id": "hy-giac-chi", "label": "Hỷ", "content": "hy-giac-chi" },
+          { "id": "khinh-an", "label": "Khinh an", "content": "khinh-an" },
+          { "id": "dinh-giac-chi", "label": "Định", "content": "dinh-giac-chi" },
+          { "id": "xa-giac-chi", "label": "Xả", "content": "xa-giac-chi" }
+        ]
+      },
+      {
+        "id": "tu-vo-luong-tam",
+        "label": "Tứ Vô Lượng Tâm",
+        "content": "tu-vo-luong-tam",
+        "children": [
+          { "id": "tu", "label": "Từ (Metta)", "content": "tu" },
+          { "id": "bi-karuna", "label": "Bi (Karuna)", "content": "bi-karuna" },
+          { "id": "hy-mudita", "label": "Hỷ (Mudita)", "content": "hy-mudita" },
+          { "id": "xa-upekkha", "label": "Xả (Upekkha)", "content": "xa-upekkha" }
+        ]
+      },
+      {
+        "id": "thap-nhi-nhan-duyen",
+        "label": "Thập Nhị Nhân Duyên",
+        "content": "thap-nhi-nhan-duyen",
+        "children": [
+          { "id": "vo-minh", "label": "Vô minh", "content": "vo-minh" },
+          { "id": "hanh", "label": "Hành", "content": "hanh" },
+          { "id": "thuc", "label": "Thức", "content": "thuc" },
+          { "id": "danh-sac", "label": "Danh sắc", "content": "danh-sac" },
+          { "id": "luc-nhap", "label": "Lục nhập", "content": "luc-nhap" },
+          { "id": "xuc", "label": "Xúc", "content": "xuc" },
+          { "id": "tho", "label": "Thọ", "content": "tho" },
+          { "id": "ai", "label": "Ái", "content": "ai" },
+          { "id": "thu", "label": "Thủ", "content": "thu" },
+          { "id": "huu", "label": "Hữu", "content": "huu" },
+          { "id": "sinh", "label": "Sinh", "content": "sinh" },
+          { "id": "lao-tu", "label": "Lão tử", "content": "lao-tu" }
+        ]
+      },
+      {
+        "id": "ngu-uan",
+        "label": "Ngũ Uẩn",
+        "content": "ngu-uan",
+        "children": [
+          { "id": "sac", "label": "Sắc", "content": "sac" },
+          { "id": "tho", "label": "Thọ", "content": "tho" },
+          { "id": "tuong", "label": "Tưởng", "content": "tuong" },
+          { "id": "hanh", "label": "Hành", "content": "hanh" },
+          { "id": "thuc", "label": "Thức", "content": "thuc" }
+        ]
+      },
+      {
+        "id": "ba-dac-tinh",
+        "label": "Ba Đặc Tính",
+        "content": "ba-dac-tinh",
+        "children": [
+          { "id": "vo-thuong", "label": "Vô thường (Anicca)", "content": "vo-thuong" },
+          { "id": "kho", "label": "Khổ (Dukkha)", "content": "kho" },
+          { "id": "vo-nga", "label": "Vô ngã (Anatta)", "content": "vo-nga" }
+        ]
+      },
+      {
+        "id": "muoi-ba-la-mat",
+        "label": "Mười Ba La Mật",
+        "content": "muoi-ba-la-mat"
+      },
+      {
+        "id": "bon-thanh-qua",
+        "label": "Bốn Thánh Quả",
+        "content": "bon-thanh-qua",
+        "children": [
+          { "id": "tu-da-hoan", "label": "Tu-đà-hoàn (Nhập lưu)", "content": "tu-da-hoan" },
+          { "id": "tu-da-ham", "label": "Tư-đà-hàm (Nhất lai)", "content": "tu-da-ham" },
+          { "id": "a-na-ham", "label": "A-na-hàm (Bất lai)", "content": "a-na-ham" },
+          { "id": "a-la-han", "label": "A-la-hán (Vô sanh)", "content": "a-la-han" }
+        ]
+      },
+      {
+        "id": "nikaya",
+        "label": "Kinh Nikaya",
+        "content": "nikaya"
+      },
+      {
+        "id": "thayminhue",
+        "label": "Thầy Minh Huệ",
+        "content": "thayminhue"
+      },
+      {
+        "id": "about",
+        "label": "Giới Thiệu",
+        "content": "about"
+      }
+    ]
+  }
+} 

@@ -1,0 +1,8 @@
+<!-- Inject concept data into the page for JavaScript use -->
+<script>
+  // Load concept data directly as a JavaScript object
+  window.concepts = {{ concepts | dump | safe }};
+  
+  // Load concept relationships directly as a JavaScript object
+  window.conceptRelationships = {{ conceptRelationships | dump | safe }};
+</script> 

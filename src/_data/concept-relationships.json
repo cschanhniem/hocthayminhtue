@@ -1,0 +1,69 @@
+{
+  "primaryConnections": [
+    { "source": "tudieuđe", "target": "batchanhđao", "strength": 5, "description": "Đạo Đế chính là Bát Chánh Đạo" },
+    { "source": "tamhoc", "target": "tudieuđe", "strength": 4, "description": "Tam Học là phương pháp tu tập theo Tứ Diệu Đế" },
+    { "source": "tu-niem-xu", "target": "tamhoc", "strength": 4, "description": "Tứ Niệm Xứ là phương pháp tu tập Tam Học" },
+    { "source": "nam-trien-cai", "target": "that-giac-chi", "strength": 3, "description": "Năm Triền Cái là đối lập với Thất Giác Chi" },
+    { "source": "that-giac-chi", "target": "tu-vo-luong-tam", "strength": 3, "description": "Thất Giác Chi và Tứ Vô Lượng Tâm bổ trợ lẫn nhau" },
+    { "source": "tudieuđe", "target": "thap-nhi-nhan-duyen", "strength": 4, "description": "Thập Nhị Nhân Duyên giải thích chi tiết về nguồn gốc khổ đau trong Tứ Diệu Đế" },
+    { "source": "ngu-uan", "target": "khođe", "strength": 3, "description": "Ngũ Uẩn là phân tích chi tiết về Khổ Đế" },
+    { "source": "ba-dac-tinh", "target": "ngu-uan", "strength": 3, "description": "Ba Đặc Tính được thấy trong Ngũ Uẩn" }
+  ],
+  
+  "secondaryConnections": [
+    { "source": "khođe", "target": "tapđe", "strength": 5, "description": "Tập Đế là nguyên nhân của Khổ Đế" },
+    { "source": "tapđe", "target": "dietđe", "strength": 5, "description": "Diệt Đế là sự chấm dứt Tập Đế" },
+    { "source": "dietđe", "target": "daođe", "strength": 5, "description": "Đạo Đế là con đường đến Diệt Đế" },
+    
+    { "source": "gioi", "target": "dinh", "strength": 5, "description": "Giới là nền tảng cho Định" },
+    { "source": "dinh", "target": "tue", "strength": 5, "description": "Định là nền tảng cho Tuệ" },
+    
+    { "source": "chanh-kien", "target": "tue", "strength": 4, "description": "Chánh Kiến thuộc về Tuệ học" },
+    { "source": "chanh-tu-duy", "target": "tue", "strength": 4, "description": "Chánh Tư Duy thuộc về Tuệ học" },
+    { "source": "chanh-ngu", "target": "gioi", "strength": 4, "description": "Chánh Ngữ thuộc về Giới học" },
+    { "source": "chanh-nghiep", "target": "gioi", "strength": 4, "description": "Chánh Nghiệp thuộc về Giới học" },
+    { "source": "chanh-mang", "target": "gioi", "strength": 4, "description": "Chánh Mạng thuộc về Giới học" },
+    { "source": "chanh-tinh-tan", "target": "dinh", "strength": 4, "description": "Chánh Tinh Tấn thuộc về Định học" },
+    { "source": "chanh-niem", "target": "dinh", "strength": 4, "description": "Chánh Niệm thuộc về Định học" },
+    { "source": "chanh-dinh", "target": "dinh", "strength": 4, "description": "Chánh Định thuộc về Định học" },
+    
+    { "source": "tu-niem-xu", "target": "chanh-niem", "strength": 5, "description": "Tứ Niệm Xứ là phương pháp thực hành Chánh Niệm" },
+    { "source": "than-niem-xu", "target": "tu-niem-xu", "strength": 4, "description": "Thân Niệm Xứ là một trong Tứ Niệm Xứ" },
+    { "source": "tho-niem-xu", "target": "tu-niem-xu", "strength": 4, "description": "Thọ Niệm Xứ là một trong Tứ Niệm Xứ" },
+    { "source": "tam-niem-xu", "target": "tu-niem-xu", "strength": 4, "description": "Tâm Niệm Xứ là một trong Tứ Niệm Xứ" },
+    { "source": "phap-niem-xu", "target": "tu-niem-xu", "strength": 4, "description": "Pháp Niệm Xứ là một trong Tứ Niệm Xứ" },
+    
+    { "source": "tham-duc", "target": "ai-duc", "strength": 3, "description": "Tham dục liên quan đến Ái dục" },
+    { "source": "san-han", "target": "chanh-tu-duy", "strength": 3, "description": "Chánh Tư Duy đối trị Sân hận" },
+    { "source": "hon-tram", "target": "chanh-tinh-tan", "strength": 3, "description": "Chánh Tinh Tấn đối trị Hôn trầm thụy miên" },
+    { "source": "trao-cu", "target": "dinh-giac-chi", "strength": 3, "description": "Định Giác Chi đối trị Trạo cử hối quá" },
+    { "source": "trao-cu", "target": "niem-giac-chi", "strength": 4, "description": "Niệm Giác Chi giúp nhận diện và đối trị Trạo cử hối quá" },
+    { "source": "trao-cu", "target": "than-niem-xu", "strength": 3, "description": "Thân niệm xứ giúp làm dịu Trạo cử hối quá" },
+    { "source": "nghi", "target": "trach-phap", "strength": 3, "description": "Trạch Pháp Giác Chi đối trị Nghi" },
+    
+    { "source": "niem-giac-chi", "target": "tu-niem-xu", "strength": 4, "description": "Niệm Giác Chi được phát triển qua Tứ Niệm Xứ" },
+    { "source": "trach-phap", "target": "chanh-kien", "strength": 3, "description": "Trạch Pháp Giác Chi tương đồng với Chánh Kiến" },
+    { "source": "tinh-tan", "target": "chanh-tinh-tan", "strength": 4, "description": "Tinh Tấn Giác Chi tương đồng với Chánh Tinh Tấn" },
+    { "source": "hy-giac-chi", "target": "khinh-an", "strength": 3, "description": "Hỷ Giác Chi dẫn đến Khinh An" },
+    { "source": "khinh-an", "target": "dinh-giac-chi", "strength": 3, "description": "Khinh An dẫn đến Định Giác Chi" },
+    { "source": "dinh-giac-chi", "target": "xa-giac-chi", "strength": 3, "description": "Định Giác Chi dẫn đến Xả Giác Chi" },
+    
+    { "source": "hy-mudita", "target": "hy-giac-chi", "strength": 3, "description": "Hỷ trong Tứ Vô Lượng Tâm tương đồng với Hỷ Giác Chi" },
+    { "source": "bi-karuna", "target": "chanh-tu-duy", "strength": 3, "description": "Lòng Bi hỗ trợ Chánh Tư Duy không hại" },
+    { "source": "xa-upekkha", "target": "xa-giac-chi", "strength": 4, "description": "Xả trong Tứ Vô Lượng Tâm tương đồng với Xả Giác Chi" },
+    
+    { "source": "tu-da-hoan", "target": "chanh-kien", "strength": 3, "description": "Tu-đà-hoàn đạt được Chánh Kiến ban đầu" },
+    { "source": "a-la-han", "target": "xa-giac-chi", "strength": 3, "description": "A-la-hán hoàn thiện Xả Giác Chi" },
+    { "source": "niet-ban", "target": "dietđe", "strength": 5, "description": "Niết-bàn là thực tại của Diệt Đế" },
+    
+    { "source": "vo-thuong", "target": "chanh-kien", "strength": 4, "description": "Hiểu Vô thường là phần của Chánh Kiến" },
+    { "source": "kho", "target": "khođe", "strength": 5, "description": "Khổ là đặc tính và là Khổ Đế" },
+    { "source": "vo-nga", "target": "chanh-kien", "strength": 4, "description": "Hiểu Vô ngã là phần của Chánh Kiến" },
+    
+    { "source": "sac", "target": "ngu-uan", "strength": 4, "description": "Sắc là một trong Ngũ Uẩn" },
+    { "source": "tho", "target": "ngu-uan", "strength": 4, "description": "Thọ là một trong Ngũ Uẩn" },
+    { "source": "tuong", "target": "ngu-uan", "strength": 4, "description": "Tưởng là một trong Ngũ Uẩn" },
+    { "source": "hanh", "target": "ngu-uan", "strength": 4, "description": "Hành là một trong Ngũ Uẩn" },
+    { "source": "thuc", "target": "ngu-uan", "strength": 4, "description": "Thức là một trong Ngũ Uẩn" }
+  ]
+} 

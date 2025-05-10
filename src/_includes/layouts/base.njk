@@ -46,8 +46,9 @@
     }
   </script>
 
-  <!-- Custom CSS for mobile optimization -->
+  <!-- Custom CSS -->
   <link rel="stylesheet" href="/css/mobile-fixes.css">
+  <link rel="stylesheet" href="/css/concept-map.css">
 
   <!-- Font Awesome for icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -217,6 +218,7 @@
         <div class="hidden md:flex items-center space-x-6">
           <a href="/" class="nav-link {% if page.url === '/' %}active{% endif %}" aria-current="{% if page.url === '/' %}page{% endif %}">Trang Chủ</a>
           <a href="/mindmap/" class="nav-link {% if page.url.includes('/mindmap') %}active{% endif %}" aria-current="{% if page.url.includes('/mindmap') %}page{% endif %}">Mindmap</a>
+          <a href="/interactive-concept-map/" class="nav-link {% if page.url.includes('/interactive-concept-map') %}active{% endif %}" aria-current="{% if page.url.includes('/interactive-concept-map') %}page{% endif %}">Bản Đồ Tương Tác</a>
           <a href="/content/thich-minh-tue" class="nav-link {% if page.url.includes('/content/thich-minh-tue') %}active{% endif %}" aria-current="{% if page.url.includes('/content/thich-minh-tue') %}page{% endif %}">Thầy Minh Tuệ</a>
           <a href="/content/about" class="nav-link {% if page.url.includes('/content/about') %}active{% endif %}" aria-current="{% if page.url.includes('/content/about') %}page{% endif %}">Về Chúng Tôi</a>
         </div>
@@ -232,6 +234,7 @@
         <div class="px-2 pt-2 pb-3 space-y-1">
           <a href="/" class="block nav-link {% if page.url === '/' %}active{% endif %}" role="menuitem" aria-current="{% if page.url === '/' %}page{% endif %}">Trang Chủ</a>
           <a href="/mindmap/" class="block nav-link {% if page.url.includes('/mindmap') %}active{% endif %}" role="menuitem" aria-current="{% if page.url.includes('/mindmap') %}page{% endif %}">Mindmap</a>
+          <a href="/interactive-concept-map/" class="block nav-link {% if page.url.includes('/interactive-concept-map') %}active{% endif %}" role="menuitem" aria-current="{% if page.url.includes('/interactive-concept-map') %}page{% endif %}">Bản Đồ Tương Tác</a>
           <a href="/content/thich-minh-tue" class="block nav-link {% if page.url.includes('/content/thich-minh-tue') %}active{% endif %}" role="menuitem" aria-current="{% if page.url.includes('/content/thich-minh-tue') %}page{% endif %}">Thầy Minh Tuệ</a>
           <a href="/content/about" class="block nav-link {% if page.url.includes('/content/about') %}active{% endif %}" role="menuitem" aria-current="{% if page.url.includes('/content/about') %}page{% endif %}">Về Chúng Tôi</a>
         </div>

@@ -197,13 +197,90 @@ description: [Brief description of the concept]
 
 ## Progress Tracking
 
-- [x] **Priority 1 Progress**: 5/5 completed
-- [x] **Priority 2 Progress**: 4/4 completed
-- [x] **Priority 3 Progress**: 5/5 completed
-- [x] **Priority 4 Progress**: 4/4 completed
-- [x] **Priority 5 Progress**: 1/1 completed
+## [2023-10-16] Verified Thất Giác Chi Component Pages
 
-Total progress: 20/20 completed (100%)
+Verified all seven components of Thất Giác Chi (Seven Factors of Awakening) were already created:
+
+1. **Niệm (Mindfulness)** - Verified existing content about mindfulness as the first factor of awakening, which serves as the foundation for the development of the other factors.
+
+2. **Trạch pháp (Investigation)** - Verified content about investigation of phenomena and discernment of truth, the faculty of examining mental and physical states.
+
+3. **Tinh tấn (Energy)** - Verified content about the factor of energy or effort, which provides the necessary momentum for practice and prevents stagnation.
+
+4. **Hỷ (Joy)** - Verified content about the awakening factor of joy, which brings brightness and delight to meditation practice.
+
+5. **Khinh an (Tranquility)** - Verified content about the calming of bodily and mental formations, creating serenity in practice.
+
+6. **Định (Concentration)** - Verified content about one-pointedness of mind, the ability to sustain attention without distraction.
+
+7. **Xả (Equanimity)** - Verified content about the balanced state of mind that is neither attracted nor repelled, but remains centered.
+
+All pages were found to contain comprehensive information about each factor including:
+- Clear definitions and explanations
+- Methods for developing each factor
+- The role of each factor in the path to awakening
+- Relationship with other Buddhist concepts
+
+Updated site-improvement-checklist.md to mark this section as complete.
+
+## [2023-10-16] Created All Năm Triền Cái Component Pages
+
+Created content for all five components of Năm Triền Cái (Five Hindrances):
+
+1. **Tham dục (Sensual desire)** - Created comprehensive content explaining the hindrance of sensual desire, its characteristics, harmful effects, methods to overcome it, and its relationship with other hindrances.
+
+2. **Sân hận (Ill-will)** - Created detailed content covering the nature of ill-will, its manifestations, harmful impacts, methods for cultivation of loving-kindness to overcome it, and its relationship with other mental states.
+
+3. **Hôn trầm thụy miên (Sloth and torpor)** - Created content explaining the sluggish, drowsy mental state, its causes, effects on practice, and methods to cultivate energy and mindfulness to overcome it.
+
+4. **Trạo cử hối quá (Restlessness and remorse)** - Created content detailing the agitated, regretful mind state, its characteristics, impacts on meditation practice, and techniques to develop tranquility and equanimity.
+
+5. **Nghi (Doubt)** - Created content covering skeptical doubt about the teachings and practice, its manifestations, harmful effects, and ways to develop confidence and wisdom to overcome it.
+
+All pages follow a consistent structure with:
+- Definitions from canonical texts
+- Clear explanations of each hindrance's nature
+- Analysis of causes and harmful effects
+- Detailed methods for overcoming each hindrance
+- Relationships with other hindrances and Buddhist concepts
+- Proper linking to parent concepts and related topics
+
+Updated site-improvement-checklist.md to mark this section as complete.
+
+## [2023-10-17] Completed Remaining Missing Wisdom (Tuệ) Components
+
+Created comprehensive content for the remaining two key wisdom component pages that were marked as empty:
+
+1. **Trí Tuệ (Paññā, Wisdom)** - Created detailed content covering the nature of wisdom in Buddhism, including:
+   - Clear definition from canonical sources
+   - Three types of wisdom (văn, tư, tu - learning, reflection, meditation)
+   - Relationship to the Three Trainings (Tam Học)
+   - Methods for developing wisdom through study and practice
+   - The role of wisdom in seeing the Three Characteristics (Tam Pháp Ấn)
+   - Special coverage of Bát Nhã wisdom from Mahayana traditions
+   - Common misconceptions about wisdom
+   - Thorough interlinking with related concepts
+
+2. **Giác Ngộ (Bodhi, Enlightenment)** - Created comprehensive content about the ultimate goal of Buddhist practice:
+   - Definition and meaning in early Buddhist texts
+   - The four stages of enlightenment (Sotāpanna, Sakadāgāmī, Anāgāmī, Arahant)
+   - Key characteristics of the enlightened state
+   - The path leading to enlightenment
+   - Differences between enlightenment and other states
+   - The Buddha's enlightenment story
+   - Impact of enlightenment on individual life and society
+   - Common misconceptions about enlightenment
+   - Proper interlinking with fundamental Buddhist concepts
+
+Both pages maintain consistent structure with other content on the site and include proper citations from canonical texts, practical applications, and detailed explanations suitable for both beginners and experienced practitioners.
+
+With the completion of these files, all identified missing pages from the site-improvement-checklist.md have been created, completing the content creation phase of the project.
+
+- [x] **Priority 1 Progress**: 5/5 completed
+- [x] **Priority 2 Progress**: 5/5 completed
+- [x] **Priority 3 Progress**: 5/5 completed
+
+Total progress: 15/15 completed (100%)
 
 ## Future Enhancements
 
@@ -231,3 +308,47 @@ Total progress: 20/20 completed (100%)
 - [2024-06-09] Completed creation of all Tập Đế component pages (Tham ái, Chấp thủ) and Diệt Đế component pages (Giải thoát khổ, Đoạn tận ái) as per site-improvement-checklist.md
 - [2024-06-09] Completed creation of all Khổ Đế component pages (Cầu không được, Thương yêu xa lìa, Oán ghét gặp nhau) as per site-improvement-checklist.md
 - [2024-06-09] Verified and marked all Định Components (Sơ thiền, Nhị thiền, Tam thiền, Tứ thiền) and Tuệ Components (Minh sát, Trí tuệ, Giác ngộ) as completed in the site-improvement-checklist.md
+
+## [2023-10-22] Created Interactive Concept Map
+
+Added a new feature to the site: an interactive concept map for visualizing the relationships between Buddhist concepts. The implementation includes:
+
+1. Created a new page at `/interactive-concept-map/` showing a D3.js force-directed graph visualization
+2. Implemented comprehensive data structure in `concept-relationships.js` defining relationships between concepts
+3. Created JSON data files for frontend use
+4. Added CSS styling for the interactive visualization
+5. Added zoom, filter, and highlighting functionality
+6. Updated navigation to include the new feature
+
+This interactive visualization helps users better understand:
+- How core Buddhist teachings are interconnected
+- The hierarchical relationships between concepts
+- Opposing and complementary concepts
+- Pathways of practice progression
+
+The most significant relationships visualized include:
+- Four Noble Truths connections to Eightfold Path
+- Three Trainings (Sila, Samadhi, Panna) structure
+- Mindfulness practices and Awakening Factors
+- Hindrances and their antidotes
+
+## [2024-07-05] Enhanced Interactive Concept Map Implementation
+
+Improved the interactive concept map visualization by:
+
+1. Implemented proper data flow between Eleventy and the visualization:
+   - Created conceptRelationships.js in the _data directory to make relationship data available to templates
+   - Added JSON versions of the data for frontend use
+   - Set up proper passthrough copying in Eleventy configuration
+
+2. Enhanced data integration:
+   - Simplified concept-data-script.njk partial to reliably load data
+   - Added support for all components including "Trạo cử hối quá" (Restlessness and Remorse) in the visualization
+   - Ensured proper relationship data is available for all concepts
+
+3. Fixed data flow issues:
+   - Added proper JSON data file creation
+   - Updated build system to copy files correctly
+   - Ensured consistent data structure between JSON and JS formats
+
+This enhancement ensures all newly created concept pages are properly displayed in the interactive visualization, including proper relationships between concepts like "Trạo cử hối quá" (Restlessness and Remorse) and its antidote "Định Giác Chi" (Concentration Awakening Factor).

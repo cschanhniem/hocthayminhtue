@@ -1,0 +1,75 @@
+---
+layout: layouts/base.njk
+title: Bản Đồ Khái Niệm Tương Tác - Kinh Nikaya
+description: Khám phá mối liên hệ giữa các khái niệm Phật giáo qua bản đồ tương tác
+---
+
+<div class="concept-map-container">
+  <div class="concept-map-header glass-card">
+    <h1>{{ title }}</h1>
+    <p class="subtitle">Khám phá các mối quan hệ giữa khái niệm trong giáo lý Phật giáo</p>
+    
+    <div class="concept-map-controls">
+      <div class="filter-controls">
+        <label for="concept-filter">Lọc khái niệm:</label>
+        <select id="concept-filter">
+          <option value="all">Tất cả khái niệm</option>
+          <option value="tudieuđe">Tứ Diệu Đế</option>
+          <option value="tamhoc">Tam Học</option>
+          <option value="batchanhđao">Bát Chánh Đạo</option>
+          <option value="tu-niem-xu">Tứ Niệm Xứ</option>
+          <option value="nam-trien-cai">Năm Triền Cái</option>
+          <option value="that-giac-chi">Thất Giác Chi</option>
+          <option value="tu-vo-luong-tam">Tứ Vô Lượng Tâm</option>
+        </select>
+      </div>
+      
+      <div class="view-controls">
+        <button id="reset-view" class="btn">Đặt lại góc nhìn</button>
+        <button id="toggle-labels" class="btn">Hiện/Ẩn nhãn</button>
+        <button id="toggle-connections" class="btn">Hiện/Ẩn liên kết</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="concept-map-visualization glass-card">
+    <div id="concept-map-svg"></div>
+  </div>
+  
+  <div class="concept-map-detail glass-card">
+    <div id="concept-detail-panel">
+      <h3>Chọn một khái niệm để xem chi tiết</h3>
+      <p>Nhấp vào bất kỳ khái niệm trên bản đồ để xem thông tin chi tiết và các mối liên hệ.</p>
+    </div>
+    
+    <div id="relationship-detail-panel" class="hidden">
+      <h3>Mối liên hệ</h3>
+      <p id="relationship-description"></p>
+    </div>
+  </div>
+  
+  <div class="concept-map-legend glass-card">
+    <h3>Chú thích</h3>
+    <div class="legend-items">
+      <div class="legend-item">
+        <span class="legend-color primary-concept"></span>
+        <span>Khái niệm chính</span>
+      </div>
+      <div class="legend-item">
+        <span class="legend-color related-concept"></span>
+        <span>Khái niệm liên quan</span>
+      </div>
+      <div class="legend-item">
+        <span class="legend-line primary-connection"></span>
+        <span>Liên kết chính</span>
+      </div>
+      <div class="legend-item">
+        <span class="legend-line secondary-connection"></span>
+        <span>Liên kết phụ</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="/js/concept-map.js"></script> 

@@ -31,6 +31,12 @@ module.exports = function(eleventyConfig) {
     return collectionApi.getFilteredByGlob("src/content/*.md");
   });
 
+  // Add JSON data files for interactive concept map
+  eleventyConfig.addPassthroughCopy({
+    "src/_data/concepts.json": "js/data/concepts.json",
+    "src/_data/concept-relationships.json": "js/data/concept-relationships.json"
+  });
+
   // Configure input and output directories
   return {
     dir: {
