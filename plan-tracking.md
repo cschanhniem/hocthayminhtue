@@ -225,3 +225,5 @@ Total progress: 20/20 completed (100%)
 - [ ] **Documentation Updates:**
   - [ ] Update `README.md` as new features are added or processes change.
   - [ ] Consider adding more detailed documentation within `src/_data/concepts.js` or separate content guidelines if the project grows complex.
+
+- [2024-06-09] Completed creation of all Năm Triền Cái component pages (Tham dục, Sân hận, Hôn trầm thụy miên, Trạo cử hối quá, Nghi) as per site-improvement-checklist.md

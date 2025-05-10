@@ -134,10 +134,9 @@ These pages focus on specific mental states and their development.
   - Content focus: Definition, practice methods, benefits
   - References: Tứ Vô Lượng Tâm
 
-- [ ] **Xả (Upekkha)** (Equanimity)
+- [x] **Xả (Upekkha)** (Equanimity)
   - Content focus: Definition, practice methods, benefits
   - References: Tứ Vô Lượng Tâm
-  - Template: Based on existing meditation content
 
 ### Năm Triền Cái Components
 - [ ] **Tham dục** (Sensual desire)

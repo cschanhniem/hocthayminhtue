@@ -45,14 +45,14 @@ According to the concepts.js structure and existing content, the following pages
   - [x] "Từ (Metta)" (check if metta-meditation.md covers this)
   - [x] "Bi (Karuna)" (content created)
   - [x] "Hỷ (Mudita)" (content created)
-  - [ ] "Xả (Upekkha)" (content not found)
+  - [x] "Xả (Upekkha)" (content created)
 
 - [ ] **Năm Triền Cái Components**
-  - [ ] "Tham dục" (content not found)
-  - [ ] "Sân hận" (content not found)
-  - [ ] "Hôn trầm thụy miên" (content not found)
-  - [ ] "Trạo cử hối quá" (content not found)
-  - [ ] "Nghi" (content not found)
+  - [x] "Tham dục" (content created)
+  - [x] "Sân hận" (content created)
+  - [x] "Hôn trầm thụy miên" (content created)
+  - [x] "Trạo cử hối quá" (content created)
+  - [x] "Nghi" (content created)
 
 - [ ] **Thất Giác Chi Components**
   - [ ] "Niệm" (content not found)
