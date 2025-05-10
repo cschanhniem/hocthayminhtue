@@ -8,20 +8,20 @@ This document outlines a comprehensive plan for improving the Nikaya website, wi
 ### Core Concepts
 According to the concepts.js structure and existing content, the following pages need to be verified:
 
-- [ ] **Khổ Đế Components**
-  - [x] "Cầu không được" (content not found)
-  - [x] "Thương yêu xa lìa" (content not found)
-  - [x] "Oán ghét gặp nhau" (content not found)
+- [x] **Khổ Đế Components**
+  - [x] "Cầu không được" (content created)
+  - [x] "Thương yêu xa lìa" (content created)
+  - [x] "Oán ghét gặp nhau" (content created)
   - [x] "Năm thủ uẩn" (content created)
 
-- [ ] **Tập Đế Components**
+- [x] **Tập Đế Components**
   - [x] "Ái dục" (check if content in duc-ai.md covers this)
-  - [x] "Tham ái" (content not found)
-  - [x] "Chấp thủ" (content not found)
+  - [x] "Tham ái" (content created)
+  - [x] "Chấp thủ" (content created)
 
-- [ ] **Diệt Đế Components** 
-  - [x] "Giải thoát khổ" (content not found)
-  - [x] "Đoạn tận ái" (content not found)
+- [x] **Diệt Đế Components** 
+  - [x] "Giải thoát khổ" (content created)
+  - [x] "Đoạn tận ái" (content created)
 
 - [x] **Giới Components**
   - [x] "Không sát sinh" (content created) 
@@ -30,13 +30,13 @@ According to the concepts.js structure and existing content, the following pages
   - [x] "Không nói dối" (content created)
   - [x] "Không uống rượu" (content created)
 
-- [ ] **Định Components**
+- [x] **Định Components**
   - [x] "Sơ thiền" (content created)
   - [x] "Nhị thiền" (content created)
   - [x] "Tam thiền" (content created)
   - [x] "Tứ thiền" (content created)
 
-- [ ] **Tuệ Components**
+- [x] **Tuệ Components**
   - [x] "Minh sát" (content created)
   - [x] "Trí tuệ" (content created)
   - [x] "Giác ngộ" (content created)

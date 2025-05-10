@@ -228,3 +228,6 @@ Total progress: 20/20 completed (100%)
 
 - [2024-06-09] Completed creation of all Năm Triền Cái component pages (Tham dục, Sân hận, Hôn trầm thụy miên, Trạo cử hối quá, Nghi) as per site-improvement-checklist.md
 - [2024-06-09] Completed creation of all Thất Giác Chi component pages (Niệm, Trạch pháp, Tinh tấn, Hỷ, Khinh an, Định, Xả) as per site-improvement-checklist.md
+- [2024-06-09] Completed creation of all Tập Đế component pages (Tham ái, Chấp thủ) and Diệt Đế component pages (Giải thoát khổ, Đoạn tận ái) as per site-improvement-checklist.md
+- [2024-06-09] Completed creation of all Khổ Đế component pages (Cầu không được, Thương yêu xa lìa, Oán ghét gặp nhau) as per site-improvement-checklist.md
+- [2024-06-09] Verified and marked all Định Components (Sơ thiền, Nhị thiền, Tam thiền, Tứ thiền) and Tuệ Components (Minh sát, Trí tuệ, Giác ngộ) as completed in the site-improvement-checklist.md
