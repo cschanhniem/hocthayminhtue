@@ -38,18 +38,18 @@ These pages are fundamental to the site's structure and should be created first 
   - References: Tập Đế, Tứ Diệu Đế
   - Template: Existing Tập Đế component pages
 
-- [ ] **Chấp thủ** (Clinging/Attachment)
+- [x] **Chấp thủ** (Clinging/Attachment)
   - Content focus: Definition, four types of clinging, relationship to Tham ái
   - References: Tập Đế, Tứ Diệu Đế
   - Template: Existing Tập Đế component pages
 
 ### Diệt Đế (Nirodha) Components
-- [ ] **Giải thoát khổ** (Liberation from suffering)
+- [x] **Giải thoát khổ** (Liberation from suffering)
   - Content focus: Definition, process, relationship to Niết-bàn
   - References: Diệt Đế, Tứ Diệu Đế
   - Template: Existing Diệt Đế component pages
 
-- [ ] **Đoạn tận ái** (Cessation of craving)
+- [x] **Đoạn tận ái** (Cessation of craving)
   - Content focus: Definition, methods, relationship to Tham ái
   - References: Diệt Đế, Tập Đế, Tứ Diệu Đế
   - Template: Existing Diệt Đế component pages
@@ -58,10 +58,9 @@ These pages are fundamental to the site's structure and should be created first 
 These pages are essential for understanding the practical path of Buddhism.
 
 ### Giới (Sila) Components
-- [ ] **Không sát sinh** (Non-killing)
+- [x] **Không sát sinh** (Non-killing)
   - Content focus: Definition, applications, benefits
   - References: Giới Học, Tam Học
-  - Template: Based on structure of other ethical teachings
 
 - [ ] **Không trộm cắp** (Non-stealing)
   - Content focus: Definition, applications, benefits

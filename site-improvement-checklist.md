@@ -17,15 +17,15 @@ According to the concepts.js structure and existing content, the following pages
 - [ ] **Tập Đế Components**
   - [x] "Ái dục" (check if content in duc-ai.md covers this)
   - [x] "Tham ái" (content not found)
-  - [ ] "Chấp thủ" (content not found)
+  - [x] "Chấp thủ" (content not found)
 
 - [ ] **Diệt Đế Components** 
-  - [ ] "Giải thoát khổ" (content not found)
-  - [ ] "Đoạn tận ái" (content not found)
+  - [x] "Giải thoát khổ" (content not found)
+  - [x] "Đoạn tận ái" (content not found)
 
 - [ ] **Giới Components**
-  - [ ] "Không sát sinh" (content not found) 
-  - [ ] "Không trộm cắp" (content not found)
+  - [x] "Không sát sinh" (content not found) 
+  - [x] "Không trộm cắp" (content not found)
   - [ ] "Không tà dâm" (content not found)
   - [ ] "Không nói dối" (content not found)
   - [ ] "Không uống rượu" (content not found)
