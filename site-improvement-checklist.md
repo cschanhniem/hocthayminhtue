@@ -12,7 +12,7 @@ According to the concepts.js structure and existing content, the following pages
   - [x] "Cầu không được" (content not found)
   - [x] "Thương yêu xa lìa" (content not found)
   - [x] "Oán ghét gặp nhau" (content not found)
-  - [x] "Năm thủ uẩn" (content not found)
+  - [x] "Năm thủ uẩn" (content created)
 
 - [ ] **Tập Đế Components**
   - [x] "Ái dục" (check if content in duc-ai.md covers this)
@@ -23,28 +23,28 @@ According to the concepts.js structure and existing content, the following pages
   - [x] "Giải thoát khổ" (content not found)
   - [x] "Đoạn tận ái" (content not found)
 
-- [ ] **Giới Components**
-  - [x] "Không sát sinh" (content not found) 
-  - [x] "Không trộm cắp" (content not found)
-  - [ ] "Không tà dâm" (content not found)
-  - [ ] "Không nói dối" (content not found)
-  - [ ] "Không uống rượu" (content not found)
+- [x] **Giới Components**
+  - [x] "Không sát sinh" (content created) 
+  - [x] "Không trộm cắp" (content created)
+  - [x] "Không tà dâm" (content created)
+  - [x] "Không nói dối" (content created)
+  - [x] "Không uống rượu" (content created)
 
 - [ ] **Định Components**
-  - [ ] "Sơ thiền" (content not found)
-  - [ ] "Nhị thiền" (content not found)
-  - [ ] "Tam thiền" (content not found)
-  - [ ] "Tứ thiền" (content not found)
+  - [x] "Sơ thiền" (content created)
+  - [x] "Nhị thiền" (content created)
+  - [x] "Tam thiền" (content created)
+  - [x] "Tứ thiền" (content created)
 
 - [ ] **Tuệ Components**
-  - [ ] "Minh sát" (content not found)
-  - [ ] "Trí tuệ" (content not found)
-  - [ ] "Giác ngộ" (content not found)
+  - [x] "Minh sát" (content created)
+  - [x] "Trí tuệ" (content created)
+  - [x] "Giác ngộ" (content created)
 
-- [ ] **Tứ Vô Lượng Tâm Components**
-  - [ ] "Từ (Metta)" (check if metta-meditation.md covers this)
-  - [ ] "Bi (Karuna)" (content not found)
-  - [ ] "Hỷ (Mudita)" (content not found)
+- [x] **Tứ Vô Lượng Tâm Components**
+  - [x] "Từ (Metta)" (check if metta-meditation.md covers this)
+  - [x] "Bi (Karuna)" (content created)
+  - [x] "Hỷ (Mudita)" (content created)
   - [ ] "Xả (Upekkha)" (content not found)
 
 - [ ] **Năm Triền Cái Components**

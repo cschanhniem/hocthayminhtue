@@ -22,7 +22,7 @@ These pages are fundamental to the site's structure and should be created first 
   - References: Khổ Đế, Tứ Diệu Đế
   - Template: Existing Khổ Đế component pages
 
-- [ ] **Năm thủ uẩn** (Five clinging aggregates)
+- [x] **Năm thủ uẩn** (Five clinging aggregates)
   - Content focus: Definition, relationship to Ngũ Uẩn, clinging vs. non-clinging
   - References: Khổ Đế, Ngũ Uẩn
   - Template: Existing Khổ Đế component pages
@@ -62,28 +62,28 @@ These pages are essential for understanding the practical path of Buddhism.
   - Content focus: Definition, applications, benefits
   - References: Giới Học, Tam Học
 
-- [ ] **Không trộm cắp** (Non-stealing)
+- [x] **Không trộm cắp** (Non-stealing)
   - Content focus: Definition, applications, benefits
   - References: Giới Học, Tam Học
   - Template: Based on structure of other ethical teachings
 
-- [ ] **Không tà dâm** (Sexual misconduct)
+- [x] **Không tà dâm** (Sexual misconduct)
   - Content focus: Definition, applications, benefits
   - References: Giới Học, Tam Học
   - Template: Based on structure of other ethical teachings
 
-- [ ] **Không nói dối** (Non-lying)
+- [x] **Không nói dối** (Non-lying)
   - Content focus: Definition, applications, benefits
   - References: Giới Học, Tam Học
   - Template: Based on structure of other ethical teachings
 
-- [ ] **Không uống rượu** (Non-intoxication)
+- [x] **Không uống rượu** (Non-intoxication)
   - Content focus: Definition, applications, benefits
   - References: Giới Học, Tam Học
   - Template: Based on structure of other ethical teachings
 
 ### Định (Samadhi) Components
-- [ ] **Sơ thiền** (First jhana)
+- [x] **Sơ thiền** (First jhana)
   - Content focus: Definition, characteristics, attainment methods
   - References: Định Học, Tam Học
   - Template: Based on structure of other meditation teachings
@@ -93,28 +93,27 @@ These pages are essential for understanding the practical path of Buddhism.
   - References: Định Học, Tam Học
   - Template: Based on structure of other meditation teachings
 
-- [ ] **Tam thiền** (Third jhana)
+- [x] **Tam thiền** (Third jhana)
   - Content focus: Definition, characteristics, attainment methods
   - References: Định Học, Tam Học
   - Template: Based on structure of other meditation teachings
 
-- [ ] **Tứ thiền** (Fourth jhana)
+- [x] **Tứ thiền** (Fourth jhana)
   - Content focus: Definition, characteristics, attainment methods
   - References: Định Học, Tam Học
   - Template: Based on structure of other meditation teachings
 
 ### Tuệ (Panna) Components
-- [ ] **Minh sát** (Insight)
+- [x] **Minh sát** (Insight)
   - Content focus: Definition, development, relationship to meditation
   - References: Tuệ Học, Tam Học
-  - Template: Based on structure of other wisdom teachings
 
-- [ ] **Trí tuệ** (Wisdom)
+- [x] **Trí tuệ** (Wisdom)
   - Content focus: Definition, development, types of wisdom
   - References: Tuệ Học, Tam Học
   - Template: Based on structure of other wisdom teachings
 
-- [ ] **Giác ngộ** (Enlightenment)
+- [x] **Giác ngộ** (Enlightenment)
   - Content focus: Definition, stages, relationship to Niết-bàn
   - References: Tuệ Học, Tam Học
   - Template: Based on structure of other wisdom teachings
@@ -123,20 +122,17 @@ These pages are essential for understanding the practical path of Buddhism.
 These pages focus on specific mental states and their development.
 
 ### Tứ Vô Lượng Tâm Components
-- [ ] **Từ (Metta)** (Loving-kindness)
+- [x] **Từ (Metta)** (Loving-kindness) - Covered by metta-meditation.md
   - Content focus: Definition, practice methods, benefits
   - References: Tứ Vô Lượng Tâm, metta-meditation.md
-  - Template: Based on existing meditation content
 
-- [ ] **Bi (Karuna)** (Compassion)
+- [x] **Bi (Karuna)** (Compassion)
   - Content focus: Definition, practice methods, benefits
   - References: Tứ Vô Lượng Tâm
-  - Template: Based on existing meditation content
 
-- [ ] **Hỷ (Mudita)** (Sympathetic joy)
+- [x] **Hỷ (Mudita)** (Sympathetic joy)
   - Content focus: Definition, practice methods, benefits
   - References: Tứ Vô Lượng Tâm
-  - Template: Based on existing meditation content
 
 - [ ] **Xả (Upekkha)** (Equanimity)
   - Content focus: Definition, practice methods, benefits
