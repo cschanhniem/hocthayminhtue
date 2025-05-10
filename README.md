@@ -1,6 +1,8 @@
 # Buddhist Concepts from Nikaya
 
-View live at: https://hocthayminhtue.pages.dev/
+View live at: 
+- https://hocthayminhtue.pages.dev/
+- https://hocthayminhtue.vercel.app/
 
 
 ## Project Overview
