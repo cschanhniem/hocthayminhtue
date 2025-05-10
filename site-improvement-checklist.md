@@ -55,13 +55,13 @@ According to the concepts.js structure and existing content, the following pages
   - [x] "Nghi" (content created)
 
 - [ ] **Thất Giác Chi Components**
-  - [ ] "Niệm" (content not found)
-  - [ ] "Trạch pháp" (content not found)
-  - [ ] "Tinh tấn" (content not found)
-  - [ ] "Hỷ" (content not found)
-  - [ ] "Khinh an" (content not found)
-  - [ ] "Định" (content not found)
-  - [ ] "Xả" (content not found)
+  - [x] "Niệm" (content created)
+  - [x] "Trạch pháp" (content created)
+  - [x] "Tinh tấn" (content created)
+  - [x] "Hỷ" (content created)
+  - [x] "Khinh an" (content created)
+  - [x] "Định" (content created)
+  - [x] "Xả" (content created)
 
 ### Additional Missing Pages
 - [ ] Check for any pages referenced in content but not yet created
