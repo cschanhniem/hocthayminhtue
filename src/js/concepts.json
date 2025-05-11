@@ -124,7 +124,7 @@
         "label": "Tứ Vô Lượng Tâm",
         "content": "tu-vo-luong-tam",
         "children": [
-          { "id": "tu", "label": "Từ (Metta)", "content": "tu" },
+          { "id": "tu-metta", "label": "Từ (Metta)", "content": "tu" },
           { "id": "bi-karuna", "label": "Bi (Karuna)", "content": "bi-karuna" },
           { "id": "hy-mudita", "label": "Hỷ (Mudita)", "content": "hy-mudita" },
           { "id": "xa-upekkha", "label": "Xả (Upekkha)", "content": "xa-upekkha" }

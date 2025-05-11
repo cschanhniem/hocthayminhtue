@@ -7,7 +7,12 @@
     { "source": "that-giac-chi", "target": "tu-vo-luong-tam", "strength": 3, "description": "Thất Giác Chi và Tứ Vô Lượng Tâm bổ trợ lẫn nhau" },
     { "source": "tudieuđe", "target": "thap-nhi-nhan-duyen", "strength": 4, "description": "Thập Nhị Nhân Duyên giải thích chi tiết về nguồn gốc khổ đau trong Tứ Diệu Đế" },
     { "source": "ngu-uan", "target": "khođe", "strength": 3, "description": "Ngũ Uẩn là phân tích chi tiết về Khổ Đế" },
-    { "source": "ba-dac-tinh", "target": "ngu-uan", "strength": 3, "description": "Ba Đặc Tính được thấy trong Ngũ Uẩn" }
+    { "source": "ba-dac-tinh", "target": "ngu-uan", "strength": 3, "description": "Ba Đặc Tính được thấy trong Ngũ Uẩn" },
+    { "source": "chanh-niem", "target": "tu-niem-xu", "strength": 5, "description": "Chánh Niệm được thực hành thông qua Tứ Niệm Xứ" },
+    { "source": "gioi", "target": "batchanhđao", "strength": 4, "description": "Giới là thành phần của Bát Chánh Đạo" },
+    { "source": "dinh", "target": "batchanhđao", "strength": 4, "description": "Định là thành phần của Bát Chánh Đạo" },
+    { "source": "tue", "target": "batchanhđao", "strength": 4, "description": "Tuệ là thành phần của Bát Chánh Đạo" },
+    { "source": "bon-thanh-qua", "target": "tudieuđe", "strength": 4, "description": "Bốn Thánh Quả là kết quả của việc thực hành theo Tứ Diệu Đế" }
   ],
   
   "secondaryConnections": [
@@ -62,6 +67,13 @@
     { "source": "tho", "target": "ngu-uan", "strength": 4, "description": "Thọ là một trong Ngũ Uẩn" },
     { "source": "tuong", "target": "ngu-uan", "strength": 4, "description": "Tưởng là một trong Ngũ Uẩn" },
     { "source": "hanh", "target": "ngu-uan", "strength": 4, "description": "Hành là một trong Ngũ Uẩn" },
-    { "source": "thuc", "target": "ngu-uan", "strength": 4, "description": "Thức là một trong Ngũ Uẩn" }
+    { "source": "thuc", "target": "ngu-uan", "strength": 4, "description": "Thức là một trong Ngũ Uẩn" },
+    
+    { "source": "daođe", "target": "batchanhđao", "strength": 5, "description": "Đạo Đế chính là Bát Chánh Đạo" },
+    { "source": "niem-giac-chi", "target": "chanh-niem", "strength": 4, "description": "Niệm Giác Chi tương đồng với Chánh Niệm" },
+    { "source": "tu-vo-luong-tam", "target": "chanh-tu-duy", "strength": 3, "description": "Tứ Vô Lượng Tâm hỗ trợ Chánh Tư Duy" },
+    { "source": "ba-dac-tinh", "target": "chanh-kien", "strength": 4, "description": "Ba Đặc Tính là phần cốt lõi của Chánh Kiến" },
+    { "source": "tu-metta", "target": "chanh-tu-duy", "strength": 3, "description": "Từ tâm hỗ trợ Chánh Tư Duy không hại" },
+    { "source": "tu-metta", "target": "tu-vo-luong-tam", "strength": 4, "description": "Từ là một trong Tứ Vô Lượng Tâm" }
   ]
 } 

@@ -197,6 +197,12 @@ description: [Brief description of the concept]
 
 ## Progress Tracking
 
+## [2023-10-31] Fixed Interactive Concept Map Node Relationships
+- Fixed the data file paths in concept-map.js (removed 'data/' subdirectory from fetch paths)
+- Resolved issue with duplicate ID "tu" in concepts.json (renamed "Từ (Metta)" to have ID "tu-metta")
+- Added missing relationships between concepts in concept-relationships.json
+- Updated README-concept-map.md to reflect the current implementation
+
 ## [2023-10-16] Verified Thất Giác Chi Component Pages
 
 Verified all seven components of Thất Giác Chi (Seven Factors of Awakening) were already created:

@@ -30,8 +30,8 @@ document.addEventListener('DOMContentLoaded', () => {
   
   // Load concept data
   Promise.all([
-    fetch('/js/data/concepts.json').then(response => response.json()),
-    fetch('/js/data/concept-relationships.json').then(response => response.json())
+    fetch('/js/concepts.json').then(response => response.json()),
+    fetch('/js/concept-relationships.json').then(response => response.json())
   ])
     .then(([conceptsData, relationshipsData]) => {
       // Fallback to hardcoded data if fetch fails
