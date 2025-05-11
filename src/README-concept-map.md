@@ -6,9 +6,10 @@ This document explains how the interactive concept map visualization is implemen
 
 The interactive concept map is a D3.js-based force-directed graph visualization that shows relationships between Buddhist concepts. Users can:
 
+- Click directly on nodes to navigate to their respective content pages
+- Hold Shift while clicking to view relationships without navigating away
 - Filter concepts by category
 - Zoom and pan the visualization
-- Click on nodes to see details and relationships
 - Toggle labels and connection lines
 - Reset the view
 

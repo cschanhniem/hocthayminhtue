@@ -352,3 +352,16 @@ Improved the interactive concept map visualization by:
    - Ensured consistent data structure between JSON and JS formats
 
 This enhancement ensures all newly created concept pages are properly displayed in the interactive visualization, including proper relationships between concepts like "Trạo cử hối quá" (Restlessness and Remorse) and its antidote "Định Giác Chi" (Concentration Awakening Factor).
+
+## Interactive Concept Map Enhancement - Direct Navigation
+
+**Completed: [Current Date]**
+
+Enhanced the interactive concept map to improve user experience:
+
+- Implemented direct navigation when clicking on concept nodes
+- Added Shift+click functionality to view relationships without navigating away
+- Updated user interface with clear usage instructions
+- Added visual hover effects to indicate clickability
+- Fixed filter control to work properly with the new navigation system
+- Updated documentation in README-concept-map.md

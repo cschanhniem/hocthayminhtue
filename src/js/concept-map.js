@@ -164,12 +164,52 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     
     function handleNodeClick(event, d) {
+      // Check if shift key is pressed for highlighting only
+      if (event.shiftKey) {
+        // Clear previous selections
+        d3.selectAll('.node').classed('selected', false).classed('related', false);
+        d3.selectAll('.link').classed('highlighted', false);
+        
+        // Highlight selected node
+        d3.select(this.parentNode).classed('selected', true);
+        
+        // Find related links and nodes
+        const relatedLinks = links.filter(link => 
+          link.source.id === d.id || link.target.id === d.id
+        );
+        
+        // Highlight related links
+        relatedLinks.forEach(link => {
+          d3.select(`line[data-source="${link.source.id}"][data-target="${link.target.id}"]`)
+            .classed('highlighted', true);
+          
+          // Highlight related nodes
+          const relatedNodeId = link.source.id === d.id ? link.target.id : link.source.id;
+          d3.select(`.node[data-id="${relatedNodeId}"]`).classed('related', true);
+        });
+        
+        // Update detail panel
+        updateDetailPanel(d, relatedLinks);
+      } else {
+        // If no shift key, navigate directly to content page
+        const conceptUrl = d.content ? `/content/${d.content}/` : null;
+        if (conceptUrl) {
+          window.location.href = conceptUrl;
+        } else {
+          // If no content URL available, just show the detail panel
+          handleNodeHighlight(event, d);
+        }
+      }
+    }
+    
+    // Separate function for highlighting without navigation
+    function handleNodeHighlight(event, d) {
       // Clear previous selections
       d3.selectAll('.node').classed('selected', false).classed('related', false);
       d3.selectAll('.link').classed('highlighted', false);
       
       // Highlight selected node
-      d3.select(this.parentNode).classed('selected', true);
+      d3.select(event.currentTarget.parentNode).classed('selected', true);
       
       // Find related links and nodes
       const relatedLinks = links.filter(link => 
@@ -244,12 +284,26 @@ document.addEventListener('DOMContentLoaded', () => {
           d3.selectAll('.node').classed('selected', false).classed('related', false);
           d3.selectAll('.link').classed('highlighted', false);
           document.getElementById('concept-detail-panel').innerHTML = 
-            '<h3>Chọn một khái niệm để xem chi tiết</h3>' +
-            '<p>Nhấp vào bất kỳ khái niệm trên bản đồ để xem thông tin chi tiết và các mối liên hệ.</p>';
+            '<h3>Hướng dẫn sử dụng</h3>' +
+            '<ul>' +
+            '<li><strong>Nhấp chuột</strong>: Đi đến trang chi tiết về khái niệm.</li>' +
+            '<li><strong>Nhấp chuột + Shift</strong>: Hiển thị mối quan hệ của khái niệm trên bản đồ.</li>' +
+            '<li><strong>Kéo</strong>: Di chuyển khái niệm trên bản đồ.</li>' +
+            '<li><strong>Cuộn chuột</strong>: Phóng to/Thu nhỏ bản đồ.</li>' +
+            '</ul>';
         } else {
           const selectedNode = nodeById[selectedId];
           if (selectedNode) {
-            d3.select(`.node[data-id="${selectedId}"] circle`).dispatch('click');
+            // Create a fake event with shiftKey set to true to trigger highlighting without navigation
+            const fakeEvent = { shiftKey: true };
+            
+            // Find the node circle element
+            const nodeElement = d3.select(`.node[data-id="${selectedId}"] circle`).node();
+            
+            // Call handleNodeClick with the fake event
+            if (nodeElement) {
+              handleNodeClick(fakeEvent, selectedNode);
+            }
           }
         }
       });
