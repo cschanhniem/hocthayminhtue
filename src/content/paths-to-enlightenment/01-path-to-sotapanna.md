@@ -1,4 +1,5 @@
 ---
+layout: layouts/content.njk
 title: "Con Đường Chứng Đắc Tu-đà-hoàn (Nhập Lưu)"
 description: "Hướng dẫn chi tiết về con đường tu tập để đoạn trừ ba kiết sử đầu tiên và chứng đắc quả vị Tu-đà-hoàn, bước chân đầu tiên vào dòng Thánh."
 tags: ["Thánh Quả", "Hướng dẫn Tu tập", "Tu-đà-hoàn", "Sotāpanna"]

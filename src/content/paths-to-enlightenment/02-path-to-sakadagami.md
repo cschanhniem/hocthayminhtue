@@ -1,4 +1,5 @@
 ---
+layout: layouts/content.njk
 title: "Con Đường Chứng Đắc Tư-đà-hàm (Nhất Lai)"
 description: "Hướng dẫn về con đường tu tập của một vị Thánh Nhập Lưu để làm suy yếu Tham và Sân, chứng đắc quả vị Tư-đà-hàm."
 tags: ["Thánh Quả", "Hướng dẫn Tu tập", "Tư-đà-hàm", "Sakadāgāmī"]

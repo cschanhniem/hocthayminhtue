@@ -1,4 +1,5 @@
 ---
+layout: layouts/content.njk
 title: "Con Đường Chứng Đắc A-na-hàm (Bất Lai)"
 description: "Hướng dẫn chi tiết về con đường tu tập để đoạn trừ hoàn toàn năm hạ phần kiết sử và chứng đắc quả vị A-na-hàm."
 tags: ["Thánh Quả", "Hướng dẫn Tu tập", "A-na-hàm", "Anāgāmī"]

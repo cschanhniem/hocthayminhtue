@@ -1,4 +1,5 @@
 ---
+layout: layouts/content.njk
 title: "Con Đường Chắc Chắn Chứng Đắc A-la-hán"
 description: "Một lộ trình tu tập toàn diện và chắc chắn, dựa trên sự phát triển song hành của Định và Tuệ (37 Phẩm Trợ Đạo) để đoạn trừ năm thượng phần kiết sử, đạt đến quả vị A-la-hán."
 tags: ["Thánh Quả", "Hướng dẫn Tu tập", "A-la-hán", "Giải Thoát", "Vipassanā", "Samatha"]
